@@ -1,0 +1,1201 @@
+Flight_ID,Airline,Departure_Airport,Arrival_Airport,Flight_Date,Scheduled_Departure_Time,Actual_Departure_Delay_Min,Scheduled_Arrival_Time,Arrival_Delay_Min,Flight_Duration_Min,Distance_KM,Weather_Condition,Delay_Reason,Gate_Number,Terminal,Passenger_Count,Day_of_Week,Month,On_Time_Status
+FL1000,Emirates,BOM,DEL,21-02-2025,01:23:49,102,00:19:51,120,330,4072,Fog,Technical,G21,T1,152,Tuesday,December,Delayed
+FL1001,Emirates,BOM,DXB,22-10-2025,23:13:31,121,03:01:24,129,274,4726,Cloudy,Weather,G11,T3,137,Thursday,January,Delayed
+FL1002,Air India,DEL,BOM,08-08-2025,05:02:37,116,04:11:52,141,211,430,Rain,Security,G22,T3,307,Monday,September,Delayed
+FL1003,Emirates,BLR,DXB,23-07-2025,14:00:50,87,17:43:07,120,353,2733,Cloudy,Crew Issue,G21,T1,210,Thursday,October,Delayed
+FL1004,Qatar Airways,HYD,SIN,21-09-2025,22:49:04,57,10:18:55,68,312,3204,Clear,Technical,G49,T3,108,Thursday,June,Delayed
+FL1005,Air India,HYD,BOM,23-04-2026,16:39:28,169,12:59:03,186,247,1275,Fog,Weather,G15,T1,239,Thursday,February,Delayed
+FL1006,SpiceJet,CCU,SIN,18-03-2025,07:06:57,174,02:39:55,207,114,1567,Cloudy,Air Traffic,G3,T1,184,Saturday,August,Delayed
+FL1007,IndiGo,BOM,HYD,23-12-2025,01:03:00,20,08:57:26,18,226,2735,Cloudy,Air Traffic,G25,T3,63,Friday,June,Delayed
+FL1008,IndiGo,BLR,DXB,29-08-2024,03:27:36,8,05:12:09,23,112,1663,Clear,Late Aircraft,G28,T1,313,Sunday,May,On-Time
+FL1009,Air India,BOM,SIN,31-12-2024,21:59:04,174,20:57:01,198,265,3452,Clear,Crew Issue,G36,T2,99,Thursday,November,Delayed
+FL1010,SpiceJet,CCU,BOM,24-02-2026,02:59:49,103,23:42:56,96,61,1321,Fog,Technical,G6,T3,103,Wednesday,December,Delayed
+FL1011,Emirates,BOM,CCU,20-04-2026,14:56:34,105,15:10:40,98,250,461,Rain,Security,G10,T3,319,Tuesday,March,Delayed
+FL1012,SpiceJet,SIN,BLR,25-07-2024,07:20:29,94,14:42:55,131,330,4851,Cloudy,Technical,G14,T3,264,Wednesday,January,Delayed
+FL1013,IndiGo,BLR,SIN,07-10-2024,09:24:30,39,12:54:11,49,267,637,Fog,Crew Issue,G47,T2,102,Monday,April,Delayed
+FL1014,Emirates,CCU,BOM,12-06-2025,05:16:07,23,03:50:22,38,276,679,Storm,Crew Issue,G45,T3,90,Thursday,March,Delayed
+FL1015,Air India,HYD,BOM,23-07-2025,05:06:56,156,18:19:38,160,124,2868,Cloudy,Security,G24,T2,178,Saturday,October,Delayed
+FL1016,Vistara,DXB,HYD,21-08-2025,21:54:15,135,16:51:24,148,122,691,Fog,Technical,G35,T1,338,Friday,August,Delayed
+FL1017,IndiGo,BOM,SIN,27-11-2024,03:52:03,122,13:01:05,116,290,3399,Clear,Technical,G7,T3,250,Tuesday,November,Delayed
+FL1018,IndiGo,DXB,HYD,24-05-2024,19:47:26,71,16:17:57,72,92,4898,Storm,Crew Issue,G23,T3,111,Thursday,September,Delayed
+FL1019,Qatar Airways,HYD,CCU,26-02-2025,13:13:42,36,21:17:33,60,231,3073,Clear,Late Aircraft,G27,T3,84,Monday,November,Delayed
+FL1020,Emirates,HYD,SIN,14-10-2025,22:06:20,100,18:51:43,136,190,4140,Fog,Weather,G5,T2,267,Thursday,March,Delayed
+FL1021,Emirates,SIN,DEL,15-05-2025,03:12:55,141,09:04:17,169,342,4788,Fog,Security,G15,T1,64,Friday,February,Delayed
+FL1022,Emirates,HYD,SIN,31-05-2024,16:30:31,89,13:24:00,120,238,1163,Cloudy,Security,G39,T1,290,Tuesday,June,Delayed
+FL1023,Qatar Airways,MAA,CCU,28-09-2025,22:19:22,51,15:50:23,72,281,1978,Cloudy,Weather,G43,T3,78,Wednesday,August,Delayed
+FL1024,SpiceJet,DEL,BOM,02-07-2025,22:35:53,35,20:25:29,37,219,2022,Fog,Technical,G22,T1,333,Tuesday,October,Delayed
+FL1025,Emirates,BOM,DEL,14-01-2026,11:38:38,65,10:09:05,96,104,1897,Storm,Weather,G6,T3,333,Sunday,March,Delayed
+FL1026,Vistara,MAA,DXB,09-05-2024,09:27:26,27,13:43:29,60,103,1663,Cloudy,Technical,G30,T2,177,Friday,October,Delayed
+FL1027,Akasa Air,DXB,BOM,12-12-2024,14:49:20,91,21:51:51,105,290,2537,Rain,Late Aircraft,G33,T2,332,Thursday,November,Delayed
+FL1028,Akasa Air,CCU,BLR,31-01-2026,21:13:52,120,16:54:53,122,292,1582,Storm,Weather,G39,T1,247,Tuesday,February,Delayed
+FL1029,Akasa Air,CCU,DEL,16-09-2024,07:35:26,154,15:13:13,152,224,963,Cloudy,Technical,G15,T3,209,Tuesday,January,Delayed
+FL1030,Emirates,BOM,DXB,07-03-2026,10:12:25,95,12:39:01,108,292,4063,Clear,Technical,G49,T1,101,Monday,June,Delayed
+FL1031,Air India,BOM,CCU,03-10-2024,17:42:00,11,22:08:04,39,172,1936,Fog,Late Aircraft,G49,T2,130,Tuesday,September,On-Time
+FL1032,Akasa Air,MAA,DXB,25-10-2024,08:48:09,112,21:26:08,103,189,1154,Cloudy,Crew Issue,G37,T1,273,Sunday,August,Delayed
+FL1033,IndiGo,DXB,BOM,28-11-2025,12:52:45,128,06:22:49,136,185,2007,Clear,Late Aircraft,G26,T2,209,Wednesday,July,Delayed
+FL1034,Qatar Airways,DXB,BLR,02-01-2025,14:36:19,159,03:14:01,152,262,3555,Clear,Late Aircraft,G17,T3,304,Saturday,February,Delayed
+FL1035,Emirates,DEL,HYD,29-11-2025,05:07:52,37,12:56:24,50,157,497,Fog,Weather,G22,T1,289,Tuesday,April,Delayed
+FL1036,Vistara,SIN,BOM,26-02-2025,05:31:23,143,22:08:59,165,260,1447,Rain,Air Traffic,G6,T2,308,Tuesday,February,Delayed
+FL1037,Qatar Airways,SIN,DXB,21-06-2024,07:42:49,147,05:09:08,172,206,3519,Cloudy,Weather,G32,T1,248,Saturday,September,Delayed
+FL1038,Qatar Airways,DEL,BOM,20-04-2026,22:26:57,51,22:13:21,81,187,2685,Rain,Technical,G40,T2,178,Thursday,August,Delayed
+FL1039,Vistara,BLR,SIN,18-06-2025,13:36:26,10,09:26:35,27,210,4361,Clear,Technical,G42,T2,148,Monday,July,On-Time
+FL1040,Qatar Airways,HYD,SIN,13-11-2025,16:17:51,6,17:38:19,11,171,1316,Storm,Air Traffic,G49,T2,51,Saturday,December,On-Time
+FL1041,Air India,SIN,BOM,17-11-2024,23:55:01,128,22:47:12,165,313,4023,Fog,Technical,G5,T1,86,Friday,December,Delayed
+FL1042,SpiceJet,DEL,DXB,26-12-2025,22:26:00,159,01:29:07,157,292,3470,Clear,Weather,G19,T3,257,Thursday,September,Delayed
+FL1043,Akasa Air,MAA,DEL,06-07-2025,06:41:07,130,22:32:28,139,211,3491,Clear,Technical,G33,T1,165,Friday,February,Delayed
+FL1044,IndiGo,BLR,HYD,02-01-2026,00:12:50,74,09:26:30,112,163,4223,Cloudy,Technical,G35,T3,161,Friday,January,Delayed
+FL1045,Emirates,BOM,HYD,04-05-2025,14:26:42,98,22:01:03,112,253,3169,Cloudy,Security,G35,T3,257,Wednesday,May,Delayed
+FL1046,Emirates,BLR,DXB,30-01-2026,17:07:59,168,08:15:44,193,220,4793,Fog,Technical,G21,T2,184,Thursday,March,Delayed
+FL1047,SpiceJet,HYD,BLR,22-06-2024,21:05:27,144,03:58:42,166,235,4855,Clear,Weather,G22,T2,71,Friday,October,Delayed
+FL1048,Akasa Air,BOM,DEL,13-05-2025,15:37:08,157,00:45:18,184,289,3736,Rain,Security,G8,T2,332,Tuesday,June,Delayed
+FL1049,SpiceJet,BOM,MAA,07-10-2025,03:10:36,26,10:48:34,49,336,1259,Fog,Technical,G33,T2,196,Sunday,September,Delayed
+FL1050,Qatar Airways,HYD,CCU,29-05-2024,23:32:51,3,02:58:36,27,251,3420,Cloudy,Weather,G17,T3,221,Sunday,September,On-Time
+FL1051,IndiGo,HYD,DXB,13-10-2024,17:42:29,157,11:01:44,175,105,3744,Rain,Air Traffic,G6,T1,148,Monday,December,Delayed
+FL1052,SpiceJet,MAA,BLR,10-10-2025,19:54:08,123,15:38:59,153,96,2627,Cloudy,Technical,G29,T3,230,Wednesday,April,Delayed
+FL1053,Vistara,HYD,CCU,11-05-2025,21:35:23,94,06:36:45,118,247,1439,Fog,Weather,G21,T1,210,Saturday,July,Delayed
+FL1054,IndiGo,HYD,DEL,26-11-2024,05:36:57,66,13:52:44,73,340,869,Fog,Technical,G3,T3,223,Wednesday,March,Delayed
+FL1055,Emirates,SIN,HYD,26-07-2025,03:27:32,23,10:39:20,62,347,4314,Storm,Security,G22,T1,200,Monday,February,Delayed
+FL1056,IndiGo,MAA,CCU,29-05-2025,08:12:24,126,23:46:36,142,332,3475,Fog,Security,G33,T3,348,Tuesday,July,Delayed
+FL1057,SpiceJet,MAA,DEL,19-06-2024,02:25:48,175,10:38:22,203,229,3106,Fog,Weather,G26,T2,62,Tuesday,November,Delayed
+FL1058,IndiGo,BLR,DXB,13-07-2024,17:55:00,59,23:38:03,55,95,4415,Fog,Security,G1,T2,313,Friday,December,Delayed
+FL1059,Qatar Airways,MAA,BOM,18-09-2024,13:41:50,143,07:29:29,146,202,3074,Rain,Technical,G22,T2,100,Monday,March,Delayed
+FL1060,Vistara,CCU,SIN,29-01-2025,02:33:05,152,05:44:50,163,117,2015,Rain,Air Traffic,G42,T1,320,Sunday,December,Delayed
+FL1061,Qatar Airways,BOM,HYD,09-04-2026,05:29:16,53,12:19:55,85,160,3424,Clear,Crew Issue,G44,T1,157,Tuesday,August,Delayed
+FL1062,Qatar Airways,CCU,MAA,29-05-2025,15:19:51,4,13:56:47,32,255,1176,Rain,Technical,G32,T1,96,Saturday,April,On-Time
+FL1063,SpiceJet,DXB,MAA,13-08-2025,02:55:18,98,10:05:57,127,203,4664,Clear,Air Traffic,G42,T2,207,Saturday,September,Delayed
+FL1064,Qatar Airways,DXB,CCU,26-12-2024,05:54:33,146,09:47:53,152,179,1130,Cloudy,Air Traffic,G19,T1,141,Monday,May,Delayed
+FL1065,SpiceJet,MAA,CCU,11-02-2026,05:10:50,57,20:51:27,72,288,416,Clear,Weather,G23,T3,176,Thursday,June,Delayed
+FL1066,Akasa Air,CCU,BLR,05-09-2024,10:31:39,136,22:45:50,137,188,1381,Cloudy,Weather,G1,T2,288,Friday,April,Delayed
+FL1067,Emirates,HYD,DEL,13-04-2025,03:50:37,33,06:32:53,54,185,859,Storm,Weather,G25,T3,286,Sunday,September,Delayed
+FL1068,Vistara,BLR,MAA,27-02-2025,09:50:12,116,17:27:27,106,331,4370,Clear,Late Aircraft,G5,T2,327,Friday,June,Delayed
+FL1069,SpiceJet,BOM,DXB,05-09-2024,16:42:11,92,08:25:58,84,135,4549,Cloudy,Air Traffic,G16,T3,135,Thursday,June,Delayed
+FL1070,SpiceJet,DXB,CCU,25-11-2025,11:24:29,28,21:04:16,31,279,3418,Cloudy,Technical,G49,T1,143,Thursday,November,Delayed
+FL1071,Emirates,DXB,CCU,15-08-2025,14:49:23,143,14:45:39,158,98,1935,Rain,Security,G33,T3,303,Wednesday,July,Delayed
+FL1072,SpiceJet,DEL,BLR,06-08-2024,15:12:23,100,01:02:40,112,309,3149,Rain,Crew Issue,G31,T3,299,Friday,November,Delayed
+FL1073,Vistara,CCU,BLR,16-09-2025,09:52:13,146,14:21:21,167,316,1315,Storm,Late Aircraft,G5,T1,53,Friday,August,Delayed
+FL1074,IndiGo,MAA,DXB,30-04-2025,08:19:57,15,21:28:57,28,306,4892,Fog,Security,G28,T3,209,Saturday,October,On-Time
+FL1075,Qatar Airways,CCU,DEL,08-08-2025,01:38:43,83,19:31:48,96,237,4046,Rain,Late Aircraft,G33,T2,228,Tuesday,April,Delayed
+FL1076,IndiGo,MAA,DEL,12-02-2026,11:02:04,170,10:29:21,196,327,4213,Rain,Crew Issue,G43,T3,93,Sunday,February,Delayed
+FL1077,Emirates,SIN,BLR,25-03-2026,12:51:03,28,09:43:07,30,71,3673,Cloudy,Technical,G2,T3,302,Saturday,July,Delayed
+FL1078,Air India,SIN,BLR,23-06-2024,18:43:08,34,04:45:38,46,149,1075,Rain,Late Aircraft,G29,T3,139,Monday,February,Delayed
+FL1079,Air India,DXB,BOM,25-11-2025,02:19:02,161,05:13:24,191,255,1125,Cloudy,Crew Issue,G45,T1,124,Friday,April,Delayed
+FL1080,Air India,BOM,HYD,07-03-2026,12:51:16,156,01:11:37,181,276,3648,Storm,Late Aircraft,G36,T3,241,Friday,October,Delayed
+FL1081,Vistara,CCU,SIN,20-09-2024,10:07:58,176,12:18:33,200,95,2443,Cloudy,Late Aircraft,G24,T3,200,Thursday,September,Delayed
+FL1082,Emirates,SIN,BOM,28-09-2025,20:58:23,36,21:05:11,37,242,2626,Storm,Crew Issue,G25,T2,335,Sunday,April,Delayed
+FL1083,Qatar Airways,HYD,SIN,26-07-2025,00:06:52,16,21:36:35,54,121,895,Cloudy,Crew Issue,G48,T3,266,Tuesday,May,Delayed
+FL1084,Emirates,SIN,DEL,09-11-2025,00:08:42,85,20:32:59,87,246,695,Fog,Technical,G41,T2,125,Wednesday,June,Delayed
+FL1085,Air India,BOM,MAA,26-07-2025,18:56:22,8,05:18:49,4,343,1017,Rain,Crew Issue,G31,T3,101,Tuesday,December,On-Time
+FL1086,Vistara,BLR,DEL,01-09-2024,01:01:54,82,06:41:24,118,203,3440,Storm,Air Traffic,G35,T3,74,Thursday,July,Delayed
+FL1087,Qatar Airways,DEL,MAA,03-07-2024,14:03:05,179,18:46:45,189,112,3522,Storm,Crew Issue,G16,T3,106,Saturday,January,Delayed
+FL1088,IndiGo,DXB,BLR,30-03-2026,00:16:17,38,14:23:33,72,240,3282,Fog,Air Traffic,G14,T2,272,Sunday,July,Delayed
+FL1089,Air India,BLR,HYD,14-09-2024,10:35:56,121,11:15:55,115,222,1032,Fog,Crew Issue,G43,T2,195,Monday,July,Delayed
+FL1090,Emirates,CCU,DXB,27-12-2025,00:10:56,75,11:48:49,73,133,1253,Storm,Late Aircraft,G44,T1,302,Sunday,August,Delayed
+FL1091,Akasa Air,MAA,CCU,10-07-2025,08:57:57,6,22:52:35,41,200,1491,Clear,Crew Issue,G42,T3,332,Friday,November,On-Time
+FL1092,Emirates,DEL,BOM,24-02-2026,07:47:41,121,14:14:34,112,64,3536,Storm,Technical,G38,T2,185,Tuesday,January,Delayed
+FL1093,SpiceJet,HYD,BLR,28-08-2024,11:19:12,108,13:21:41,98,204,810,Rain,Crew Issue,G7,T2,266,Wednesday,July,Delayed
+FL1094,Qatar Airways,HYD,SIN,20-07-2024,10:40:32,44,18:02:16,37,351,3441,Storm,Air Traffic,G31,T1,324,Thursday,January,Delayed
+FL1095,Air India,DEL,BLR,05-06-2025,05:12:53,107,05:38:39,135,150,1013,Clear,Late Aircraft,G26,T1,68,Sunday,January,Delayed
+FL1096,Qatar Airways,BLR,BOM,13-08-2024,07:21:58,38,22:08:14,30,232,1543,Clear,Security,G20,T1,50,Tuesday,March,Delayed
+FL1097,IndiGo,SIN,CCU,15-02-2025,18:19:11,130,10:37:54,132,249,804,Cloudy,Technical,G49,T2,166,Saturday,May,Delayed
+FL1098,Akasa Air,CCU,BOM,09-05-2025,05:10:05,133,04:49:56,166,232,2152,Cloudy,Late Aircraft,G47,T3,198,Monday,March,Delayed
+FL1099,Akasa Air,HYD,DEL,06-03-2025,06:47:00,79,01:29:11,89,262,3111,Clear,Air Traffic,G37,T3,213,Saturday,July,Delayed
+FL1100,Air India,DXB,CCU,29-08-2024,03:13:14,146,04:05:20,155,106,1556,Clear,Security,G49,T3,63,Sunday,November,Delayed
+FL1101,Emirates,BLR,DEL,21-01-2026,07:21:50,142,14:09:38,162,60,1696,Fog,Late Aircraft,G3,T3,193,Sunday,February,Delayed
+FL1102,Akasa Air,DEL,BLR,11-01-2026,05:17:57,11,14:17:08,10,283,3131,Storm,Late Aircraft,G8,T2,205,Monday,September,On-Time
+FL1103,Qatar Airways,CCU,DEL,24-06-2024,01:05:14,116,02:13:33,113,181,4485,Storm,Crew Issue,G8,T1,235,Thursday,June,Delayed
+FL1104,Air India,SIN,CCU,19-06-2025,18:00:07,59,12:07:20,98,87,3079,Storm,Technical,G37,T3,90,Friday,November,Delayed
+FL1105,Qatar Airways,HYD,CCU,10-01-2026,14:10:24,154,10:50:08,160,260,2808,Cloudy,Crew Issue,G28,T2,289,Thursday,December,Delayed
+FL1106,Qatar Airways,HYD,MAA,27-11-2024,09:44:07,156,22:41:05,158,105,3624,Rain,Weather,G6,T2,131,Thursday,April,Delayed
+FL1107,Akasa Air,SIN,HYD,09-01-2025,22:22:05,114,09:28:50,108,69,3171,Storm,Air Traffic,G30,T1,291,Thursday,June,Delayed
+FL1108,Air India,MAA,HYD,16-02-2026,17:40:55,108,21:32:34,102,178,1315,Fog,Air Traffic,G33,T2,114,Wednesday,October,Delayed
+FL1109,IndiGo,HYD,CCU,10-03-2026,18:46:35,145,02:27:36,166,298,4458,Cloudy,Technical,G25,T1,332,Tuesday,December,Delayed
+FL1110,Akasa Air,DXB,BLR,27-12-2025,09:36:37,176,11:20:12,178,157,2452,Rain,Late Aircraft,G35,T2,55,Saturday,December,Delayed
+FL1111,Qatar Airways,SIN,BLR,23-02-2025,09:37:33,94,23:12:31,88,318,1760,Clear,Weather,G23,T2,102,Tuesday,July,Delayed
+FL1112,Emirates,BLR,MAA,03-09-2025,03:22:14,164,18:34:32,163,142,2348,Cloudy,Air Traffic,G45,T2,254,Friday,September,Delayed
+FL1113,Emirates,CCU,BLR,25-08-2024,15:09:52,3,13:28:38,0,347,2381,Cloudy,Air Traffic,G28,T2,144,Saturday,August,On-Time
+FL1114,SpiceJet,HYD,MAA,02-07-2025,06:38:31,71,18:14:20,99,213,549,Rain,Weather,G34,T3,167,Tuesday,June,Delayed
+FL1115,Akasa Air,BOM,DXB,12-12-2025,15:05:36,2,08:06:01,41,327,2284,Rain,Technical,G44,T1,271,Saturday,August,On-Time
+FL1116,Akasa Air,HYD,DXB,10-01-2025,06:28:56,56,04:56:58,62,171,3114,Cloudy,Security,G47,T2,256,Monday,April,Delayed
+FL1117,SpiceJet,HYD,BOM,02-08-2025,03:24:18,84,11:55:36,87,125,2422,Rain,Air Traffic,G39,T1,241,Saturday,September,Delayed
+FL1118,IndiGo,MAA,BLR,26-08-2024,05:36:28,37,13:18:38,76,157,1658,Clear,Security,G27,T2,298,Saturday,March,Delayed
+FL1119,Qatar Airways,SIN,DEL,07-11-2024,23:14:52,165,18:55:37,187,89,3477,Clear,Security,G17,T2,182,Thursday,August,Delayed
+FL1120,Air India,SIN,MAA,01-05-2025,09:21:14,28,05:54:29,21,197,3772,Clear,Air Traffic,G10,T2,322,Monday,February,Delayed
+FL1121,IndiGo,DXB,BLR,06-06-2024,07:21:19,83,05:29:37,96,128,2893,Cloudy,Late Aircraft,G6,T3,102,Monday,March,Delayed
+FL1122,Akasa Air,MAA,SIN,11-05-2025,08:05:40,125,15:47:36,157,102,4123,Fog,Weather,G11,T1,160,Monday,September,Delayed
+FL1123,Akasa Air,DXB,HYD,21-11-2025,22:55:57,150,07:01:13,155,154,3745,Cloudy,Technical,G16,T3,57,Thursday,August,Delayed
+FL1124,Qatar Airways,SIN,MAA,09-05-2024,08:14:03,131,18:54:12,160,243,580,Cloudy,Crew Issue,G3,T2,244,Friday,October,Delayed
+FL1125,Emirates,DEL,CCU,24-10-2025,04:09:18,154,18:41:37,172,219,2269,Clear,Technical,G19,T3,326,Tuesday,May,Delayed
+FL1126,Air India,BOM,MAA,24-04-2026,01:29:16,4,08:45:12,11,151,4200,Rain,Security,G22,T1,50,Tuesday,January,On-Time
+FL1127,Emirates,DXB,BLR,15-11-2025,08:25:03,132,23:20:49,162,71,2693,Cloudy,Crew Issue,G46,T2,83,Monday,April,Delayed
+FL1128,SpiceJet,HYD,DXB,22-10-2025,23:45:17,176,01:38:30,179,277,2596,Storm,Weather,G47,T3,170,Tuesday,May,Delayed
+FL1129,IndiGo,BLR,HYD,15-07-2024,11:31:43,55,00:26:10,74,166,3178,Cloudy,Technical,G48,T3,110,Tuesday,May,Delayed
+FL1130,IndiGo,MAA,DEL,13-09-2024,23:07:13,80,10:44:47,95,351,2355,Rain,Air Traffic,G49,T3,302,Saturday,October,Delayed
+FL1131,IndiGo,HYD,BLR,16-02-2025,07:12:47,179,02:33:02,183,186,355,Storm,Late Aircraft,G22,T2,63,Saturday,July,Delayed
+FL1132,Akasa Air,HYD,CCU,04-08-2025,09:48:16,27,05:58:16,39,137,3587,Storm,Crew Issue,G2,T1,203,Friday,January,Delayed
+FL1133,SpiceJet,DXB,CCU,31-03-2025,09:08:26,13,06:17:38,9,62,1946,Cloudy,Air Traffic,G23,T1,287,Monday,April,On-Time
+FL1134,Emirates,DEL,SIN,30-11-2025,00:15:10,106,08:34:59,142,333,2206,Fog,Security,G15,T1,241,Sunday,March,Delayed
+FL1135,Emirates,SIN,HYD,23-04-2025,17:15:47,118,23:13:36,144,87,1013,Storm,Air Traffic,G39,T1,322,Friday,July,Delayed
+FL1136,Vistara,SIN,DEL,27-10-2025,04:34:56,85,04:29:35,100,185,4932,Fog,Crew Issue,G17,T2,62,Wednesday,November,Delayed
+FL1137,Air India,BOM,SIN,23-11-2025,08:20:14,24,06:59:13,17,126,532,Fog,Crew Issue,G45,T3,195,Thursday,May,Delayed
+FL1138,Qatar Airways,DXB,SIN,19-03-2026,13:36:32,110,11:40:46,135,170,1793,Cloudy,Weather,G34,T2,160,Monday,June,Delayed
+FL1139,IndiGo,HYD,MAA,29-07-2025,11:35:48,7,11:36:38,36,295,2772,Storm,Security,G37,T1,55,Saturday,September,On-Time
+FL1140,IndiGo,SIN,BLR,30-03-2026,08:50:51,179,23:04:05,194,285,3814,Rain,Security,G45,T2,278,Friday,August,Delayed
+FL1141,IndiGo,SIN,DXB,27-12-2025,02:04:14,120,04:42:57,142,209,2624,Rain,Air Traffic,G6,T3,119,Tuesday,May,Delayed
+FL1142,Vistara,SIN,CCU,07-07-2025,14:42:06,111,07:43:30,104,154,4035,Clear,Weather,G9,T3,296,Friday,April,Delayed
+FL1143,Akasa Air,MAA,BLR,02-03-2025,14:01:22,130,21:45:37,150,99,4624,Clear,Security,G36,T2,272,Monday,April,Delayed
+FL1144,IndiGo,BOM,HYD,24-02-2025,16:07:05,5,15:17:42,0,279,4470,Rain,Crew Issue,G4,T3,183,Wednesday,September,On-Time
+FL1145,Qatar Airways,HYD,BLR,25-01-2025,21:06:40,117,04:33:17,155,153,2851,Storm,Crew Issue,G38,T1,111,Thursday,September,Delayed
+FL1146,Air India,MAA,HYD,30-06-2024,20:40:50,78,12:59:54,78,85,1441,Cloudy,Security,G4,T3,324,Tuesday,February,Delayed
+FL1147,Qatar Airways,HYD,SIN,22-11-2025,04:24:25,19,04:43:55,57,199,4954,Storm,Air Traffic,G1,T3,139,Wednesday,January,Delayed
+FL1148,SpiceJet,HYD,DXB,23-10-2024,14:13:35,141,10:20:18,168,352,2217,Cloudy,Security,G11,T3,308,Thursday,March,Delayed
+FL1149,Vistara,SIN,HYD,02-10-2024,06:05:54,160,12:00:18,155,237,2339,Fog,Air Traffic,G10,T3,310,Sunday,September,Delayed
+FL1150,SpiceJet,DXB,BLR,27-11-2025,17:55:40,150,17:53:39,149,231,2360,Rain,Late Aircraft,G40,T1,179,Friday,July,Delayed
+FL1151,Qatar Airways,BLR,SIN,18-09-2024,18:17:27,83,13:16:26,73,160,2676,Storm,Weather,G17,T2,314,Saturday,August,Delayed
+FL1152,Emirates,DXB,BLR,26-03-2025,07:58:48,142,09:33:56,155,97,2338,Rain,Crew Issue,G35,T1,143,Tuesday,September,Delayed
+FL1153,IndiGo,CCU,SIN,14-02-2026,04:40:23,94,11:22:15,132,128,4327,Storm,Weather,G44,T3,186,Thursday,January,Delayed
+FL1154,Qatar Airways,MAA,HYD,22-03-2025,08:43:55,161,06:05:32,162,94,2860,Rain,Weather,G40,T2,109,Sunday,May,Delayed
+FL1155,Emirates,CCU,HYD,25-03-2026,10:24:24,63,17:43:06,81,326,1172,Storm,Late Aircraft,G37,T1,319,Sunday,June,Delayed
+FL1156,Emirates,DXB,MAA,20-11-2024,10:35:05,59,17:51:19,78,350,3198,Storm,Security,G14,T1,111,Friday,February,Delayed
+FL1157,Emirates,BLR,DXB,01-10-2024,15:40:12,131,20:01:39,145,296,1365,Fog,Technical,G25,T3,345,Monday,July,Delayed
+FL1158,Emirates,BOM,SIN,31-07-2024,00:50:55,71,11:46:35,99,163,3897,Clear,Crew Issue,G32,T1,228,Saturday,May,Delayed
+FL1159,SpiceJet,DEL,BOM,16-07-2024,19:02:13,124,16:37:00,151,82,4970,Clear,Air Traffic,G15,T2,202,Wednesday,July,Delayed
+FL1160,Akasa Air,MAA,BOM,03-06-2025,09:14:36,144,18:11:19,166,163,2451,Storm,Security,G39,T3,247,Sunday,March,Delayed
+FL1161,IndiGo,MAA,BOM,26-09-2024,21:36:13,133,20:44:47,125,238,2335,Cloudy,Crew Issue,G30,T3,280,Saturday,April,Delayed
+FL1162,Air India,SIN,HYD,08-12-2025,15:28:12,154,03:29:07,179,216,2897,Rain,Crew Issue,G33,T3,338,Wednesday,August,Delayed
+FL1163,IndiGo,HYD,DXB,16-04-2026,09:44:28,85,13:38:47,76,69,4912,Storm,Air Traffic,G10,T3,167,Friday,March,Delayed
+FL1164,SpiceJet,BOM,HYD,10-03-2026,22:08:31,37,09:29:34,39,218,3528,Cloudy,Air Traffic,G8,T3,310,Thursday,December,Delayed
+FL1165,Qatar Airways,HYD,BLR,15-06-2024,02:53:44,156,04:24:14,192,232,4525,Fog,Technical,G27,T2,144,Sunday,August,Delayed
+FL1166,Vistara,BOM,MAA,09-09-2024,13:15:21,114,17:26:25,139,351,1093,Cloudy,Air Traffic,G43,T3,332,Wednesday,December,Delayed
+FL1167,Qatar Airways,HYD,DEL,27-05-2024,22:54:50,68,12:38:29,77,70,3625,Storm,Air Traffic,G10,T1,87,Friday,November,Delayed
+FL1168,Emirates,DEL,CCU,16-09-2024,00:43:32,133,06:19:17,130,82,1114,Storm,Air Traffic,G26,T1,267,Friday,June,Delayed
+FL1169,Air India,BLR,DXB,26-12-2024,13:49:42,140,16:19:14,169,269,1284,Cloudy,Air Traffic,G33,T3,160,Sunday,December,Delayed
+FL1170,IndiGo,MAA,DXB,14-11-2025,18:50:58,103,18:34:44,135,192,3235,Clear,Air Traffic,G37,T2,176,Monday,October,Delayed
+FL1171,Air India,CCU,DXB,13-02-2026,19:35:14,105,03:44:39,143,151,3749,Clear,Air Traffic,G9,T2,100,Saturday,July,Delayed
+FL1172,Air India,MAA,BOM,26-07-2024,05:29:35,28,19:08:37,31,355,3668,Cloudy,Air Traffic,G22,T3,316,Friday,May,Delayed
+FL1173,Qatar Airways,MAA,BLR,11-03-2026,04:38:00,150,20:15:38,140,160,3776,Storm,Air Traffic,G26,T3,159,Sunday,June,Delayed
+FL1174,IndiGo,BOM,HYD,24-05-2024,22:20:38,163,03:17:51,175,60,2154,Rain,Technical,G40,T3,198,Saturday,November,Delayed
+FL1175,Qatar Airways,DXB,SIN,27-12-2025,16:55:39,174,13:52:40,172,196,501,Cloudy,Air Traffic,G26,T1,340,Sunday,July,Delayed
+FL1176,Akasa Air,DEL,BLR,01-03-2025,09:08:15,62,13:17:51,76,149,2422,Clear,Crew Issue,G38,T2,259,Saturday,December,Delayed
+FL1177,Vistara,HYD,CCU,20-02-2026,15:21:56,161,12:20:00,177,76,1254,Fog,Weather,G44,T3,300,Tuesday,August,Delayed
+FL1178,Akasa Air,DEL,CCU,20-05-2025,19:40:56,178,09:24:09,191,84,2290,Fog,Security,G6,T1,210,Saturday,February,Delayed
+FL1179,SpiceJet,SIN,CCU,12-07-2024,23:15:47,176,14:08:37,194,122,3013,Storm,Weather,G28,T1,98,Monday,January,Delayed
+FL1180,IndiGo,HYD,BLR,17-11-2024,17:11:49,80,12:25:30,89,236,4543,Clear,Technical,G22,T3,112,Tuesday,July,Delayed
+FL1181,Emirates,SIN,MAA,09-07-2025,22:00:17,103,08:37:58,141,316,2059,Cloudy,Crew Issue,G13,T3,264,Saturday,December,Delayed
+FL1182,Emirates,MAA,HYD,27-11-2024,17:02:14,178,17:00:35,186,91,3017,Clear,Crew Issue,G29,T3,335,Thursday,May,Delayed
+FL1183,SpiceJet,DEL,DXB,18-10-2024,02:57:52,143,19:00:40,172,78,2365,Rain,Crew Issue,G1,T2,127,Tuesday,June,Delayed
+FL1184,SpiceJet,BOM,DXB,19-11-2025,11:36:32,114,00:52:44,150,253,2461,Cloudy,Late Aircraft,G30,T2,215,Monday,July,Delayed
+FL1185,IndiGo,HYD,BOM,05-10-2025,15:43:37,178,10:28:02,171,323,4450,Storm,Weather,G39,T3,180,Tuesday,November,Delayed
+FL1186,Qatar Airways,DEL,BOM,18-06-2025,22:16:28,31,23:45:30,30,221,3751,Fog,Technical,G33,T1,136,Sunday,October,Delayed
+FL1187,Qatar Airways,BLR,DEL,06-04-2026,15:35:39,54,07:30:48,71,347,3762,Cloudy,Technical,G29,T3,57,Tuesday,April,Delayed
+FL1188,Air India,CCU,SIN,22-05-2024,07:15:58,64,21:58:58,56,314,627,Cloudy,Weather,G47,T2,278,Sunday,March,Delayed
+FL1189,SpiceJet,MAA,CCU,19-01-2026,13:18:42,66,16:37:17,88,151,3354,Rain,Weather,G8,T3,340,Sunday,January,Delayed
+FL1190,SpiceJet,MAA,DEL,23-11-2024,17:02:06,95,03:08:22,108,137,1611,Rain,Security,G46,T2,214,Monday,March,Delayed
+FL1191,Air India,HYD,DEL,06-02-2026,11:25:12,141,02:30:35,161,66,4725,Storm,Security,G7,T1,210,Saturday,February,Delayed
+FL1192,Qatar Airways,SIN,BLR,25-03-2025,06:43:25,150,22:28:54,160,206,3995,Fog,Security,G19,T3,85,Monday,August,Delayed
+FL1193,IndiGo,BLR,CCU,14-12-2025,05:13:23,28,17:56:31,35,61,2220,Cloudy,Air Traffic,G47,T2,246,Saturday,January,Delayed
+FL1194,Qatar Airways,DEL,HYD,09-08-2024,21:56:48,147,02:52:45,147,293,1709,Storm,Crew Issue,G3,T3,168,Monday,August,Delayed
+FL1195,IndiGo,SIN,DEL,07-11-2025,16:05:47,139,04:21:52,148,320,1104,Fog,Security,G38,T1,305,Monday,March,Delayed
+FL1196,Emirates,HYD,CCU,25-09-2025,08:40:53,136,18:21:15,159,112,3877,Cloudy,Security,G22,T3,329,Wednesday,July,Delayed
+FL1197,Akasa Air,HYD,BLR,26-09-2025,04:07:10,80,19:22:37,79,217,2979,Cloudy,Crew Issue,G46,T1,264,Sunday,December,Delayed
+FL1198,Emirates,BOM,SIN,08-04-2025,06:21:27,127,11:54:17,148,268,4253,Cloudy,Late Aircraft,G17,T1,63,Thursday,August,Delayed
+FL1199,SpiceJet,BLR,HYD,23-12-2025,19:02:54,8,13:03:33,37,296,1604,Storm,Crew Issue,G39,T2,250,Saturday,February,On-Time
+FL1200,SpiceJet,CCU,BLR,17-04-2025,00:50:57,21,14:25:40,53,63,741,Fog,Air Traffic,G29,T1,158,Saturday,August,Delayed
+FL1201,Qatar Airways,BOM,DEL,15-06-2025,23:44:01,97,23:11:14,109,352,374,Clear,Weather,G6,T2,195,Monday,December,Delayed
+FL1202,Air India,CCU,SIN,04-09-2024,05:42:01,127,17:21:26,137,101,340,Cloudy,Weather,G38,T3,83,Friday,September,Delayed
+FL1203,IndiGo,CCU,DXB,04-06-2024,12:15:16,16,05:30:36,42,212,4983,Storm,Air Traffic,G23,T3,166,Sunday,July,Delayed
+FL1204,Akasa Air,DEL,BLR,10-07-2025,12:47:13,105,06:55:11,116,86,945,Fog,Air Traffic,G27,T1,217,Friday,September,Delayed
+FL1205,Emirates,BLR,BOM,24-06-2025,09:08:06,97,22:05:37,98,296,754,Storm,Technical,G10,T1,222,Wednesday,September,Delayed
+FL1206,Qatar Airways,CCU,DEL,11-11-2024,03:28:47,144,10:44:13,159,249,2981,Fog,Security,G46,T1,113,Sunday,July,Delayed
+FL1207,Emirates,DEL,CCU,20-07-2024,08:49:58,129,21:43:03,161,252,3166,Fog,Weather,G36,T1,331,Wednesday,December,Delayed
+FL1208,SpiceJet,HYD,MAA,11-04-2026,00:47:26,28,22:57:03,38,326,2358,Clear,Technical,G36,T1,162,Friday,November,Delayed
+FL1209,Air India,DXB,DEL,18-04-2025,11:10:42,38,19:24:29,67,286,1633,Clear,Weather,G34,T3,104,Friday,April,Delayed
+FL1210,Vistara,DXB,BLR,18-06-2024,00:32:19,110,17:09:48,123,305,4801,Fog,Technical,G5,T2,338,Wednesday,December,Delayed
+FL1211,Akasa Air,CCU,SIN,14-01-2025,11:54:31,35,12:13:40,71,207,2062,Cloudy,Weather,G43,T1,250,Tuesday,March,Delayed
+FL1212,IndiGo,DEL,DXB,18-10-2025,02:02:47,153,16:09:31,144,132,2643,Fog,Crew Issue,G17,T3,178,Thursday,August,Delayed
+FL1213,SpiceJet,SIN,BLR,10-08-2025,19:22:56,60,20:12:03,92,163,4420,Rain,Security,G39,T1,340,Wednesday,July,Delayed
+FL1214,Emirates,BOM,BLR,12-05-2024,19:55:04,130,08:02:45,169,288,4503,Cloudy,Crew Issue,G44,T3,151,Saturday,May,Delayed
+FL1215,Vistara,DEL,MAA,14-06-2025,14:41:57,97,02:42:56,98,334,1936,Cloudy,Weather,G44,T1,66,Tuesday,May,Delayed
+FL1216,Air India,BLR,SIN,29-04-2025,04:45:17,73,08:40:00,111,71,1641,Fog,Air Traffic,G16,T2,265,Monday,January,Delayed
+FL1217,Vistara,SIN,CCU,16-03-2026,22:02:31,82,16:17:00,79,208,3452,Rain,Technical,G23,T2,247,Friday,December,Delayed
+FL1218,Akasa Air,BLR,CCU,16-06-2025,02:56:24,24,08:56:40,31,148,4026,Fog,Weather,G26,T2,75,Sunday,December,Delayed
+FL1219,IndiGo,DEL,HYD,22-08-2024,06:43:30,46,09:37:35,67,325,700,Storm,Weather,G23,T2,331,Friday,July,Delayed
+FL1220,Emirates,DXB,CCU,29-05-2025,12:27:21,85,18:39:39,81,329,4730,Storm,Air Traffic,G7,T1,186,Thursday,January,Delayed
+FL1221,Qatar Airways,CCU,BOM,13-11-2025,08:04:28,114,20:46:47,151,274,1800,Cloudy,Crew Issue,G18,T3,272,Wednesday,February,Delayed
+FL1222,IndiGo,DXB,SIN,02-07-2024,22:34:24,115,21:58:07,143,162,1482,Rain,Crew Issue,G24,T3,157,Thursday,September,Delayed
+FL1223,Qatar Airways,BOM,HYD,10-05-2024,06:53:06,44,13:56:39,67,190,3283,Fog,Late Aircraft,G26,T2,232,Tuesday,June,Delayed
+FL1224,Akasa Air,MAA,DEL,18-08-2025,18:07:06,107,08:32:39,135,74,4259,Clear,Security,G49,T3,53,Tuesday,June,Delayed
+FL1225,Qatar Airways,CCU,DXB,13-05-2024,15:32:52,92,02:09:50,103,269,4411,Rain,Technical,G45,T1,157,Tuesday,May,Delayed
+FL1226,Akasa Air,BLR,BOM,05-10-2025,22:15:23,125,23:36:18,116,286,3541,Rain,Late Aircraft,G34,T1,300,Tuesday,November,Delayed
+FL1227,Qatar Airways,SIN,BLR,26-06-2025,01:21:58,12,21:43:21,14,333,4110,Cloudy,Security,G39,T2,78,Saturday,October,On-Time
+FL1228,Emirates,CCU,SIN,07-07-2024,03:22:42,61,02:49:14,94,244,571,Fog,Technical,G44,T2,288,Monday,August,Delayed
+FL1229,SpiceJet,SIN,CCU,27-08-2025,05:47:12,120,14:02:15,119,124,4060,Fog,Security,G3,T1,191,Wednesday,September,Delayed
+FL1230,Vistara,BOM,BLR,08-03-2026,22:15:30,119,00:29:49,138,205,4688,Storm,Weather,G25,T1,242,Wednesday,May,Delayed
+FL1231,Qatar Airways,BOM,DXB,23-04-2026,05:10:11,72,01:13:12,76,199,2534,Clear,Security,G37,T3,110,Friday,July,Delayed
+FL1232,Akasa Air,SIN,HYD,23-04-2026,02:01:11,170,07:41:45,165,354,1763,Clear,Crew Issue,G46,T3,60,Saturday,April,Delayed
+FL1233,Vistara,CCU,HYD,11-07-2025,09:33:40,61,04:59:23,63,285,1184,Cloudy,Technical,G45,T1,156,Thursday,February,Delayed
+FL1234,IndiGo,CCU,DXB,19-09-2024,02:20:38,56,22:24:34,71,300,2853,Cloudy,Late Aircraft,G3,T1,311,Monday,April,Delayed
+FL1235,Akasa Air,SIN,BLR,27-09-2025,09:46:54,4,05:12:38,0,113,1026,Cloudy,Security,G49,T1,58,Wednesday,June,On-Time
+FL1236,Vistara,HYD,BLR,12-02-2026,17:10:34,98,08:15:52,107,300,1896,Fog,Late Aircraft,G42,T3,227,Monday,November,Delayed
+FL1237,SpiceJet,CCU,DEL,20-12-2024,11:31:49,81,00:31:42,87,275,302,Clear,Security,G32,T3,276,Thursday,May,Delayed
+FL1238,Qatar Airways,HYD,DXB,16-03-2026,14:08:58,12,14:52:40,48,148,2676,Cloudy,Technical,G4,T2,147,Monday,October,On-Time
+FL1239,SpiceJet,MAA,BLR,16-03-2026,00:09:03,10,21:03:55,40,182,1287,Storm,Technical,G29,T3,186,Saturday,February,On-Time
+FL1240,Vistara,HYD,CCU,13-09-2024,13:35:02,152,04:24:08,175,229,4916,Fog,Technical,G15,T3,89,Saturday,December,Delayed
+FL1241,Emirates,BOM,DXB,31-03-2026,13:21:48,24,22:25:47,18,285,1283,Storm,Security,G15,T2,87,Monday,June,Delayed
+FL1242,Air India,HYD,BOM,16-04-2025,02:40:00,71,18:47:55,65,235,1213,Fog,Crew Issue,G6,T1,86,Tuesday,March,Delayed
+FL1243,SpiceJet,MAA,DEL,13-01-2025,16:55:27,59,19:04:06,96,343,4336,Clear,Security,G13,T3,130,Sunday,December,Delayed
+FL1244,SpiceJet,DEL,DXB,06-04-2025,12:14:41,113,18:28:25,142,283,617,Cloudy,Technical,G29,T3,164,Thursday,March,Delayed
+FL1245,Qatar Airways,MAA,BOM,16-02-2026,13:37:04,66,21:03:57,95,99,4230,Cloudy,Technical,G13,T3,286,Thursday,January,Delayed
+FL1246,Emirates,DXB,MAA,09-12-2024,06:10:52,32,12:52:48,27,275,2683,Rain,Crew Issue,G40,T3,141,Wednesday,December,Delayed
+FL1247,Akasa Air,SIN,BOM,21-02-2025,15:12:48,96,04:22:47,133,228,662,Rain,Air Traffic,G45,T2,230,Sunday,April,Delayed
+FL1248,Akasa Air,CCU,DXB,01-04-2026,13:40:45,169,04:44:46,194,250,4038,Storm,Crew Issue,G38,T2,237,Sunday,July,Delayed
+FL1249,Qatar Airways,DXB,BOM,06-02-2026,11:18:10,6,19:17:09,0,294,856,Rain,Security,G31,T1,72,Sunday,May,On-Time
+FL1250,Vistara,DEL,DXB,05-05-2026,12:37:43,169,02:37:21,168,219,3808,Fog,Security,G30,T1,88,Saturday,September,Delayed
+FL1251,IndiGo,BOM,BLR,30-04-2026,05:28:24,158,04:42:27,165,317,888,Rain,Air Traffic,G29,T2,61,Friday,March,Delayed
+FL1252,Air India,DXB,DEL,27-02-2026,01:50:32,38,02:39:55,29,283,3417,Storm,Air Traffic,G27,T1,162,Thursday,January,Delayed
+FL1253,SpiceJet,DXB,HYD,15-09-2024,07:40:53,16,04:48:21,45,282,4843,Rain,Crew Issue,G24,T1,212,Wednesday,April,Delayed
+FL1254,IndiGo,DEL,BLR,10-09-2025,20:44:41,69,06:35:46,77,133,1547,Fog,Technical,G34,T1,109,Monday,May,Delayed
+FL1255,Qatar Airways,SIN,CCU,14-08-2025,20:52:21,78,16:01:37,97,96,577,Rain,Late Aircraft,G4,T2,291,Thursday,October,Delayed
+FL1256,IndiGo,DEL,BOM,10-11-2025,22:36:42,67,16:04:40,83,251,1340,Fog,Technical,G12,T1,242,Friday,December,Delayed
+FL1257,Qatar Airways,DXB,DEL,10-05-2025,06:40:01,21,05:32:24,36,179,2653,Fog,Technical,G14,T2,241,Monday,January,Delayed
+FL1258,Emirates,BLR,HYD,10-07-2025,19:46:58,174,11:49:16,192,263,4047,Cloudy,Crew Issue,G35,T1,56,Monday,August,Delayed
+FL1259,Akasa Air,DEL,DXB,31-03-2025,23:38:37,28,21:32:50,28,92,4299,Cloudy,Technical,G11,T3,107,Tuesday,May,Delayed
+FL1260,Akasa Air,DXB,DEL,10-10-2024,16:42:55,25,20:43:47,48,285,3656,Fog,Technical,G4,T3,148,Thursday,March,Delayed
+FL1261,SpiceJet,BOM,CCU,04-11-2025,14:16:45,140,22:42:07,170,98,3642,Clear,Security,G29,T3,206,Friday,September,Delayed
+FL1262,Qatar Airways,DEL,HYD,02-08-2024,06:12:43,74,05:49:30,95,189,3455,Storm,Weather,G22,T3,76,Thursday,June,Delayed
+FL1263,IndiGo,HYD,DXB,15-05-2024,06:04:05,80,00:32:35,113,151,1288,Fog,Weather,G21,T2,133,Tuesday,December,Delayed
+FL1264,Akasa Air,BOM,SIN,08-10-2024,14:37:52,5,15:33:35,13,316,4965,Fog,Technical,G38,T1,64,Wednesday,September,On-Time
+FL1265,Emirates,CCU,SIN,27-12-2025,21:43:38,161,21:15:17,185,340,1091,Rain,Late Aircraft,G12,T2,323,Saturday,August,Delayed
+FL1266,Air India,MAA,SIN,30-08-2025,02:59:05,14,12:15:52,47,267,3910,Clear,Late Aircraft,G8,T2,109,Monday,May,On-Time
+FL1267,Qatar Airways,BLR,DEL,21-08-2024,15:44:41,173,05:56:24,187,204,3976,Rain,Weather,G8,T2,128,Wednesday,September,Delayed
+FL1268,Akasa Air,DXB,SIN,23-03-2025,18:26:34,26,05:58:39,61,109,4744,Storm,Air Traffic,G44,T1,230,Sunday,November,Delayed
+FL1269,SpiceJet,BLR,MAA,03-03-2026,18:36:19,23,20:29:06,15,105,826,Clear,Late Aircraft,G25,T2,271,Wednesday,February,Delayed
+FL1270,Vistara,CCU,BLR,04-01-2025,06:30:40,16,00:45:39,49,287,820,Storm,Crew Issue,G38,T2,263,Tuesday,August,Delayed
+FL1271,Qatar Airways,SIN,MAA,06-08-2025,01:03:21,116,10:21:13,107,131,694,Cloudy,Air Traffic,G13,T1,258,Saturday,July,Delayed
+FL1272,Akasa Air,BOM,HYD,20-08-2025,03:07:02,71,10:03:19,81,333,2313,Rain,Security,G18,T2,144,Wednesday,February,Delayed
+FL1273,Emirates,BOM,BLR,29-04-2026,18:51:12,165,12:11:13,186,70,1028,Fog,Air Traffic,G33,T2,151,Friday,December,Delayed
+FL1274,Emirates,DXB,BOM,23-03-2026,08:23:00,168,05:07:06,165,326,513,Storm,Air Traffic,G24,T2,90,Monday,December,Delayed
+FL1275,Vistara,CCU,HYD,20-02-2025,07:52:47,144,20:13:18,145,105,891,Fog,Late Aircraft,G22,T1,141,Monday,November,Delayed
+FL1276,Akasa Air,DXB,MAA,04-06-2024,22:07:46,147,06:16:43,169,261,1235,Rain,Weather,G32,T1,291,Sunday,October,Delayed
+FL1277,Air India,SIN,DEL,15-01-2026,18:18:01,96,18:36:09,87,284,3148,Clear,Technical,G41,T3,126,Wednesday,June,Delayed
+FL1278,IndiGo,DXB,HYD,16-10-2024,19:03:27,115,17:46:28,130,162,2541,Cloudy,Technical,G38,T3,139,Thursday,June,Delayed
+FL1279,Qatar Airways,CCU,BLR,30-12-2024,17:57:35,173,09:45:05,212,202,3341,Clear,Security,G42,T1,172,Friday,June,Delayed
+FL1280,Emirates,DXB,MAA,28-01-2025,08:31:18,133,00:27:49,131,321,3444,Fog,Technical,G39,T1,272,Monday,December,Delayed
+FL1281,Akasa Air,MAA,HYD,01-09-2025,14:22:13,159,17:44:37,189,263,4211,Storm,Security,G28,T1,133,Wednesday,May,Delayed
+FL1282,Akasa Air,SIN,BOM,30-05-2025,00:22:23,61,10:37:21,97,310,2730,Fog,Late Aircraft,G7,T2,133,Tuesday,February,Delayed
+FL1283,IndiGo,MAA,SIN,02-06-2025,22:26:40,131,22:04:41,126,81,709,Storm,Technical,G3,T3,176,Thursday,February,Delayed
+FL1284,SpiceJet,CCU,DXB,10-02-2025,06:41:05,40,20:10:35,71,73,2434,Clear,Security,G12,T3,74,Wednesday,May,Delayed
+FL1285,Emirates,MAA,DXB,30-01-2026,08:33:49,44,07:46:12,52,114,1049,Rain,Air Traffic,G36,T3,222,Tuesday,February,Delayed
+FL1286,Air India,BLR,SIN,26-06-2025,14:48:18,135,18:32:31,153,178,2656,Rain,Crew Issue,G32,T1,349,Wednesday,September,Delayed
+FL1287,Qatar Airways,CCU,BLR,14-08-2024,16:32:47,81,20:43:22,76,270,961,Cloudy,Technical,G37,T3,108,Monday,February,Delayed
+FL1288,Emirates,HYD,BLR,14-11-2024,04:19:11,130,11:08:38,147,261,1054,Storm,Security,G35,T2,142,Sunday,July,Delayed
+FL1289,SpiceJet,BOM,MAA,21-11-2025,06:56:29,96,04:33:37,92,272,458,Clear,Crew Issue,G24,T2,342,Saturday,September,Delayed
+FL1290,Qatar Airways,CCU,BOM,10-09-2024,15:27:11,3,18:33:08,20,79,1255,Cloudy,Late Aircraft,G24,T3,99,Tuesday,March,On-Time
+FL1291,Qatar Airways,DXB,HYD,22-11-2024,16:50:05,176,13:01:45,197,164,1573,Clear,Weather,G34,T3,277,Tuesday,May,Delayed
+FL1292,SpiceJet,MAA,BOM,21-08-2025,09:58:31,65,05:58:34,69,321,4690,Rain,Air Traffic,G42,T3,292,Wednesday,February,Delayed
+FL1293,Emirates,HYD,BOM,27-07-2024,22:24:03,114,06:42:45,115,190,829,Cloudy,Air Traffic,G40,T1,70,Saturday,May,Delayed
+FL1294,Emirates,BOM,CCU,10-04-2026,21:11:03,142,01:08:06,164,341,3891,Rain,Security,G36,T3,289,Tuesday,March,Delayed
+FL1295,Akasa Air,CCU,SIN,23-04-2026,13:38:37,86,04:47:37,117,73,301,Clear,Weather,G37,T1,90,Monday,November,Delayed
+FL1296,Air India,HYD,DXB,13-01-2026,09:50:38,61,03:29:23,97,73,4899,Cloudy,Crew Issue,G39,T3,133,Saturday,January,Delayed
+FL1297,Akasa Air,SIN,CCU,16-05-2025,01:55:27,129,14:31:30,157,204,3238,Fog,Late Aircraft,G25,T2,77,Thursday,April,Delayed
+FL1298,Vistara,DXB,MAA,31-01-2026,13:50:33,65,05:23:43,89,288,4656,Clear,Late Aircraft,G1,T1,213,Tuesday,August,Delayed
+FL1299,Vistara,DXB,BLR,24-06-2024,18:05:41,44,21:09:35,56,346,3766,Rain,Air Traffic,G10,T3,244,Tuesday,June,Delayed
+FL1300,Qatar Airways,CCU,DXB,27-12-2024,22:00:50,117,18:49:19,120,139,2293,Fog,Crew Issue,G29,T1,315,Sunday,June,Delayed
+FL1301,Air India,BOM,BLR,24-06-2025,10:45:34,75,19:47:05,94,316,2660,Storm,Weather,G20,T2,333,Thursday,April,Delayed
+FL1302,IndiGo,MAA,DEL,22-10-2025,12:25:25,120,10:58:23,152,234,2512,Fog,Crew Issue,G49,T3,169,Thursday,April,Delayed
+FL1303,SpiceJet,MAA,SIN,22-02-2025,11:42:49,43,00:14:37,60,266,2225,Cloudy,Late Aircraft,G44,T2,300,Tuesday,March,Delayed
+FL1304,Vistara,SIN,HYD,03-06-2025,01:20:33,147,08:20:47,186,189,1268,Storm,Air Traffic,G37,T2,69,Monday,February,Delayed
+FL1305,Vistara,DXB,HYD,23-11-2024,15:45:15,25,16:04:58,43,60,1358,Rain,Technical,G6,T3,294,Wednesday,January,Delayed
+FL1306,Vistara,DEL,BLR,16-03-2025,21:27:37,58,10:57:49,52,220,1308,Cloudy,Late Aircraft,G14,T3,61,Thursday,May,Delayed
+FL1307,IndiGo,DEL,SIN,31-07-2024,07:15:06,19,04:13:15,58,275,425,Storm,Technical,G34,T2,266,Saturday,June,Delayed
+FL1308,IndiGo,DXB,MAA,25-04-2025,22:49:14,49,16:03:24,67,244,3549,Storm,Weather,G23,T3,343,Friday,April,Delayed
+FL1309,SpiceJet,CCU,HYD,02-04-2026,03:11:56,83,07:02:46,95,185,4703,Clear,Crew Issue,G16,T3,283,Thursday,September,Delayed
+FL1310,Akasa Air,HYD,SIN,16-08-2025,13:17:30,123,12:10:21,120,188,1314,Cloudy,Weather,G8,T1,206,Monday,July,Delayed
+FL1311,SpiceJet,CCU,SIN,25-01-2025,18:29:54,95,15:02:10,122,64,1818,Cloudy,Air Traffic,G22,T1,224,Tuesday,October,Delayed
+FL1312,IndiGo,DXB,HYD,29-01-2025,00:37:16,33,16:56:29,23,178,2774,Clear,Weather,G10,T1,163,Saturday,June,Delayed
+FL1313,Vistara,SIN,HYD,05-07-2024,07:33:55,144,05:02:25,159,195,602,Rain,Security,G40,T3,125,Tuesday,June,Delayed
+FL1314,Vistara,CCU,BOM,05-07-2024,17:43:51,71,15:24:59,85,348,3372,Cloudy,Late Aircraft,G19,T2,336,Friday,June,Delayed
+FL1315,Akasa Air,SIN,CCU,04-11-2025,10:55:54,141,17:33:41,178,128,2708,Fog,Crew Issue,G26,T1,269,Wednesday,June,Delayed
+FL1316,Akasa Air,BOM,HYD,16-07-2025,21:11:21,62,21:58:10,60,220,2932,Fog,Late Aircraft,G13,T3,208,Saturday,January,Delayed
+FL1317,Emirates,SIN,MAA,23-07-2025,07:59:52,67,13:54:32,90,161,4889,Cloudy,Security,G4,T1,151,Saturday,January,Delayed
+FL1318,Akasa Air,SIN,BOM,02-05-2025,21:58:15,18,12:17:08,13,141,1300,Cloudy,Crew Issue,G23,T1,178,Sunday,November,Delayed
+FL1319,Akasa Air,BLR,DEL,18-05-2025,00:33:00,87,06:17:43,83,148,3072,Clear,Technical,G15,T1,114,Thursday,June,Delayed
+FL1320,Vistara,DXB,BOM,14-03-2026,11:54:34,75,02:01:25,71,202,1216,Rain,Crew Issue,G19,T3,142,Sunday,October,Delayed
+FL1321,Qatar Airways,SIN,DXB,12-04-2026,22:05:57,160,23:22:29,198,283,3868,Clear,Late Aircraft,G35,T1,151,Friday,April,Delayed
+FL1322,Vistara,CCU,DXB,27-07-2024,23:36:42,10,10:59:52,34,169,3189,Cloudy,Crew Issue,G2,T2,314,Tuesday,August,On-Time
+FL1323,SpiceJet,CCU,HYD,18-08-2025,13:56:03,2,10:25:02,12,341,3163,Fog,Security,G2,T2,166,Tuesday,April,On-Time
+FL1324,SpiceJet,HYD,CCU,03-11-2025,16:36:07,153,15:34:38,167,71,4699,Rain,Air Traffic,G37,T2,349,Saturday,April,Delayed
+FL1325,Vistara,SIN,MAA,05-08-2024,23:54:51,14,15:03:03,46,80,706,Fog,Security,G43,T3,166,Wednesday,May,On-Time
+FL1326,Emirates,BOM,CCU,29-11-2025,15:18:17,123,17:32:59,127,340,1014,Cloudy,Crew Issue,G15,T2,326,Sunday,June,Delayed
+FL1327,IndiGo,MAA,BLR,05-03-2026,02:33:55,140,04:41:53,151,334,1263,Fog,Late Aircraft,G48,T1,101,Wednesday,August,Delayed
+FL1328,Vistara,HYD,DXB,26-08-2024,12:38:43,26,05:41:50,44,298,405,Rain,Technical,G36,T3,207,Wednesday,September,Delayed
+FL1329,IndiGo,HYD,BOM,30-09-2024,13:39:18,145,08:11:04,136,136,2437,Cloudy,Late Aircraft,G25,T3,312,Tuesday,April,Delayed
+FL1330,Akasa Air,DEL,DXB,27-04-2025,06:36:07,94,15:28:08,127,133,3954,Rain,Late Aircraft,G49,T1,347,Monday,February,Delayed
+FL1331,Emirates,DXB,MAA,06-05-2024,02:17:35,35,05:16:52,44,322,2145,Storm,Weather,G1,T3,221,Sunday,March,Delayed
+FL1332,Air India,DEL,CCU,26-11-2025,03:00:41,119,15:42:24,153,106,3238,Storm,Late Aircraft,G13,T2,167,Thursday,November,Delayed
+FL1333,SpiceJet,BLR,SIN,14-09-2025,22:08:49,20,03:13:26,31,279,4276,Fog,Air Traffic,G26,T3,58,Monday,February,Delayed
+FL1334,Emirates,BLR,CCU,10-09-2024,02:11:53,14,22:42:12,13,180,1960,Clear,Technical,G42,T2,121,Sunday,March,On-Time
+FL1335,Vistara,DEL,SIN,10-06-2024,08:21:15,151,16:13:34,156,108,3525,Storm,Technical,G27,T3,342,Sunday,May,Delayed
+FL1336,SpiceJet,DEL,BOM,18-11-2025,16:50:28,67,20:52:58,106,211,3983,Cloudy,Security,G39,T1,251,Wednesday,May,Delayed
+FL1337,Akasa Air,SIN,CCU,18-07-2025,09:05:06,88,01:14:10,95,223,3340,Cloudy,Crew Issue,G5,T1,224,Sunday,September,Delayed
+FL1338,Air India,SIN,MAA,31-03-2026,08:28:22,48,16:01:54,72,167,1549,Clear,Air Traffic,G33,T1,168,Saturday,August,Delayed
+FL1339,Air India,HYD,DXB,20-07-2024,02:21:54,148,15:19:32,154,209,3803,Clear,Late Aircraft,G37,T2,192,Sunday,May,Delayed
+FL1340,Akasa Air,BLR,BOM,28-04-2025,16:56:32,162,07:52:49,179,219,1846,Storm,Crew Issue,G10,T3,127,Wednesday,February,Delayed
+FL1341,IndiGo,DXB,CCU,02-05-2026,19:51:34,76,18:11:12,90,317,1643,Rain,Technical,G35,T2,312,Wednesday,April,Delayed
+FL1342,Vistara,DEL,BLR,27-03-2025,21:37:10,84,20:20:39,91,101,4308,Rain,Crew Issue,G49,T2,329,Wednesday,May,Delayed
+FL1343,Emirates,DEL,BLR,11-04-2025,01:08:28,45,01:27:18,53,127,1541,Fog,Late Aircraft,G38,T1,91,Monday,November,Delayed
+FL1344,SpiceJet,BOM,HYD,21-06-2024,03:38:33,31,09:01:13,59,168,4431,Rain,Crew Issue,G40,T3,278,Friday,December,Delayed
+FL1345,IndiGo,HYD,DXB,04-07-2024,23:52:01,96,08:19:00,121,132,2214,Fog,Air Traffic,G6,T3,245,Tuesday,April,Delayed
+FL1346,Air India,MAA,HYD,18-01-2025,10:31:50,12,18:13:35,50,189,2864,Storm,Late Aircraft,G44,T3,76,Wednesday,July,On-Time
+FL1347,Akasa Air,SIN,DXB,24-08-2024,17:44:13,159,22:52:41,169,323,2035,Rain,Technical,G3,T3,349,Sunday,October,Delayed
+FL1348,Vistara,BOM,CCU,26-12-2024,12:07:13,124,22:09:09,116,189,3074,Cloudy,Late Aircraft,G44,T2,307,Monday,October,Delayed
+FL1349,Qatar Airways,BOM,DEL,13-07-2024,03:12:05,101,17:18:16,107,350,2701,Cloudy,Security,G23,T1,335,Friday,September,Delayed
+FL1350,SpiceJet,MAA,BOM,24-09-2024,11:55:16,115,19:04:42,112,209,4183,Cloudy,Crew Issue,G36,T1,336,Saturday,April,Delayed
+FL1351,Akasa Air,SIN,DEL,06-11-2024,21:15:10,46,11:13:56,51,165,2793,Storm,Weather,G30,T2,170,Tuesday,September,Delayed
+FL1352,Akasa Air,DXB,BLR,21-03-2026,10:23:45,54,06:12:04,59,71,2231,Clear,Security,G8,T2,52,Saturday,May,Delayed
+FL1353,SpiceJet,DEL,HYD,14-07-2024,08:39:45,143,03:41:45,162,296,4743,Clear,Late Aircraft,G40,T1,167,Friday,February,Delayed
+FL1354,SpiceJet,DEL,HYD,31-05-2024,09:06:38,4,14:38:27,13,307,663,Clear,Security,G1,T1,170,Monday,August,On-Time
+FL1355,Vistara,DEL,BLR,16-08-2024,04:50:42,29,12:35:27,39,143,4337,Rain,Technical,G22,T3,280,Saturday,November,Delayed
+FL1356,Vistara,DXB,MAA,07-03-2026,22:06:47,31,01:30:36,53,331,2807,Storm,Crew Issue,G38,T2,275,Monday,November,Delayed
+FL1357,Qatar Airways,MAA,DXB,05-02-2026,14:09:01,141,17:21:52,166,210,1901,Fog,Weather,G41,T1,307,Friday,July,Delayed
+FL1358,Air India,MAA,DXB,01-03-2025,10:03:30,74,02:45:34,66,239,2025,Clear,Weather,G23,T2,203,Thursday,November,Delayed
+FL1359,Vistara,DXB,HYD,03-07-2025,17:47:11,54,22:42:57,49,202,4737,Rain,Technical,G37,T2,293,Wednesday,March,Delayed
+FL1360,Emirates,HYD,BOM,04-01-2026,23:36:13,11,18:58:22,47,108,4437,Clear,Weather,G38,T3,131,Thursday,October,On-Time
+FL1361,Air India,DEL,MAA,25-02-2026,11:55:22,172,13:01:56,196,217,3587,Clear,Weather,G42,T3,207,Monday,August,Delayed
+FL1362,Emirates,DEL,MAA,14-01-2025,02:18:37,133,05:22:45,125,66,372,Clear,Crew Issue,G15,T2,212,Tuesday,September,Delayed
+FL1363,Qatar Airways,BLR,SIN,17-12-2024,12:26:38,65,11:22:05,81,189,3278,Clear,Technical,G18,T3,255,Wednesday,April,Delayed
+FL1364,Akasa Air,CCU,HYD,07-12-2025,02:52:01,19,18:29:40,26,315,4661,Fog,Technical,G25,T2,330,Tuesday,November,Delayed
+FL1365,SpiceJet,BLR,HYD,01-08-2024,14:00:28,53,06:08:36,75,223,394,Fog,Weather,G14,T3,159,Friday,December,Delayed
+FL1366,Emirates,MAA,DXB,13-09-2025,17:57:58,79,10:31:01,114,84,2829,Storm,Security,G8,T2,74,Monday,June,Delayed
+FL1367,Akasa Air,DXB,SIN,07-03-2025,15:06:00,78,20:40:32,71,232,4523,Fog,Late Aircraft,G32,T2,141,Thursday,March,Delayed
+FL1368,Air India,HYD,BLR,15-02-2026,00:11:39,140,23:42:34,160,79,3336,Cloudy,Crew Issue,G6,T1,209,Sunday,April,Delayed
+FL1369,Emirates,HYD,SIN,18-11-2025,02:22:39,92,05:47:32,124,313,3501,Rain,Crew Issue,G23,T1,336,Friday,July,Delayed
+FL1370,Akasa Air,DXB,HYD,06-06-2025,10:33:00,4,09:35:44,12,325,4150,Rain,Crew Issue,G31,T1,105,Wednesday,April,On-Time
+FL1371,IndiGo,CCU,DXB,08-08-2025,11:08:30,82,22:52:55,80,158,4544,Storm,Air Traffic,G9,T1,205,Friday,December,Delayed
+FL1372,SpiceJet,BLR,DEL,24-05-2024,14:57:24,114,06:09:17,110,139,699,Storm,Late Aircraft,G33,T3,309,Friday,January,Delayed
+FL1373,Qatar Airways,BOM,MAA,20-07-2025,05:53:57,3,20:21:44,31,99,2448,Cloudy,Late Aircraft,G39,T3,270,Friday,April,On-Time
+FL1374,Qatar Airways,SIN,BOM,25-09-2025,21:33:47,51,15:52:37,76,183,4817,Fog,Air Traffic,G39,T1,227,Tuesday,April,Delayed
+FL1375,Qatar Airways,BOM,DXB,02-09-2024,10:26:04,62,06:33:12,88,175,1067,Storm,Technical,G35,T3,56,Friday,December,Delayed
+FL1376,Air India,BLR,HYD,20-05-2025,03:10:07,154,08:45:02,171,73,2064,Cloudy,Air Traffic,G22,T2,182,Thursday,August,Delayed
+FL1377,SpiceJet,CCU,MAA,17-08-2025,14:33:54,129,04:20:09,145,305,3008,Fog,Security,G10,T2,114,Thursday,February,Delayed
+FL1378,Qatar Airways,SIN,DXB,24-10-2025,03:39:22,12,04:16:13,22,301,2685,Fog,Technical,G37,T2,222,Wednesday,July,On-Time
+FL1379,Qatar Airways,DEL,CCU,15-10-2024,19:03:55,159,03:32:57,184,247,2742,Rain,Late Aircraft,G21,T1,305,Monday,May,Delayed
+FL1380,Air India,DXB,MAA,12-01-2025,07:05:37,116,09:55:38,131,255,845,Rain,Air Traffic,G48,T1,301,Thursday,October,Delayed
+FL1381,Akasa Air,BLR,HYD,21-01-2025,17:19:12,81,08:50:25,110,286,4104,Fog,Air Traffic,G29,T2,91,Saturday,November,Delayed
+FL1382,Air India,SIN,BLR,09-07-2024,05:00:23,20,12:37:43,51,172,4500,Fog,Technical,G17,T1,169,Saturday,September,Delayed
+FL1383,Akasa Air,SIN,BOM,01-08-2025,08:24:41,136,05:20:47,166,188,871,Clear,Security,G48,T1,78,Sunday,February,Delayed
+FL1384,IndiGo,DEL,SIN,29-03-2026,17:21:35,96,21:57:57,95,301,4197,Storm,Technical,G40,T3,326,Tuesday,February,Delayed
+FL1385,Air India,MAA,DEL,24-02-2026,20:00:40,27,22:53:06,27,306,3149,Cloudy,Crew Issue,G8,T2,263,Monday,October,Delayed
+FL1386,Vistara,SIN,CCU,23-01-2026,19:04:52,176,07:05:58,180,232,2448,Clear,Weather,G8,T3,249,Friday,July,Delayed
+FL1387,Akasa Air,DEL,BOM,09-12-2024,02:10:10,86,11:16:44,118,168,3806,Fog,Security,G24,T2,201,Monday,September,Delayed
+FL1388,Air India,DXB,SIN,14-11-2025,23:16:16,16,05:21:55,10,207,4627,Clear,Weather,G31,T3,277,Tuesday,April,Delayed
+FL1389,Akasa Air,BLR,CCU,28-11-2024,20:25:55,138,05:30:43,142,270,2846,Fog,Air Traffic,G28,T2,100,Sunday,July,Delayed
+FL1390,Vistara,BOM,BLR,16-11-2024,20:14:33,4,09:35:23,0,67,1873,Storm,Security,G47,T1,269,Saturday,April,On-Time
+FL1391,Qatar Airways,HYD,DXB,24-10-2024,08:53:26,80,23:50:04,100,195,4139,Clear,Late Aircraft,G40,T3,98,Sunday,January,Delayed
+FL1392,Vistara,BOM,HYD,26-10-2025,20:51:23,35,02:39:36,28,137,1940,Storm,Security,G41,T2,266,Monday,November,Delayed
+FL1393,Air India,DEL,DXB,04-02-2025,23:50:21,121,04:31:49,160,325,2496,Clear,Crew Issue,G36,T2,189,Saturday,June,Delayed
+FL1394,IndiGo,BOM,CCU,25-07-2025,14:14:39,90,07:23:32,119,317,2721,Rain,Technical,G13,T3,230,Friday,August,Delayed
+FL1395,IndiGo,HYD,DEL,17-07-2024,07:53:58,159,06:59:28,179,347,3659,Fog,Security,G34,T3,60,Saturday,January,Delayed
+FL1396,SpiceJet,MAA,SIN,02-01-2026,18:52:15,9,19:27:33,13,332,1235,Clear,Technical,G18,T3,232,Tuesday,December,On-Time
+FL1397,SpiceJet,DXB,DEL,06-06-2025,22:17:24,152,00:35:04,181,183,3997,Rain,Security,G22,T1,262,Friday,July,Delayed
+FL1398,Qatar Airways,CCU,BLR,20-03-2025,20:16:33,171,02:40:05,192,233,2460,Rain,Late Aircraft,G21,T3,171,Monday,September,Delayed
+FL1399,IndiGo,CCU,DEL,27-06-2024,04:58:34,31,13:45:36,50,178,338,Storm,Technical,G49,T1,317,Wednesday,October,Delayed
+FL1400,SpiceJet,DXB,SIN,31-12-2024,00:06:47,174,22:40:06,181,208,3768,Clear,Late Aircraft,G21,T2,175,Sunday,August,Delayed
+FL1401,SpiceJet,SIN,BOM,22-08-2024,00:32:12,135,11:40:10,170,297,946,Cloudy,Crew Issue,G23,T2,285,Tuesday,November,Delayed
+FL1402,Qatar Airways,DXB,DEL,14-02-2025,09:00:45,85,10:40:21,96,294,1668,Cloudy,Air Traffic,G22,T1,334,Saturday,February,Delayed
+FL1403,Air India,BOM,BLR,30-04-2026,18:47:20,12,12:46:52,19,317,4608,Storm,Late Aircraft,G15,T3,332,Tuesday,December,On-Time
+FL1404,SpiceJet,DXB,MAA,27-06-2025,23:19:18,49,00:05:37,69,147,760,Clear,Weather,G22,T1,220,Wednesday,August,Delayed
+FL1405,SpiceJet,CCU,SIN,01-12-2025,12:23:13,164,00:14:22,186,243,814,Clear,Technical,G19,T1,72,Tuesday,July,Delayed
+FL1406,Akasa Air,SIN,HYD,21-12-2025,07:30:11,156,03:41:30,175,354,1604,Cloudy,Crew Issue,G37,T1,160,Monday,February,Delayed
+FL1407,IndiGo,CCU,HYD,27-07-2024,03:17:50,135,15:17:16,166,245,4027,Cloudy,Security,G8,T2,178,Sunday,July,Delayed
+FL1408,Vistara,DEL,BLR,23-08-2025,16:54:50,107,06:33:02,101,62,748,Storm,Weather,G4,T3,153,Friday,April,Delayed
+FL1409,Vistara,MAA,DXB,09-09-2024,20:06:06,63,06:23:25,94,69,1728,Rain,Technical,G46,T2,280,Wednesday,May,Delayed
+FL1410,IndiGo,SIN,BOM,07-12-2025,22:57:00,154,19:06:28,145,171,2847,Rain,Crew Issue,G36,T2,135,Thursday,May,Delayed
+FL1411,IndiGo,SIN,DXB,03-05-2026,20:14:51,89,03:14:30,90,268,1337,Fog,Air Traffic,G34,T1,69,Saturday,November,Delayed
+FL1412,Akasa Air,SIN,HYD,05-02-2025,08:52:19,74,15:29:35,79,302,4195,Rain,Crew Issue,G19,T1,150,Tuesday,May,Delayed
+FL1413,SpiceJet,DEL,HYD,29-07-2025,01:54:22,131,03:23:39,167,191,1343,Cloudy,Crew Issue,G10,T2,73,Thursday,June,Delayed
+FL1414,Qatar Airways,DXB,SIN,10-07-2025,05:54:29,153,01:21:47,179,289,2323,Cloudy,Technical,G39,T2,251,Wednesday,October,Delayed
+FL1415,SpiceJet,BLR,HYD,22-05-2024,13:02:09,37,05:47:53,72,319,4583,Rain,Crew Issue,G45,T2,69,Wednesday,December,Delayed
+FL1416,Qatar Airways,SIN,HYD,09-07-2024,10:48:14,16,06:00:39,12,63,3592,Rain,Air Traffic,G14,T2,52,Wednesday,July,Delayed
+FL1417,Akasa Air,CCU,DEL,21-11-2024,10:10:09,79,03:55:37,72,313,2883,Rain,Security,G34,T3,207,Tuesday,November,Delayed
+FL1418,Vistara,DEL,DXB,22-11-2025,10:04:13,81,20:33:32,89,218,3559,Rain,Crew Issue,G19,T2,260,Sunday,December,Delayed
+FL1419,Qatar Airways,BOM,SIN,11-02-2025,10:49:00,149,10:28:41,162,168,841,Storm,Late Aircraft,G38,T2,166,Tuesday,November,Delayed
+FL1420,SpiceJet,HYD,BOM,26-01-2025,14:05:51,158,08:27:09,183,251,2366,Rain,Late Aircraft,G48,T2,222,Sunday,July,Delayed
+FL1421,Akasa Air,BOM,HYD,01-11-2025,17:48:06,93,11:46:42,131,242,2828,Storm,Security,G18,T2,165,Friday,September,Delayed
+FL1422,IndiGo,DXB,HYD,17-02-2026,07:28:46,112,19:06:55,129,310,1626,Fog,Late Aircraft,G11,T3,167,Friday,November,Delayed
+FL1423,Qatar Airways,BOM,DEL,27-08-2025,06:53:48,44,15:58:33,66,257,1583,Rain,Late Aircraft,G20,T3,289,Wednesday,March,Delayed
+FL1424,Emirates,DEL,CCU,24-07-2024,08:10:13,46,20:46:10,62,257,2425,Storm,Air Traffic,G11,T2,186,Monday,January,Delayed
+FL1425,Air India,BOM,BLR,25-02-2025,19:22:04,89,22:17:50,94,120,437,Cloudy,Late Aircraft,G3,T3,156,Friday,October,Delayed
+FL1426,SpiceJet,BLR,HYD,11-12-2024,05:13:35,112,03:50:46,131,313,3057,Storm,Crew Issue,G17,T3,100,Friday,December,Delayed
+FL1427,IndiGo,MAA,BLR,01-11-2024,21:10:30,146,17:07:17,177,94,4976,Storm,Weather,G29,T2,98,Thursday,February,Delayed
+FL1428,Emirates,BOM,SIN,17-03-2025,04:52:19,148,15:24:59,147,251,2703,Rain,Air Traffic,G6,T2,139,Wednesday,August,Delayed
+FL1429,Vistara,BLR,CCU,03-03-2025,09:10:01,3,15:31:22,31,354,3278,Fog,Crew Issue,G1,T1,329,Thursday,December,On-Time
+FL1430,IndiGo,SIN,MAA,01-01-2025,05:36:40,56,21:24:47,81,356,985,Fog,Weather,G44,T3,237,Monday,January,Delayed
+FL1431,IndiGo,CCU,DXB,05-12-2025,21:08:10,56,19:05:29,76,143,4943,Rain,Late Aircraft,G21,T1,155,Friday,March,Delayed
+FL1432,Akasa Air,MAA,BLR,22-07-2024,08:49:30,157,16:17:45,168,279,462,Storm,Crew Issue,G28,T1,319,Sunday,July,Delayed
+FL1433,Emirates,MAA,BOM,06-01-2026,12:03:40,119,07:26:46,118,241,2314,Storm,Crew Issue,G42,T1,266,Saturday,October,Delayed
+FL1434,Akasa Air,BLR,HYD,30-04-2025,15:15:58,69,10:35:15,102,287,2019,Storm,Crew Issue,G43,T1,133,Saturday,April,Delayed
+FL1435,Qatar Airways,BLR,MAA,19-12-2024,09:32:18,81,07:35:24,113,80,989,Clear,Security,G33,T1,56,Sunday,September,Delayed
+FL1436,SpiceJet,MAA,BLR,20-08-2025,09:36:50,69,15:15:01,73,219,1471,Rain,Crew Issue,G24,T1,192,Wednesday,November,Delayed
+FL1437,Emirates,SIN,HYD,26-03-2026,09:57:12,175,01:28:48,171,213,2839,Fog,Security,G14,T2,214,Friday,July,Delayed
+FL1438,SpiceJet,BOM,BLR,17-07-2024,22:09:49,57,08:32:15,67,141,3952,Storm,Security,G3,T1,136,Sunday,November,Delayed
+FL1439,Akasa Air,HYD,CCU,19-06-2025,00:58:42,164,23:39:02,177,220,1194,Clear,Late Aircraft,G42,T1,135,Wednesday,February,Delayed
+FL1440,IndiGo,BLR,MAA,31-08-2024,08:13:47,32,04:11:21,38,211,872,Rain,Air Traffic,G34,T3,77,Tuesday,September,Delayed
+FL1441,Akasa Air,DXB,BLR,23-10-2025,08:09:23,42,05:10:14,72,145,4572,Rain,Security,G17,T2,147,Thursday,March,Delayed
+FL1442,Akasa Air,SIN,CCU,30-10-2024,20:27:32,97,18:54:58,87,64,1837,Rain,Security,G22,T1,161,Thursday,May,Delayed
+FL1443,SpiceJet,MAA,BOM,28-08-2025,15:20:36,56,20:49:43,47,157,3515,Storm,Security,G48,T1,174,Sunday,June,Delayed
+FL1444,Air India,DEL,HYD,10-07-2024,13:22:30,166,07:01:40,177,135,643,Rain,Crew Issue,G47,T3,343,Friday,November,Delayed
+FL1445,Emirates,SIN,BLR,23-04-2026,19:42:33,58,19:18:30,57,158,2027,Storm,Crew Issue,G49,T3,81,Sunday,August,Delayed
+FL1446,IndiGo,SIN,BOM,17-05-2025,08:52:56,134,05:27:39,144,79,1477,Cloudy,Weather,G4,T1,263,Wednesday,January,Delayed
+FL1447,Akasa Air,HYD,BOM,29-04-2026,09:26:30,142,11:33:38,171,272,2049,Fog,Technical,G28,T2,319,Friday,December,Delayed
+FL1448,Akasa Air,SIN,HYD,14-02-2025,06:02:01,154,06:40:23,184,227,2405,Clear,Security,G28,T1,75,Wednesday,September,Delayed
+FL1449,Qatar Airways,CCU,HYD,21-11-2025,12:34:21,112,11:23:55,103,307,4270,Clear,Late Aircraft,G8,T2,93,Friday,April,Delayed
+FL1450,Emirates,DXB,DEL,29-03-2026,07:26:06,96,10:50:58,127,286,2114,Rain,Air Traffic,G25,T1,227,Thursday,May,Delayed
+FL1451,Qatar Airways,CCU,SIN,18-01-2026,09:48:20,170,01:18:06,178,256,4702,Clear,Crew Issue,G11,T1,317,Sunday,April,Delayed
+FL1452,Emirates,BLR,SIN,21-02-2025,04:24:28,73,21:45:56,70,356,2511,Cloudy,Late Aircraft,G37,T2,134,Sunday,December,Delayed
+FL1453,Akasa Air,DXB,BOM,16-12-2025,10:47:58,71,04:26:25,69,106,2585,Rain,Technical,G40,T1,259,Sunday,January,Delayed
+FL1454,SpiceJet,CCU,HYD,08-11-2024,04:51:24,41,18:37:48,50,327,3122,Cloudy,Security,G16,T1,308,Wednesday,December,Delayed
+FL1455,Akasa Air,HYD,MAA,12-04-2026,00:04:15,26,00:11:04,65,99,3276,Fog,Security,G28,T3,178,Sunday,February,Delayed
+FL1456,Qatar Airways,MAA,SIN,26-09-2025,08:10:30,7,06:38:19,33,235,3990,Storm,Weather,G37,T2,309,Sunday,November,On-Time
+FL1457,Qatar Airways,MAA,DXB,14-03-2025,14:40:42,109,22:24:32,117,91,2996,Rain,Technical,G12,T1,65,Saturday,June,Delayed
+FL1458,Qatar Airways,BLR,SIN,08-04-2025,09:52:38,128,18:02:14,162,80,969,Storm,Crew Issue,G13,T1,211,Friday,November,Delayed
+FL1459,Vistara,HYD,DXB,13-05-2024,12:32:57,3,01:10:37,20,161,1829,Storm,Crew Issue,G31,T1,108,Saturday,February,On-Time
+FL1460,Emirates,DXB,HYD,29-03-2026,08:13:44,127,20:58:39,143,84,2700,Fog,Late Aircraft,G4,T2,330,Thursday,August,Delayed
+FL1461,IndiGo,CCU,HYD,07-04-2026,15:08:45,147,10:49:21,170,213,3369,Clear,Late Aircraft,G5,T2,276,Saturday,November,Delayed
+FL1462,IndiGo,CCU,SIN,25-07-2025,22:08:23,8,18:40:44,35,193,3290,Cloudy,Crew Issue,G44,T1,262,Thursday,April,On-Time
+FL1463,SpiceJet,SIN,MAA,27-02-2025,20:26:27,130,20:23:43,131,345,1285,Fog,Air Traffic,G48,T3,326,Friday,March,Delayed
+FL1464,SpiceJet,SIN,DXB,10-02-2025,19:40:07,155,21:40:35,170,249,1280,Clear,Weather,G35,T1,229,Saturday,August,Delayed
+FL1465,Qatar Airways,DEL,BOM,19-03-2025,06:10:51,33,21:51:28,63,134,2626,Rain,Crew Issue,G48,T2,199,Monday,July,Delayed
+FL1466,Air India,BLR,DXB,31-10-2024,21:03:45,16,20:16:18,10,167,1974,Fog,Technical,G30,T2,320,Monday,November,Delayed
+FL1467,IndiGo,CCU,MAA,04-10-2025,23:22:29,90,09:35:29,114,348,1023,Fog,Late Aircraft,G16,T3,115,Tuesday,January,Delayed
+FL1468,SpiceJet,DXB,CCU,14-06-2024,00:50:45,167,01:39:04,184,106,2258,Rain,Crew Issue,G6,T3,250,Monday,December,Delayed
+FL1469,Air India,BOM,DEL,11-02-2026,20:56:20,147,17:29:02,137,306,1154,Storm,Weather,G3,T1,53,Friday,April,Delayed
+FL1470,IndiGo,SIN,DEL,21-06-2025,09:53:29,152,01:58:34,188,353,4928,Fog,Weather,G35,T2,166,Saturday,March,Delayed
+FL1471,Air India,SIN,DEL,15-09-2025,03:53:06,45,23:08:22,48,98,692,Storm,Weather,G35,T3,301,Sunday,February,Delayed
+FL1472,SpiceJet,BOM,BLR,28-12-2024,01:40:24,76,16:57:17,80,269,1438,Fog,Technical,G33,T2,183,Sunday,March,Delayed
+FL1473,Akasa Air,MAA,DEL,08-09-2024,12:58:26,150,18:54:43,166,105,2897,Cloudy,Weather,G14,T3,149,Saturday,March,Delayed
+FL1474,Emirates,SIN,MAA,02-05-2026,17:44:09,71,06:44:03,95,206,4217,Rain,Late Aircraft,G20,T3,330,Tuesday,July,Delayed
+FL1475,Air India,SIN,DXB,09-06-2025,13:27:26,167,23:28:32,180,329,4549,Clear,Weather,G38,T1,264,Sunday,February,Delayed
+FL1476,Vistara,DXB,MAA,02-10-2024,19:30:00,149,10:47:18,186,142,3246,Fog,Technical,G42,T1,324,Wednesday,November,Delayed
+FL1477,Akasa Air,BOM,MAA,09-04-2025,02:35:24,27,22:45:35,36,232,4089,Cloudy,Security,G9,T3,300,Friday,May,Delayed
+FL1478,Qatar Airways,DEL,SIN,18-03-2025,05:16:40,123,17:32:01,131,179,1233,Fog,Technical,G36,T3,335,Friday,September,Delayed
+FL1479,Vistara,BLR,DXB,01-11-2025,12:03:49,8,11:05:20,30,148,2062,Fog,Late Aircraft,G41,T1,271,Sunday,April,On-Time
+FL1480,IndiGo,SIN,BLR,18-09-2024,04:54:17,40,02:53:57,33,127,1287,Rain,Crew Issue,G8,T3,51,Friday,February,Delayed
+FL1481,SpiceJet,DEL,BLR,04-08-2024,04:12:15,104,03:20:10,139,145,4308,Rain,Crew Issue,G16,T3,111,Thursday,June,Delayed
+FL1482,Vistara,MAA,SIN,01-03-2025,01:13:53,112,15:05:45,149,217,2615,Clear,Weather,G35,T3,316,Monday,January,Delayed
+FL1483,IndiGo,HYD,BOM,04-07-2025,00:59:54,63,11:50:48,98,109,1792,Clear,Crew Issue,G21,T3,325,Wednesday,November,Delayed
+FL1484,Emirates,DXB,BLR,01-07-2024,18:44:07,100,03:30:18,92,231,2344,Storm,Weather,G9,T3,84,Friday,September,Delayed
+FL1485,IndiGo,MAA,BLR,29-03-2026,20:31:49,64,11:01:46,61,135,826,Fog,Weather,G41,T3,196,Tuesday,March,Delayed
+FL1486,Akasa Air,CCU,BLR,24-03-2026,18:01:32,25,21:12:16,43,291,1873,Clear,Air Traffic,G20,T3,206,Thursday,December,Delayed
+FL1487,Air India,BLR,DEL,25-04-2025,05:37:21,178,12:55:15,171,87,1071,Clear,Crew Issue,G22,T1,125,Thursday,October,Delayed
+FL1488,Emirates,DEL,BLR,20-02-2026,09:00:02,172,05:05:27,164,253,2307,Rain,Weather,G34,T1,306,Saturday,March,Delayed
+FL1489,Vistara,DEL,MAA,08-07-2024,00:03:48,71,15:20:07,83,321,2561,Fog,Security,G25,T3,259,Sunday,December,Delayed
+FL1490,SpiceJet,HYD,BOM,13-04-2025,16:18:34,144,12:29:29,145,321,1029,Rain,Late Aircraft,G27,T2,185,Saturday,February,Delayed
+FL1491,Qatar Airways,DEL,BLR,11-08-2025,22:33:08,123,17:45:38,154,152,1944,Storm,Air Traffic,G49,T3,191,Monday,May,Delayed
+FL1492,Vistara,BOM,HYD,25-10-2025,00:42:01,34,14:19:27,71,296,2396,Cloudy,Air Traffic,G46,T1,239,Thursday,October,Delayed
+FL1493,Air India,MAA,BLR,30-10-2024,03:08:59,135,15:13:10,167,149,640,Fog,Weather,G49,T3,241,Saturday,December,Delayed
+FL1494,Emirates,BOM,MAA,18-03-2026,23:03:52,61,23:01:30,92,292,2100,Cloudy,Weather,G24,T1,86,Sunday,January,Delayed
+FL1495,Vistara,BLR,DEL,20-12-2024,02:53:50,48,16:29:15,78,76,1155,Fog,Crew Issue,G21,T1,108,Tuesday,January,Delayed
+FL1496,SpiceJet,DXB,BOM,08-05-2025,01:26:11,166,06:23:01,196,98,4792,Rain,Crew Issue,G11,T3,196,Wednesday,May,Delayed
+FL1497,SpiceJet,BOM,CCU,04-03-2025,17:47:23,138,16:26:29,140,186,3929,Clear,Security,G45,T3,50,Monday,March,Delayed
+FL1498,Akasa Air,BLR,SIN,22-08-2025,20:10:16,167,16:39:20,200,78,3703,Clear,Crew Issue,G8,T1,158,Thursday,May,Delayed
+FL1499,IndiGo,HYD,MAA,17-05-2024,05:43:10,11,21:27:36,48,149,1287,Cloudy,Crew Issue,G5,T1,57,Wednesday,April,On-Time
+FL1500,Qatar Airways,HYD,CCU,18-02-2025,06:54:32,152,06:31:35,168,233,4041,Fog,Late Aircraft,G45,T3,264,Tuesday,August,Delayed
+FL1501,Vistara,CCU,HYD,21-12-2025,16:24:48,176,08:53:08,212,205,4333,Rain,Late Aircraft,G4,T3,210,Sunday,April,Delayed
+FL1502,Vistara,MAA,DEL,28-12-2025,07:28:26,126,08:39:46,151,141,2074,Clear,Technical,G28,T3,133,Wednesday,November,Delayed
+FL1503,IndiGo,DEL,BLR,01-10-2024,23:32:55,112,00:57:07,134,302,3002,Storm,Late Aircraft,G41,T3,307,Wednesday,February,Delayed
+FL1504,Air India,BLR,CCU,04-11-2025,22:19:34,28,02:42:23,58,261,2797,Storm,Crew Issue,G11,T1,315,Tuesday,December,Delayed
+FL1505,IndiGo,HYD,DEL,19-06-2024,19:43:19,141,21:32:36,148,110,3489,Rain,Security,G9,T2,88,Saturday,June,Delayed
+FL1506,IndiGo,SIN,CCU,18-10-2024,22:24:43,27,23:47:30,19,143,2801,Cloudy,Weather,G27,T3,166,Tuesday,November,Delayed
+FL1507,Akasa Air,DXB,DEL,20-06-2025,13:13:44,1,06:18:32,19,225,686,Cloudy,Weather,G16,T2,345,Saturday,March,On-Time
+FL1508,SpiceJet,BLR,MAA,26-10-2024,17:50:52,1,15:39:14,7,327,2766,Fog,Crew Issue,G43,T3,262,Sunday,December,On-Time
+FL1509,Vistara,CCU,MAA,01-01-2026,05:07:45,61,16:00:29,99,186,4618,Fog,Technical,G25,T1,328,Tuesday,March,Delayed
+FL1510,IndiGo,BOM,MAA,14-05-2025,01:40:26,151,04:51:12,178,343,2624,Rain,Crew Issue,G43,T2,195,Wednesday,July,Delayed
+FL1511,SpiceJet,BOM,CCU,09-01-2026,04:06:03,163,10:29:42,187,132,4320,Rain,Crew Issue,G38,T2,171,Thursday,May,Delayed
+FL1512,Air India,BOM,DEL,24-10-2025,20:16:58,29,15:32:29,62,347,1774,Fog,Late Aircraft,G3,T3,205,Friday,January,Delayed
+FL1513,Qatar Airways,BLR,SIN,23-06-2024,05:56:50,171,17:07:41,175,100,3434,Fog,Technical,G23,T1,124,Saturday,April,Delayed
+FL1514,Akasa Air,CCU,BLR,09-06-2024,21:49:50,47,13:58:49,68,177,1935,Clear,Late Aircraft,G33,T2,216,Wednesday,March,Delayed
+FL1515,Qatar Airways,DEL,HYD,27-05-2025,23:45:28,33,22:12:54,50,66,3567,Storm,Security,G37,T3,105,Friday,April,Delayed
+FL1516,IndiGo,BOM,HYD,12-03-2026,14:50:51,64,17:47:03,54,106,3519,Rain,Weather,G19,T1,206,Monday,April,Delayed
+FL1517,Qatar Airways,MAA,BOM,16-11-2024,09:37:37,145,08:32:47,162,185,3228,Storm,Air Traffic,G38,T3,113,Saturday,November,Delayed
+FL1518,Akasa Air,BOM,CCU,23-09-2024,00:26:42,68,12:45:51,65,235,3999,Fog,Weather,G12,T1,80,Monday,April,Delayed
+FL1519,Air India,SIN,DXB,18-03-2025,23:23:12,131,13:13:00,169,126,4952,Clear,Air Traffic,G4,T1,203,Monday,August,Delayed
+FL1520,Akasa Air,DEL,MAA,10-01-2026,05:56:19,154,13:21:40,189,293,3934,Storm,Late Aircraft,G6,T2,174,Thursday,January,Delayed
+FL1521,Vistara,DXB,CCU,11-01-2026,20:10:34,142,09:06:52,161,181,2472,Rain,Air Traffic,G37,T1,219,Tuesday,May,Delayed
+FL1522,Air India,HYD,BLR,16-02-2026,09:19:05,123,17:13:37,149,94,3458,Clear,Security,G6,T3,245,Friday,April,Delayed
+FL1523,Vistara,HYD,BLR,05-05-2025,00:53:44,17,21:45:26,15,344,4472,Cloudy,Crew Issue,G47,T1,175,Monday,May,Delayed
+FL1524,Vistara,DXB,BOM,12-06-2025,23:59:34,144,12:47:10,178,283,1601,Rain,Late Aircraft,G4,T3,118,Tuesday,November,Delayed
+FL1525,Qatar Airways,DEL,HYD,25-04-2025,17:55:21,164,14:35:50,194,221,664,Fog,Crew Issue,G22,T3,91,Sunday,August,Delayed
+FL1526,Akasa Air,CCU,HYD,19-09-2024,03:38:18,97,01:44:32,118,168,640,Fog,Crew Issue,G46,T2,70,Tuesday,January,Delayed
+FL1527,Air India,CCU,HYD,05-11-2025,14:26:55,43,04:35:26,43,151,1603,Clear,Air Traffic,G35,T1,160,Sunday,August,Delayed
+FL1528,Akasa Air,CCU,SIN,26-02-2025,04:18:09,97,00:04:47,97,332,3470,Rain,Technical,G18,T1,153,Tuesday,November,Delayed
+FL1529,Akasa Air,BLR,MAA,22-05-2025,22:51:27,151,23:11:32,159,224,1298,Clear,Technical,G21,T3,57,Sunday,July,Delayed
+FL1530,Qatar Airways,CCU,SIN,10-03-2026,19:19:35,27,16:06:04,21,204,2960,Rain,Technical,G36,T1,196,Friday,June,Delayed
+FL1531,IndiGo,CCU,HYD,01-03-2026,07:16:42,63,09:39:25,79,176,566,Fog,Security,G45,T3,96,Tuesday,October,Delayed
+FL1532,Qatar Airways,BLR,SIN,23-07-2024,08:36:21,139,09:38:12,149,305,1810,Storm,Security,G28,T2,54,Tuesday,August,Delayed
+FL1533,IndiGo,DEL,BOM,09-09-2024,04:56:05,19,10:21:18,49,105,1182,Rain,Security,G19,T1,203,Monday,September,Delayed
+FL1534,SpiceJet,SIN,DEL,07-11-2025,15:06:45,47,15:54:01,80,295,4977,Cloudy,Technical,G36,T1,151,Wednesday,December,Delayed
+FL1535,Qatar Airways,MAA,SIN,09-06-2024,23:01:01,74,07:14:45,96,275,2754,Fog,Weather,G15,T1,252,Tuesday,October,Delayed
+FL1536,IndiGo,MAA,SIN,02-03-2025,14:00:17,178,03:07:00,181,278,4477,Cloudy,Air Traffic,G28,T1,224,Wednesday,December,Delayed
+FL1537,IndiGo,DXB,HYD,13-11-2025,01:33:05,3,05:28:45,0,222,3419,Fog,Air Traffic,G9,T2,165,Tuesday,March,On-Time
+FL1538,Emirates,DXB,SIN,06-01-2025,16:13:54,172,16:10:21,178,284,4235,Storm,Late Aircraft,G8,T2,196,Tuesday,December,Delayed
+FL1539,Emirates,CCU,BOM,11-05-2024,07:09:24,62,20:16:32,89,72,1242,Cloudy,Technical,G46,T2,238,Wednesday,December,Delayed
+FL1540,Air India,HYD,BOM,04-09-2024,13:16:39,30,08:53:39,35,173,2827,Clear,Late Aircraft,G22,T3,263,Thursday,October,Delayed
+FL1541,Akasa Air,DEL,MAA,06-08-2025,02:25:38,170,06:46:55,162,113,3253,Fog,Security,G42,T1,175,Saturday,October,Delayed
+FL1542,Air India,BOM,HYD,27-05-2025,16:34:42,20,06:44:52,25,263,4052,Fog,Late Aircraft,G24,T1,84,Tuesday,June,Delayed
+FL1543,Emirates,CCU,BOM,12-02-2026,14:26:14,29,18:23:24,48,222,4414,Clear,Late Aircraft,G8,T3,331,Saturday,December,Delayed
+FL1544,IndiGo,CCU,BLR,05-10-2025,09:43:06,112,23:19:10,141,89,2994,Fog,Technical,G3,T1,114,Saturday,February,Delayed
+FL1545,Qatar Airways,CCU,MAA,09-11-2024,20:01:24,35,23:43:51,49,96,3258,Clear,Late Aircraft,G37,T1,190,Monday,July,Delayed
+FL1546,Vistara,SIN,CCU,03-10-2024,20:28:41,135,16:30:06,129,247,500,Rain,Crew Issue,G1,T2,213,Thursday,June,Delayed
+FL1547,Qatar Airways,DXB,DEL,25-06-2024,22:08:29,34,15:01:40,25,250,3475,Storm,Security,G23,T3,314,Sunday,November,Delayed
+FL1548,Vistara,BLR,BOM,07-01-2026,13:35:18,33,06:25:32,68,319,713,Clear,Weather,G31,T2,124,Monday,June,Delayed
+FL1549,IndiGo,HYD,DEL,12-12-2025,22:10:17,98,11:33:06,95,318,1209,Fog,Technical,G13,T2,222,Tuesday,December,Delayed
+FL1550,IndiGo,BOM,CCU,08-03-2025,23:24:24,33,11:51:44,67,120,2430,Fog,Security,G38,T3,65,Thursday,December,Delayed
+FL1551,Emirates,DEL,HYD,27-01-2025,12:03:30,65,09:28:29,94,204,2722,Rain,Security,G34,T2,283,Tuesday,January,Delayed
+FL1552,Air India,BOM,BLR,12-01-2026,22:52:33,123,08:20:18,128,247,4845,Rain,Crew Issue,G26,T3,62,Friday,December,Delayed
+FL1553,SpiceJet,HYD,DXB,22-03-2025,08:19:34,110,00:23:57,130,349,2642,Fog,Technical,G3,T1,264,Monday,July,Delayed
+FL1554,IndiGo,SIN,BOM,01-07-2025,02:00:37,119,03:03:14,135,177,3080,Fog,Weather,G39,T2,102,Monday,May,Delayed
+FL1555,IndiGo,SIN,BOM,25-03-2026,12:29:36,38,13:10:45,28,292,736,Clear,Technical,G13,T1,70,Saturday,May,Delayed
+FL1556,Qatar Airways,BOM,HYD,04-06-2024,15:55:08,146,00:49:37,154,340,2684,Clear,Air Traffic,G23,T2,81,Thursday,August,Delayed
+FL1557,Emirates,HYD,DEL,07-08-2025,00:50:14,73,10:03:35,72,113,1887,Cloudy,Crew Issue,G20,T1,209,Wednesday,July,Delayed
+FL1558,Vistara,CCU,BOM,28-08-2025,20:29:59,113,12:29:31,116,237,1311,Clear,Air Traffic,G24,T2,71,Thursday,May,Delayed
+FL1559,SpiceJet,BLR,SIN,04-02-2026,19:07:16,29,01:13:35,22,264,1335,Cloudy,Weather,G31,T1,339,Sunday,December,Delayed
+FL1560,Emirates,BOM,DEL,17-01-2026,02:58:41,81,20:18:16,104,186,1564,Fog,Security,G29,T2,203,Sunday,October,Delayed
+FL1561,IndiGo,BLR,CCU,15-12-2025,22:48:43,17,00:59:42,38,273,2641,Storm,Security,G17,T2,137,Friday,November,Delayed
+FL1562,Air India,SIN,HYD,12-06-2024,00:49:16,49,16:31:32,46,216,967,Storm,Air Traffic,G11,T1,170,Thursday,December,Delayed
+FL1563,Akasa Air,DEL,CCU,08-01-2026,06:34:15,64,08:24:50,96,206,4532,Cloudy,Security,G27,T3,211,Friday,March,Delayed
+FL1564,Vistara,BOM,SIN,09-05-2024,21:42:04,171,23:13:23,164,159,1118,Rain,Technical,G13,T1,132,Sunday,April,Delayed
+FL1565,Vistara,MAA,DEL,05-11-2025,05:21:04,176,12:36:41,171,171,3792,Clear,Late Aircraft,G17,T2,235,Tuesday,November,Delayed
+FL1566,Akasa Air,MAA,SIN,04-01-2026,01:11:37,156,01:30:22,178,276,4418,Fog,Air Traffic,G21,T3,284,Sunday,February,Delayed
+FL1567,Akasa Air,BOM,HYD,20-07-2025,13:10:58,12,22:17:31,38,83,822,Storm,Security,G17,T2,330,Sunday,May,On-Time
+FL1568,IndiGo,SIN,DXB,28-05-2024,11:11:46,93,02:22:24,91,80,1616,Cloudy,Security,G42,T3,150,Sunday,July,Delayed
+FL1569,Air India,BOM,HYD,03-08-2025,07:25:10,47,21:52:28,75,87,1323,Rain,Security,G41,T3,195,Friday,February,Delayed
+FL1570,Qatar Airways,BOM,CCU,13-11-2025,02:03:57,104,11:09:01,100,72,2557,Clear,Air Traffic,G37,T3,149,Wednesday,July,Delayed
+FL1571,Emirates,HYD,BLR,08-09-2025,05:15:47,30,01:42:08,21,75,4724,Storm,Security,G38,T3,149,Thursday,January,Delayed
+FL1572,Vistara,MAA,BLR,04-01-2026,11:18:51,108,05:15:58,120,232,2072,Rain,Security,G34,T3,265,Saturday,December,Delayed
+FL1573,Vistara,DXB,DEL,09-12-2025,12:20:58,7,21:07:18,3,351,1239,Fog,Late Aircraft,G21,T1,77,Monday,December,On-Time
+FL1574,SpiceJet,SIN,MAA,22-03-2025,15:09:29,53,23:18:24,43,80,3623,Clear,Air Traffic,G43,T2,276,Wednesday,May,Delayed
+FL1575,Emirates,SIN,DXB,23-03-2025,19:30:05,12,04:38:18,50,177,2401,Clear,Technical,G10,T1,102,Wednesday,December,On-Time
+FL1576,Qatar Airways,SIN,DXB,16-01-2026,02:53:31,43,14:49:02,79,112,3957,Fog,Air Traffic,G46,T3,62,Thursday,October,Delayed
+FL1577,Vistara,BOM,MAA,27-02-2026,01:52:51,164,19:53:43,191,339,4141,Rain,Crew Issue,G22,T3,187,Thursday,September,Delayed
+FL1578,IndiGo,CCU,SIN,28-07-2024,18:25:47,162,01:51:52,176,170,2961,Cloudy,Technical,G17,T1,317,Wednesday,December,Delayed
+FL1579,Qatar Airways,DXB,BOM,01-08-2024,07:58:29,115,01:41:57,128,88,4566,Cloudy,Security,G25,T1,277,Tuesday,April,Delayed
+FL1580,IndiGo,BLR,SIN,06-06-2024,21:34:05,121,05:16:43,136,289,4204,Rain,Weather,G20,T2,168,Monday,June,Delayed
+FL1581,SpiceJet,BLR,MAA,07-08-2024,02:41:44,155,15:12:02,160,234,2812,Storm,Security,G40,T2,141,Saturday,February,Delayed
+FL1582,SpiceJet,DEL,MAA,24-10-2025,12:18:47,26,19:22:37,57,246,2522,Storm,Security,G30,T2,282,Tuesday,August,Delayed
+FL1583,Air India,CCU,MAA,04-01-2025,17:06:50,161,09:26:57,187,193,3762,Fog,Late Aircraft,G32,T3,273,Monday,May,Delayed
+FL1584,IndiGo,DEL,HYD,25-02-2025,12:48:26,152,12:51:59,174,114,4325,Rain,Security,G7,T1,293,Sunday,April,Delayed
+FL1585,Air India,BLR,DXB,06-09-2024,21:13:59,56,14:13:35,57,75,1019,Fog,Late Aircraft,G43,T2,184,Friday,January,Delayed
+FL1586,Air India,DEL,HYD,18-06-2025,03:29:03,110,11:45:22,108,219,4726,Rain,Security,G8,T1,274,Tuesday,May,Delayed
+FL1587,Emirates,HYD,DXB,25-07-2024,12:55:01,44,20:00:09,55,118,943,Fog,Crew Issue,G40,T2,244,Sunday,June,Delayed
+FL1588,Air India,SIN,MAA,20-11-2025,01:46:07,156,03:15:36,186,216,2957,Storm,Air Traffic,G34,T3,254,Friday,October,Delayed
+FL1589,IndiGo,DXB,HYD,16-01-2026,06:20:09,78,23:07:23,90,277,815,Clear,Security,G26,T3,153,Sunday,June,Delayed
+FL1590,Emirates,HYD,MAA,14-11-2025,01:42:41,136,10:05:15,130,155,1279,Clear,Crew Issue,G11,T1,192,Wednesday,May,Delayed
+FL1591,SpiceJet,CCU,SIN,30-09-2024,06:37:54,31,01:08:53,48,337,532,Fog,Late Aircraft,G17,T3,108,Saturday,May,Delayed
+FL1592,Akasa Air,BLR,BOM,30-10-2024,22:18:47,89,09:45:19,122,258,2709,Rain,Weather,G26,T3,74,Thursday,November,Delayed
+FL1593,Air India,CCU,DXB,23-10-2025,02:41:16,137,14:48:36,171,326,760,Clear,Late Aircraft,G8,T2,117,Wednesday,May,Delayed
+FL1594,Vistara,DXB,BLR,01-08-2025,18:19:53,94,03:24:46,111,108,3473,Clear,Security,G24,T3,237,Friday,April,Delayed
+FL1595,Emirates,CCU,DXB,25-04-2025,15:39:19,56,22:03:29,92,218,3613,Rain,Late Aircraft,G26,T3,290,Saturday,August,Delayed
+FL1596,SpiceJet,CCU,HYD,14-03-2026,02:35:52,113,03:48:32,107,143,2595,Rain,Late Aircraft,G33,T3,275,Tuesday,May,Delayed
+FL1597,Air India,BOM,HYD,25-05-2024,09:07:11,14,02:32:40,35,120,2800,Fog,Late Aircraft,G6,T3,343,Sunday,March,On-Time
+FL1598,IndiGo,CCU,DXB,30-09-2024,12:26:18,61,17:02:58,72,269,2649,Rain,Air Traffic,G13,T1,272,Saturday,May,Delayed
+FL1599,SpiceJet,DXB,SIN,24-12-2025,19:41:19,2,00:40:06,21,65,1416,Fog,Air Traffic,G8,T3,284,Wednesday,August,On-Time
+FL1600,IndiGo,BOM,HYD,07-01-2025,09:05:40,107,08:21:07,129,268,4123,Cloudy,Security,G11,T3,99,Monday,August,Delayed
+FL1601,IndiGo,BLR,CCU,08-05-2025,17:22:38,10,21:58:53,30,215,3863,Storm,Security,G6,T2,218,Thursday,January,On-Time
+FL1602,Air India,MAA,BOM,07-02-2026,20:29:30,15,16:01:44,8,311,3043,Fog,Crew Issue,G26,T3,188,Thursday,March,On-Time
+FL1603,Emirates,CCU,SIN,12-04-2026,17:02:28,100,17:51:52,114,333,1169,Rain,Weather,G18,T2,203,Wednesday,November,Delayed
+FL1604,Emirates,MAA,BLR,18-08-2024,19:01:36,133,09:32:49,126,167,1182,Clear,Weather,G29,T2,108,Wednesday,April,Delayed
+FL1605,Qatar Airways,MAA,CCU,02-07-2025,09:07:32,124,14:00:14,147,332,544,Rain,Crew Issue,G16,T1,296,Tuesday,October,Delayed
+FL1606,Vistara,DXB,CCU,08-07-2025,13:57:46,7,15:17:59,9,67,2825,Storm,Crew Issue,G32,T2,143,Thursday,January,On-Time
+FL1607,Air India,DEL,CCU,02-02-2026,10:08:24,64,14:34:17,96,98,4582,Fog,Weather,G20,T2,137,Sunday,September,Delayed
+FL1608,Emirates,BLR,DEL,06-11-2025,08:48:50,85,08:02:29,103,145,3415,Clear,Late Aircraft,G9,T3,123,Tuesday,April,Delayed
+FL1609,Air India,CCU,MAA,30-05-2025,02:09:28,35,04:02:18,61,215,4309,Clear,Crew Issue,G43,T3,265,Friday,May,Delayed
+FL1610,Qatar Airways,MAA,DEL,10-07-2025,06:09:31,169,10:17:16,198,114,2803,Clear,Air Traffic,G48,T2,140,Thursday,December,Delayed
+FL1611,Emirates,CCU,BLR,28-06-2024,13:43:34,21,02:37:32,47,214,3236,Rain,Air Traffic,G29,T2,190,Wednesday,April,Delayed
+FL1612,Vistara,MAA,SIN,18-11-2024,14:07:38,172,08:20:19,171,287,1761,Clear,Technical,G27,T1,83,Saturday,March,Delayed
+FL1613,IndiGo,BLR,DXB,20-12-2024,01:47:47,128,17:25:34,149,148,2952,Cloudy,Security,G7,T1,290,Monday,June,Delayed
+FL1614,Emirates,DEL,HYD,18-01-2025,05:06:46,66,07:34:55,75,176,1929,Fog,Security,G35,T3,148,Monday,October,Delayed
+FL1615,IndiGo,DEL,DXB,29-07-2025,12:21:14,112,06:44:27,140,150,4229,Clear,Weather,G14,T3,66,Monday,July,Delayed
+FL1616,IndiGo,SIN,BLR,27-06-2025,18:17:53,17,23:40:10,51,175,2303,Cloudy,Air Traffic,G27,T2,131,Saturday,March,Delayed
+FL1617,Emirates,BLR,DXB,27-09-2024,16:39:04,67,21:03:17,57,173,453,Clear,Air Traffic,G45,T2,165,Saturday,February,Delayed
+FL1618,Akasa Air,HYD,CCU,14-05-2025,14:07:10,86,18:32:01,85,262,1364,Rain,Crew Issue,G41,T1,242,Friday,December,Delayed
+FL1619,IndiGo,BOM,BLR,04-11-2025,02:15:36,144,17:16:13,155,296,2260,Clear,Crew Issue,G29,T1,117,Friday,April,Delayed
+FL1620,Akasa Air,HYD,SIN,26-05-2024,09:21:21,138,08:18:48,148,158,2935,Rain,Air Traffic,G26,T3,158,Thursday,May,Delayed
+FL1621,Akasa Air,MAA,DEL,09-10-2024,12:16:44,46,07:37:51,42,213,4947,Storm,Technical,G5,T3,181,Thursday,June,Delayed
+FL1622,IndiGo,BLR,DEL,10-11-2025,17:28:23,22,15:48:29,53,143,1722,Clear,Weather,G45,T3,270,Saturday,August,Delayed
+FL1623,Qatar Airways,MAA,DEL,25-02-2025,10:36:26,135,04:42:27,165,206,4507,Cloudy,Weather,G39,T3,95,Saturday,February,Delayed
+FL1624,Air India,HYD,DXB,26-01-2025,08:04:08,155,11:20:42,190,330,4366,Storm,Air Traffic,G37,T2,244,Thursday,January,Delayed
+FL1625,Air India,BOM,SIN,11-03-2026,18:29:00,110,07:31:27,123,342,4435,Clear,Air Traffic,G36,T2,73,Sunday,November,Delayed
+FL1626,Emirates,CCU,BLR,23-02-2025,16:51:59,23,04:51:06,54,63,4206,Clear,Weather,G34,T1,230,Monday,March,Delayed
+FL1627,SpiceJet,MAA,BLR,10-12-2024,18:18:30,115,17:03:24,127,128,553,Storm,Security,G41,T2,298,Saturday,February,Delayed
+FL1628,SpiceJet,CCU,SIN,17-10-2025,13:35:16,53,13:21:56,48,197,3027,Rain,Weather,G7,T2,152,Thursday,August,Delayed
+FL1629,Vistara,HYD,SIN,21-08-2025,21:43:14,165,18:04:41,175,271,683,Storm,Crew Issue,G22,T3,87,Sunday,March,Delayed
+FL1630,Emirates,BOM,MAA,23-09-2025,13:14:09,163,19:16:28,199,228,2288,Clear,Technical,G13,T1,79,Thursday,October,Delayed
+FL1631,Akasa Air,SIN,DXB,07-05-2024,14:25:44,100,19:57:09,114,171,505,Storm,Technical,G48,T3,96,Thursday,June,Delayed
+FL1632,Emirates,DEL,SIN,08-11-2025,04:20:38,117,04:05:09,142,98,3899,Rain,Crew Issue,G22,T2,262,Monday,July,Delayed
+FL1633,IndiGo,SIN,DEL,04-02-2026,22:36:25,53,23:36:05,63,300,571,Fog,Late Aircraft,G31,T2,251,Monday,December,Delayed
+FL1634,Qatar Airways,BLR,DXB,24-07-2025,14:04:32,31,04:58:32,54,314,4649,Fog,Security,G9,T3,188,Saturday,December,Delayed
+FL1635,Emirates,BOM,HYD,12-07-2024,21:00:31,9,05:03:35,20,332,4207,Rain,Crew Issue,G48,T2,160,Saturday,November,On-Time
+FL1636,Qatar Airways,DXB,BOM,04-11-2024,01:36:46,152,18:19:58,162,161,3100,Cloudy,Security,G1,T1,240,Monday,November,Delayed
+FL1637,Qatar Airways,MAA,CCU,29-08-2025,06:09:10,50,14:39:00,75,140,2836,Storm,Crew Issue,G24,T1,243,Monday,August,Delayed
+FL1638,SpiceJet,CCU,BOM,04-01-2026,15:54:07,103,11:54:10,107,155,3794,Fog,Weather,G6,T3,50,Tuesday,September,Delayed
+FL1639,Qatar Airways,DXB,BLR,19-08-2024,08:04:30,150,02:06:18,178,185,3964,Rain,Weather,G34,T2,300,Thursday,October,Delayed
+FL1640,Qatar Airways,SIN,DEL,27-07-2024,06:01:38,168,06:23:26,186,132,4977,Storm,Crew Issue,G6,T2,294,Monday,August,Delayed
+FL1641,Vistara,DEL,BOM,11-07-2025,13:30:53,2,17:05:28,8,122,860,Storm,Weather,G12,T3,224,Friday,January,On-Time
+FL1642,Akasa Air,BOM,SIN,19-09-2025,13:21:08,108,05:01:47,98,330,3471,Cloudy,Late Aircraft,G32,T2,177,Friday,September,Delayed
+FL1643,Emirates,BLR,DXB,28-12-2024,12:36:28,145,05:14:05,183,102,2207,Storm,Air Traffic,G35,T2,127,Sunday,January,Delayed
+FL1644,Vistara,BLR,SIN,13-08-2025,10:04:30,57,08:56:10,79,329,3686,Fog,Security,G29,T3,217,Friday,August,Delayed
+FL1645,Vistara,CCU,DXB,28-04-2026,08:36:59,82,05:52:21,72,342,3707,Clear,Weather,G6,T3,62,Tuesday,January,Delayed
+FL1646,Qatar Airways,CCU,MAA,28-09-2025,21:45:18,63,15:06:22,87,206,3063,Fog,Security,G16,T3,92,Wednesday,December,Delayed
+FL1647,Air India,BOM,DEL,25-12-2025,12:29:17,88,05:00:01,97,154,751,Storm,Technical,G44,T3,200,Saturday,December,Delayed
+FL1648,SpiceJet,DXB,DEL,29-09-2025,05:33:21,1,00:57:57,12,66,3577,Cloudy,Technical,G3,T1,163,Monday,July,On-Time
+FL1649,Qatar Airways,BLR,HYD,15-10-2025,15:46:20,15,11:58:38,23,238,4895,Rain,Late Aircraft,G16,T2,173,Monday,July,On-Time
+FL1650,Qatar Airways,DEL,DXB,18-02-2026,07:11:57,112,17:24:52,113,185,2678,Cloudy,Weather,G5,T2,332,Thursday,November,Delayed
+FL1651,IndiGo,MAA,HYD,05-04-2026,11:24:48,139,14:15:07,145,156,816,Cloudy,Late Aircraft,G28,T1,118,Friday,July,Delayed
+FL1652,Qatar Airways,SIN,HYD,14-03-2025,04:40:19,117,16:40:36,139,109,4251,Rain,Late Aircraft,G41,T3,68,Tuesday,December,Delayed
+FL1653,Vistara,MAA,DEL,06-06-2024,13:39:27,122,03:18:21,113,106,751,Cloudy,Security,G33,T2,190,Friday,July,Delayed
+FL1654,Emirates,DXB,HYD,20-08-2024,10:40:17,83,16:33:22,79,138,4610,Rain,Air Traffic,G14,T2,264,Wednesday,May,Delayed
+FL1655,Air India,SIN,DXB,21-11-2025,16:49:08,146,10:51:46,164,307,3061,Rain,Crew Issue,G41,T3,106,Saturday,December,Delayed
+FL1656,Emirates,HYD,SIN,22-03-2025,21:54:35,135,18:57:03,150,121,501,Cloudy,Air Traffic,G17,T3,55,Saturday,September,Delayed
+FL1657,Air India,BLR,BOM,25-04-2025,18:50:10,57,22:30:51,51,228,2288,Cloudy,Late Aircraft,G18,T2,268,Saturday,June,Delayed
+FL1658,Emirates,MAA,DXB,21-06-2024,19:02:54,176,10:57:02,177,130,2734,Rain,Security,G10,T3,147,Saturday,November,Delayed
+FL1659,IndiGo,CCU,DXB,23-08-2025,16:29:22,88,13:12:48,112,267,2933,Fog,Security,G38,T2,71,Friday,October,Delayed
+FL1660,Emirates,DXB,CCU,04-10-2024,19:03:13,153,23:20:53,185,354,4614,Cloudy,Air Traffic,G29,T2,279,Sunday,January,Delayed
+FL1661,Vistara,BOM,DEL,25-10-2024,04:12:25,19,15:16:39,35,100,2495,Rain,Weather,G44,T3,133,Monday,April,Delayed
+FL1662,Qatar Airways,HYD,SIN,04-11-2025,09:23:14,110,15:38:39,101,349,2042,Rain,Air Traffic,G27,T3,315,Wednesday,March,Delayed
+FL1663,Qatar Airways,DEL,DXB,13-09-2024,19:48:32,72,04:38:48,94,107,4495,Fog,Technical,G2,T3,114,Monday,June,Delayed
+FL1664,Akasa Air,SIN,DEL,09-12-2025,15:54:08,82,09:00:30,97,325,3294,Cloudy,Technical,G48,T3,297,Saturday,September,Delayed
+FL1665,Akasa Air,DXB,BOM,08-03-2026,20:37:34,21,07:12:50,46,157,2761,Fog,Late Aircraft,G25,T3,333,Monday,July,Delayed
+FL1666,Qatar Airways,DXB,BLR,01-09-2024,10:00:18,112,07:41:48,146,127,1116,Fog,Security,G9,T1,213,Monday,December,Delayed
+FL1667,Akasa Air,HYD,BOM,28-09-2024,04:15:53,82,11:36:04,72,197,3791,Storm,Technical,G9,T3,286,Saturday,December,Delayed
+FL1668,Akasa Air,CCU,SIN,09-07-2025,18:23:55,45,05:18:43,76,347,475,Cloudy,Late Aircraft,G38,T3,194,Tuesday,December,Delayed
+FL1669,Vistara,BLR,MAA,13-07-2025,08:39:30,73,15:20:11,112,342,2401,Rain,Late Aircraft,G35,T1,293,Tuesday,March,Delayed
+FL1670,IndiGo,BOM,HYD,06-07-2024,17:59:00,84,23:28:16,98,330,3976,Storm,Air Traffic,G9,T3,297,Wednesday,March,Delayed
+FL1671,Qatar Airways,MAA,CCU,14-12-2025,16:19:44,91,21:49:07,97,102,2724,Fog,Weather,G41,T2,219,Thursday,December,Delayed
+FL1672,Air India,MAA,DEL,23-03-2025,15:18:42,177,07:40:54,186,227,2386,Fog,Security,G49,T1,294,Sunday,November,Delayed
+FL1673,Qatar Airways,HYD,BLR,13-08-2025,15:25:13,150,15:34:09,186,106,3084,Cloudy,Security,G46,T2,118,Monday,December,Delayed
+FL1674,Air India,CCU,HYD,08-04-2026,03:29:00,42,23:36:46,79,349,2550,Rain,Security,G3,T1,210,Sunday,September,Delayed
+FL1675,Akasa Air,MAA,HYD,11-02-2026,02:48:37,74,21:15:00,79,153,1627,Cloudy,Crew Issue,G10,T1,87,Wednesday,April,Delayed
+FL1676,SpiceJet,BLR,DXB,25-07-2025,12:48:22,126,22:23:16,134,223,2666,Fog,Air Traffic,G13,T2,223,Tuesday,October,Delayed
+FL1677,Qatar Airways,SIN,HYD,25-02-2025,16:55:44,130,04:20:25,129,150,4121,Clear,Weather,G8,T3,228,Wednesday,August,Delayed
+FL1678,Akasa Air,BLR,DXB,10-03-2025,09:07:46,72,05:38:58,67,166,594,Cloudy,Technical,G49,T1,333,Saturday,June,Delayed
+FL1679,IndiGo,DXB,SIN,22-12-2024,14:05:33,96,12:41:38,122,196,2173,Storm,Air Traffic,G21,T3,307,Saturday,May,Delayed
+FL1680,Qatar Airways,DEL,CCU,16-07-2024,19:46:34,57,02:59:23,89,182,1041,Fog,Security,G40,T3,163,Thursday,August,Delayed
+FL1681,Emirates,DEL,BLR,12-07-2025,06:44:28,106,20:43:35,132,151,362,Rain,Air Traffic,G22,T3,188,Monday,February,Delayed
+FL1682,Akasa Air,MAA,SIN,19-02-2025,08:02:42,3,13:14:30,14,315,434,Cloudy,Weather,G43,T3,137,Monday,April,On-Time
+FL1683,Emirates,BLR,SIN,27-07-2024,20:21:16,67,03:18:08,84,266,1122,Storm,Weather,G3,T1,291,Friday,December,Delayed
+FL1684,Qatar Airways,DXB,CCU,28-09-2025,09:42:29,120,04:03:30,110,161,1224,Clear,Late Aircraft,G5,T3,251,Tuesday,January,Delayed
+FL1685,SpiceJet,SIN,CCU,17-08-2024,11:32:58,91,13:05:12,101,301,2968,Clear,Weather,G47,T1,133,Monday,March,Delayed
+FL1686,IndiGo,HYD,CCU,18-12-2024,10:49:01,82,04:57:42,106,128,495,Cloudy,Technical,G12,T2,332,Thursday,July,Delayed
+FL1687,Vistara,SIN,CCU,23-09-2025,00:46:45,55,03:26:45,86,82,576,Storm,Air Traffic,G24,T1,202,Thursday,November,Delayed
+FL1688,IndiGo,BOM,CCU,18-10-2025,06:12:45,54,20:34:23,89,91,866,Cloudy,Weather,G32,T3,85,Friday,January,Delayed
+FL1689,Akasa Air,BOM,BLR,01-11-2024,12:30:47,109,11:23:02,140,236,4709,Clear,Air Traffic,G39,T3,146,Wednesday,October,Delayed
+FL1690,Qatar Airways,BOM,BLR,02-11-2024,08:54:14,112,07:49:28,122,196,1329,Storm,Crew Issue,G45,T2,84,Sunday,November,Delayed
+FL1691,Air India,DEL,HYD,23-11-2025,23:05:02,38,03:59:30,49,177,2608,Cloudy,Technical,G42,T1,136,Saturday,July,Delayed
+FL1692,Air India,HYD,DXB,27-10-2025,15:31:55,75,14:33:06,87,273,2804,Fog,Late Aircraft,G29,T3,288,Saturday,June,Delayed
+FL1693,Qatar Airways,DEL,CCU,13-07-2024,02:50:31,164,12:24:31,176,200,3929,Cloudy,Technical,G47,T1,161,Monday,January,Delayed
+FL1694,Akasa Air,DXB,HYD,13-09-2025,12:27:30,150,22:01:22,184,306,3987,Clear,Air Traffic,G21,T1,183,Saturday,December,Delayed
+FL1695,Vistara,CCU,BOM,21-10-2025,21:50:46,107,10:52:41,114,153,4684,Cloudy,Technical,G30,T1,258,Tuesday,April,Delayed
+FL1696,IndiGo,HYD,BOM,13-06-2025,15:25:17,125,13:58:44,157,181,1973,Rain,Late Aircraft,G47,T3,164,Sunday,January,Delayed
+FL1697,Akasa Air,SIN,CCU,23-07-2024,11:00:43,163,23:33:57,186,260,3911,Clear,Air Traffic,G11,T3,255,Monday,May,Delayed
+FL1698,Emirates,BOM,MAA,09-11-2024,13:08:41,166,11:27:06,202,305,446,Cloudy,Crew Issue,G15,T2,201,Wednesday,March,Delayed
+FL1699,SpiceJet,BLR,DEL,07-01-2025,03:34:10,71,09:47:15,103,196,3660,Cloudy,Weather,G33,T1,68,Wednesday,August,Delayed
+FL1700,Akasa Air,SIN,MAA,10-09-2024,18:31:56,73,17:16:56,102,234,748,Fog,Late Aircraft,G29,T3,190,Tuesday,October,Delayed
+FL1701,SpiceJet,CCU,SIN,23-06-2024,13:54:53,128,20:55:25,151,152,4315,Storm,Technical,G47,T1,254,Wednesday,April,Delayed
+FL1702,Emirates,BLR,DXB,01-10-2024,20:13:49,47,16:26:31,85,304,3688,Storm,Air Traffic,G29,T2,344,Tuesday,November,Delayed
+FL1703,Vistara,CCU,BLR,22-06-2024,15:28:00,127,19:12:10,140,341,4466,Storm,Air Traffic,G13,T2,331,Thursday,September,Delayed
+FL1704,Emirates,BOM,MAA,20-06-2024,00:59:04,48,17:06:43,40,66,1116,Cloudy,Weather,G39,T2,242,Sunday,March,Delayed
+FL1705,Emirates,BLR,MAA,01-04-2025,21:42:56,61,10:43:00,67,230,550,Clear,Late Aircraft,G3,T1,256,Monday,September,Delayed
+FL1706,Akasa Air,DEL,SIN,09-07-2024,12:54:14,28,08:58:47,60,341,1467,Cloudy,Crew Issue,G25,T3,205,Tuesday,January,Delayed
+FL1707,Akasa Air,HYD,CCU,10-07-2024,10:39:49,72,14:07:38,62,152,804,Storm,Late Aircraft,G22,T1,167,Wednesday,July,Delayed
+FL1708,Akasa Air,BLR,SIN,16-04-2026,07:09:05,156,20:39:29,164,206,4308,Fog,Technical,G45,T2,320,Friday,September,Delayed
+FL1709,SpiceJet,BOM,HYD,07-06-2024,11:48:38,130,09:54:06,130,240,3289,Cloudy,Weather,G30,T3,106,Tuesday,October,Delayed
+FL1710,Akasa Air,MAA,SIN,28-07-2024,18:59:00,145,05:06:50,182,253,4107,Rain,Crew Issue,G8,T1,71,Tuesday,October,Delayed
+FL1711,Emirates,MAA,DXB,01-08-2025,11:45:27,5,23:35:34,6,298,2639,Storm,Air Traffic,G15,T1,269,Tuesday,August,On-Time
+FL1712,SpiceJet,BLR,DEL,29-08-2025,23:08:00,115,19:46:37,153,232,4477,Fog,Technical,G2,T1,94,Saturday,April,Delayed
+FL1713,Vistara,CCU,BLR,12-05-2025,03:04:24,78,18:21:39,87,280,934,Storm,Weather,G42,T1,270,Saturday,June,Delayed
+FL1714,Akasa Air,BOM,DXB,01-02-2026,00:39:59,66,20:57:25,74,62,505,Fog,Late Aircraft,G40,T2,108,Friday,September,Delayed
+FL1715,Emirates,MAA,HYD,25-07-2024,15:23:14,61,09:15:03,54,119,3190,Storm,Air Traffic,G31,T3,156,Saturday,February,Delayed
+FL1716,Air India,HYD,BLR,03-08-2025,10:52:37,95,07:09:01,111,294,1197,Cloudy,Crew Issue,G49,T2,208,Sunday,June,Delayed
+FL1717,Vistara,SIN,DXB,13-08-2025,22:02:24,123,17:18:56,146,266,2255,Cloudy,Weather,G8,T3,250,Tuesday,August,Delayed
+FL1718,IndiGo,MAA,BOM,27-06-2024,10:39:06,57,17:54:02,83,354,1803,Cloudy,Late Aircraft,G17,T2,260,Tuesday,March,Delayed
+FL1719,SpiceJet,MAA,BOM,17-08-2025,22:51:59,43,21:26:09,61,118,4978,Cloudy,Late Aircraft,G28,T1,314,Saturday,April,Delayed
+FL1720,SpiceJet,DXB,SIN,19-03-2026,22:04:32,126,09:25:18,143,274,1290,Clear,Crew Issue,G3,T3,326,Thursday,August,Delayed
+FL1721,Air India,BLR,CCU,05-11-2025,10:31:27,63,20:59:41,78,351,789,Storm,Weather,G37,T1,294,Monday,March,Delayed
+FL1722,Emirates,MAA,BOM,06-09-2025,00:22:15,61,22:16:26,92,229,3816,Cloudy,Weather,G13,T3,316,Tuesday,January,Delayed
+FL1723,Air India,MAA,BLR,19-09-2025,11:24:10,53,21:24:50,58,67,915,Cloudy,Crew Issue,G40,T3,286,Friday,November,Delayed
+FL1724,Emirates,DEL,DXB,22-05-2025,13:06:46,129,05:41:56,148,281,949,Fog,Weather,G44,T1,256,Thursday,October,Delayed
+FL1725,Vistara,SIN,DXB,15-03-2026,20:37:03,79,19:44:54,85,277,2861,Rain,Technical,G12,T2,328,Friday,March,Delayed
+FL1726,Emirates,MAA,CCU,23-10-2024,05:19:49,145,03:38:04,166,121,4177,Cloudy,Air Traffic,G47,T1,244,Saturday,November,Delayed
+FL1727,Akasa Air,CCU,BLR,17-01-2025,04:09:17,165,09:30:10,157,281,4551,Cloudy,Weather,G21,T1,159,Thursday,July,Delayed
+FL1728,IndiGo,MAA,DEL,10-07-2025,11:46:45,12,22:05:56,28,337,3346,Rain,Security,G15,T3,256,Saturday,July,On-Time
+FL1729,IndiGo,MAA,CCU,30-03-2025,15:22:42,131,08:22:56,152,338,3234,Rain,Crew Issue,G6,T3,253,Friday,January,Delayed
+FL1730,Vistara,BOM,DEL,20-11-2024,11:45:50,160,08:18:41,177,316,4048,Rain,Security,G22,T3,119,Sunday,January,Delayed
+FL1731,Vistara,DXB,HYD,25-07-2024,02:39:40,124,08:30:28,134,155,1840,Fog,Weather,G46,T3,227,Friday,July,Delayed
+FL1732,Vistara,BLR,SIN,08-04-2025,17:01:24,175,20:51:28,170,276,2403,Storm,Air Traffic,G46,T3,236,Sunday,December,Delayed
+FL1733,Air India,BOM,HYD,05-12-2025,02:14:13,156,10:29:49,152,163,4472,Fog,Crew Issue,G38,T1,307,Sunday,February,Delayed
+FL1734,Akasa Air,HYD,CCU,10-01-2025,05:19:44,7,12:35:12,7,241,4139,Storm,Air Traffic,G38,T1,225,Monday,December,On-Time
+FL1735,Akasa Air,DEL,CCU,26-10-2024,14:59:51,26,04:34:09,35,199,598,Clear,Security,G31,T1,140,Thursday,November,Delayed
+FL1736,Qatar Airways,BLR,DXB,06-09-2024,03:50:11,60,13:41:18,59,222,4746,Fog,Crew Issue,G15,T2,302,Monday,March,Delayed
+FL1737,Akasa Air,DXB,CCU,07-11-2025,04:01:04,12,11:49:04,50,350,2806,Fog,Air Traffic,G21,T3,340,Thursday,October,On-Time
+FL1738,SpiceJet,CCU,HYD,08-02-2025,03:59:42,85,17:54:47,112,173,3804,Storm,Technical,G32,T2,232,Friday,September,Delayed
+FL1739,SpiceJet,SIN,BOM,27-01-2026,13:15:33,98,19:40:47,90,267,3496,Cloudy,Security,G10,T2,74,Wednesday,May,Delayed
+FL1740,Emirates,CCU,SIN,19-09-2024,17:05:18,67,15:55:47,85,78,3030,Storm,Late Aircraft,G2,T1,123,Sunday,November,Delayed
+FL1741,Air India,BOM,DXB,03-07-2024,07:57:51,60,07:49:17,92,212,2558,Storm,Late Aircraft,G23,T1,188,Monday,April,Delayed
+FL1742,SpiceJet,DXB,SIN,25-08-2024,21:09:52,109,08:04:24,132,242,2887,Cloudy,Security,G5,T3,240,Saturday,December,Delayed
+FL1743,Vistara,DEL,MAA,14-03-2026,13:01:36,58,06:25:33,52,110,3127,Clear,Weather,G4,T1,295,Thursday,October,Delayed
+FL1744,IndiGo,DXB,DEL,22-12-2024,08:34:02,112,18:36:09,143,225,1337,Fog,Technical,G11,T2,337,Monday,October,Delayed
+FL1745,Vistara,DEL,DXB,25-02-2026,02:23:53,138,03:03:05,145,214,1398,Storm,Security,G21,T3,182,Friday,May,Delayed
+FL1746,Qatar Airways,DEL,SIN,10-05-2024,02:54:48,86,04:37:35,116,118,3204,Rain,Late Aircraft,G41,T2,231,Thursday,January,Delayed
+FL1747,Emirates,BLR,SIN,26-08-2024,02:32:40,149,18:25:41,157,123,1978,Cloudy,Air Traffic,G40,T1,263,Monday,October,Delayed
+FL1748,Air India,BLR,CCU,21-07-2024,16:52:31,174,21:01:09,180,152,2777,Clear,Air Traffic,G14,T1,161,Saturday,January,Delayed
+FL1749,SpiceJet,MAA,DEL,13-04-2025,09:37:35,160,17:26:19,192,266,1619,Storm,Air Traffic,G20,T3,271,Thursday,July,Delayed
+FL1750,IndiGo,BLR,CCU,24-04-2026,17:05:37,165,14:10:40,157,215,3555,Clear,Weather,G26,T3,143,Wednesday,December,Delayed
+FL1751,Qatar Airways,CCU,MAA,25-02-2025,08:43:02,12,11:02:04,14,352,1244,Fog,Technical,G38,T3,341,Tuesday,August,On-Time
+FL1752,IndiGo,DXB,HYD,14-03-2026,08:20:23,25,10:49:03,25,358,3521,Fog,Technical,G20,T2,57,Friday,February,Delayed
+FL1753,SpiceJet,BOM,CCU,06-03-2026,11:47:39,28,12:33:49,57,268,2687,Fog,Weather,G16,T3,284,Wednesday,September,Delayed
+FL1754,Vistara,HYD,DXB,05-06-2025,00:05:02,6,11:34:38,11,104,1254,Storm,Security,G47,T2,204,Sunday,April,On-Time
+FL1755,Vistara,CCU,SIN,31-03-2026,20:38:38,87,14:47:50,85,238,2559,Storm,Security,G37,T1,283,Thursday,February,Delayed
+FL1756,Vistara,HYD,DEL,28-09-2024,10:59:49,118,02:01:06,115,266,2954,Rain,Late Aircraft,G30,T3,325,Tuesday,June,Delayed
+FL1757,Akasa Air,DXB,MAA,12-01-2025,09:30:45,123,01:35:56,151,178,4156,Cloudy,Weather,G42,T3,60,Sunday,May,Delayed
+FL1758,IndiGo,BLR,MAA,07-11-2025,06:36:01,97,12:10:14,136,130,2711,Storm,Late Aircraft,G34,T3,300,Sunday,June,Delayed
+FL1759,Air India,BOM,CCU,08-10-2024,22:11:59,19,15:23:49,58,275,4959,Storm,Air Traffic,G15,T2,133,Tuesday,October,Delayed
+FL1760,Emirates,HYD,BOM,15-11-2024,20:27:35,130,22:47:22,156,185,2340,Rain,Crew Issue,G40,T3,121,Tuesday,April,Delayed
+FL1761,SpiceJet,BLR,SIN,29-11-2025,12:04:34,39,14:53:35,72,115,2242,Rain,Technical,G40,T1,159,Sunday,April,Delayed
+FL1762,Qatar Airways,CCU,BOM,18-10-2024,09:13:24,135,13:54:11,153,115,1383,Clear,Weather,G10,T1,88,Saturday,November,Delayed
+FL1763,IndiGo,SIN,HYD,12-02-2026,01:23:46,27,20:17:06,65,184,1336,Cloudy,Weather,G32,T2,85,Wednesday,October,Delayed
+FL1764,Akasa Air,CCU,BLR,10-12-2025,01:47:06,100,18:38:35,115,145,3887,Fog,Crew Issue,G31,T1,215,Sunday,September,Delayed
+FL1765,Air India,HYD,BLR,27-04-2026,06:27:09,126,19:41:26,139,337,4013,Cloudy,Technical,G31,T1,60,Friday,July,Delayed
+FL1766,IndiGo,SIN,HYD,26-03-2025,00:35:52,45,08:21:59,66,249,2800,Cloudy,Air Traffic,G38,T2,315,Sunday,November,Delayed
+FL1767,IndiGo,MAA,HYD,30-06-2025,05:11:23,167,16:38:43,202,171,3516,Cloudy,Crew Issue,G1,T2,296,Saturday,January,Delayed
+FL1768,Air India,DEL,DXB,05-11-2025,02:22:09,56,13:46:33,87,240,525,Storm,Security,G9,T1,327,Wednesday,June,Delayed
+FL1769,Akasa Air,HYD,BOM,16-08-2024,13:18:14,140,17:52:08,154,235,829,Fog,Technical,G12,T2,155,Thursday,October,Delayed
+FL1770,Air India,CCU,MAA,22-02-2025,05:12:44,14,07:08:57,18,226,3196,Storm,Crew Issue,G32,T1,89,Thursday,December,On-Time
+FL1771,Qatar Airways,CCU,MAA,22-03-2026,16:35:07,147,08:08:38,162,278,1144,Storm,Air Traffic,G16,T2,250,Tuesday,October,Delayed
+FL1772,Emirates,MAA,CCU,17-07-2024,04:34:56,75,01:39:39,108,97,1534,Rain,Weather,G7,T3,298,Wednesday,April,Delayed
+FL1773,Vistara,DXB,SIN,13-02-2026,09:29:33,47,04:49:30,54,354,4079,Rain,Technical,G25,T3,273,Tuesday,August,Delayed
+FL1774,Vistara,DEL,MAA,22-08-2025,00:56:45,61,19:04:27,90,288,2181,Storm,Technical,G14,T3,144,Friday,September,Delayed
+FL1775,Vistara,CCU,SIN,20-12-2024,00:54:44,53,02:16:11,46,98,3192,Fog,Air Traffic,G32,T3,236,Sunday,October,Delayed
+FL1776,IndiGo,DEL,HYD,21-06-2024,21:23:56,165,10:22:34,182,112,2057,Rain,Weather,G3,T1,180,Sunday,May,Delayed
+FL1777,Emirates,SIN,DXB,23-02-2025,13:51:45,149,02:42:29,170,259,2594,Clear,Crew Issue,G8,T3,234,Wednesday,May,Delayed
+FL1778,Akasa Air,CCU,MAA,09-04-2026,20:37:12,5,07:38:15,8,91,3982,Cloudy,Air Traffic,G10,T2,305,Monday,July,On-Time
+FL1779,Qatar Airways,BOM,BLR,03-10-2025,16:37:46,75,19:31:58,113,346,648,Cloudy,Technical,G5,T3,239,Friday,November,Delayed
+FL1780,SpiceJet,MAA,SIN,25-03-2025,00:35:23,51,19:21:12,65,186,2634,Fog,Air Traffic,G21,T3,299,Friday,August,Delayed
+FL1781,Vistara,SIN,DEL,23-05-2025,19:02:08,83,13:57:16,111,72,2986,Cloudy,Air Traffic,G42,T2,163,Saturday,March,Delayed
+FL1782,Qatar Airways,MAA,DXB,18-11-2025,15:01:54,176,04:51:54,185,264,636,Fog,Crew Issue,G36,T3,322,Friday,October,Delayed
+FL1783,IndiGo,DXB,SIN,02-02-2026,13:03:59,151,18:38:08,148,278,4504,Clear,Technical,G23,T2,223,Tuesday,June,Delayed
+FL1784,SpiceJet,CCU,DXB,04-01-2026,12:52:40,71,09:47:04,68,170,3046,Fog,Security,G13,T3,278,Thursday,May,Delayed
+FL1785,Qatar Airways,SIN,DXB,27-10-2025,14:01:12,155,10:38:14,169,248,3643,Fog,Late Aircraft,G2,T3,295,Friday,August,Delayed
+FL1786,Air India,DXB,BOM,22-07-2025,05:46:09,144,12:06:55,163,72,797,Clear,Technical,G29,T3,287,Tuesday,November,Delayed
+FL1787,Emirates,HYD,DXB,22-03-2026,18:12:32,93,06:53:09,100,328,1947,Clear,Technical,G17,T1,165,Thursday,February,Delayed
+FL1788,Vistara,BOM,DEL,14-04-2026,20:19:58,142,11:42:03,140,239,3061,Cloudy,Weather,G44,T1,102,Sunday,July,Delayed
+FL1789,SpiceJet,BOM,DEL,09-03-2025,18:16:05,127,08:19:14,146,196,2017,Cloudy,Technical,G47,T1,50,Saturday,July,Delayed
+FL1790,Air India,HYD,BOM,21-11-2025,16:08:30,43,11:01:30,67,157,4091,Fog,Crew Issue,G9,T3,337,Tuesday,March,Delayed
+FL1791,IndiGo,MAA,DEL,26-07-2025,17:16:21,14,21:50:03,15,296,3251,Fog,Air Traffic,G8,T2,204,Thursday,September,On-Time
+FL1792,Vistara,HYD,CCU,30-04-2026,14:56:44,11,19:13:52,1,166,3603,Rain,Late Aircraft,G42,T3,239,Tuesday,October,On-Time
+FL1793,Emirates,SIN,CCU,19-05-2024,03:49:20,114,02:00:10,114,162,1804,Cloudy,Crew Issue,G32,T3,270,Saturday,November,Delayed
+FL1794,Vistara,HYD,MAA,31-05-2024,04:12:59,84,03:13:23,113,115,4785,Cloudy,Technical,G22,T1,151,Thursday,May,Delayed
+FL1795,SpiceJet,CCU,BLR,07-09-2024,17:36:01,164,18:27:12,198,251,798,Rain,Air Traffic,G8,T1,282,Monday,September,Delayed
+FL1796,SpiceJet,MAA,BLR,04-03-2025,12:09:28,176,20:46:58,200,198,1116,Storm,Security,G21,T1,164,Saturday,August,Delayed
+FL1797,IndiGo,SIN,MAA,17-03-2025,07:51:56,62,02:23:09,91,215,2342,Storm,Air Traffic,G17,T3,55,Tuesday,January,Delayed
+FL1798,Vistara,CCU,BOM,05-03-2025,16:21:43,146,18:54:31,173,87,4333,Cloudy,Crew Issue,G38,T2,168,Tuesday,March,Delayed
+FL1799,Vistara,DXB,SIN,14-06-2025,04:07:08,36,10:55:48,29,273,3589,Rain,Air Traffic,G49,T1,348,Thursday,November,Delayed
+FL1800,Qatar Airways,BLR,CCU,07-05-2024,19:25:03,163,02:18:10,165,117,3659,Cloudy,Late Aircraft,G17,T3,154,Wednesday,May,Delayed
+FL1801,Air India,HYD,BLR,07-12-2025,07:15:54,82,08:24:07,106,297,2261,Clear,Technical,G18,T1,345,Wednesday,February,Delayed
+FL1802,Vistara,SIN,HYD,10-10-2025,17:16:53,96,11:19:32,97,267,4305,Fog,Late Aircraft,G44,T3,186,Thursday,April,Delayed
+FL1803,Air India,CCU,DEL,15-11-2025,05:36:00,110,20:11:44,115,243,3658,Clear,Security,G24,T1,191,Tuesday,February,Delayed
+FL1804,Air India,HYD,MAA,27-08-2025,06:06:44,24,09:58:18,47,126,1573,Storm,Late Aircraft,G24,T1,167,Tuesday,February,Delayed
+FL1805,Vistara,MAA,DEL,14-02-2026,06:43:38,72,19:26:47,87,69,4547,Rain,Air Traffic,G5,T2,244,Wednesday,August,Delayed
+FL1806,Emirates,CCU,BLR,22-02-2026,06:38:41,26,08:46:11,31,172,570,Clear,Air Traffic,G35,T1,154,Sunday,March,Delayed
+FL1807,Qatar Airways,DEL,BLR,02-04-2026,19:17:35,43,00:06:42,58,234,2698,Storm,Weather,G20,T3,189,Thursday,March,Delayed
+FL1808,SpiceJet,BLR,SIN,19-05-2025,12:07:48,131,17:14:36,143,235,2530,Storm,Weather,G48,T1,178,Sunday,December,Delayed
+FL1809,Qatar Airways,BLR,HYD,19-05-2024,11:42:37,88,11:25:01,79,217,4270,Storm,Technical,G21,T3,165,Monday,April,Delayed
+FL1810,Qatar Airways,SIN,CCU,16-10-2025,11:13:19,115,21:58:10,142,312,3514,Clear,Security,G46,T3,74,Tuesday,August,Delayed
+FL1811,SpiceJet,DXB,CCU,01-08-2025,21:27:31,20,21:36:39,33,129,2972,Fog,Technical,G43,T3,161,Saturday,January,Delayed
+FL1812,Vistara,BOM,BLR,19-01-2026,06:22:49,107,10:37:55,143,150,829,Fog,Technical,G21,T2,276,Monday,November,Delayed
+FL1813,Air India,BLR,DEL,01-07-2025,05:47:59,103,20:33:28,115,251,2286,Storm,Air Traffic,G40,T1,291,Tuesday,May,Delayed
+FL1814,Qatar Airways,BOM,HYD,22-01-2025,04:46:12,137,20:59:45,151,239,1308,Rain,Weather,G8,T1,252,Friday,December,Delayed
+FL1815,Akasa Air,SIN,CCU,11-05-2024,19:43:30,60,13:37:45,54,296,2016,Rain,Air Traffic,G37,T1,105,Tuesday,March,Delayed
+FL1816,Emirates,SIN,DEL,01-10-2025,10:04:34,101,21:47:38,119,256,884,Cloudy,Air Traffic,G48,T3,51,Monday,January,Delayed
+FL1817,Air India,CCU,DXB,02-04-2026,13:39:26,103,21:04:47,122,326,2311,Cloudy,Weather,G44,T1,139,Thursday,April,Delayed
+FL1818,Qatar Airways,CCU,HYD,26-10-2025,06:17:27,122,15:26:25,119,279,4261,Fog,Crew Issue,G30,T3,152,Tuesday,January,Delayed
+FL1819,Emirates,DXB,MAA,03-03-2026,19:59:51,161,12:34:16,181,111,1911,Rain,Air Traffic,G1,T1,327,Thursday,December,Delayed
+FL1820,SpiceJet,SIN,HYD,26-11-2024,04:26:37,39,23:17:21,65,170,2732,Cloudy,Late Aircraft,G1,T2,298,Tuesday,October,Delayed
+FL1821,SpiceJet,MAA,CCU,25-12-2024,23:20:53,169,20:13:07,179,268,4417,Fog,Late Aircraft,G38,T2,148,Wednesday,October,Delayed
+FL1822,Akasa Air,MAA,DEL,04-05-2026,04:44:05,7,09:26:18,43,332,4924,Rain,Crew Issue,G26,T2,190,Sunday,May,On-Time
+FL1823,IndiGo,CCU,BLR,03-07-2025,07:28:15,144,01:05:28,171,137,4824,Cloudy,Crew Issue,G6,T3,212,Tuesday,January,Delayed
+FL1824,Akasa Air,CCU,SIN,13-06-2025,11:01:35,109,01:36:19,112,298,371,Rain,Air Traffic,G15,T3,332,Monday,November,Delayed
+FL1825,Akasa Air,DXB,BOM,16-04-2026,13:53:02,12,14:12:00,50,304,1315,Storm,Security,G35,T1,109,Friday,May,On-Time
+FL1826,Emirates,CCU,BLR,16-08-2024,08:45:57,5,06:08:38,0,117,706,Fog,Weather,G25,T1,75,Friday,November,On-Time
+FL1827,Qatar Airways,BOM,DEL,06-04-2026,15:18:36,46,04:29:03,40,79,4785,Rain,Technical,G6,T1,108,Tuesday,February,Delayed
+FL1828,IndiGo,SIN,BOM,05-09-2025,16:31:34,145,09:24:16,138,332,4921,Clear,Security,G14,T3,62,Sunday,July,Delayed
+FL1829,Akasa Air,SIN,HYD,25-03-2025,05:04:38,134,01:00:36,167,78,4970,Cloudy,Air Traffic,G43,T1,288,Wednesday,April,Delayed
+FL1830,Air India,BOM,DEL,18-03-2026,15:15:31,162,04:55:55,168,159,1998,Storm,Weather,G32,T2,171,Sunday,November,Delayed
+FL1831,Akasa Air,DEL,BLR,10-07-2025,18:33:23,175,14:22:57,208,204,3698,Storm,Air Traffic,G43,T3,99,Monday,October,Delayed
+FL1832,IndiGo,HYD,CCU,25-05-2025,03:24:11,64,21:48:29,88,347,3512,Clear,Air Traffic,G6,T1,177,Tuesday,September,Delayed
+FL1833,Emirates,BOM,DEL,16-02-2025,05:13:52,141,06:46:34,167,298,4207,Rain,Security,G40,T2,236,Tuesday,April,Delayed
+FL1834,Emirates,BLR,CCU,24-09-2025,16:25:05,143,22:28:04,136,343,2584,Rain,Security,G2,T3,336,Friday,July,Delayed
+FL1835,Emirates,BOM,SIN,24-05-2025,14:34:34,2,18:41:05,0,339,4154,Cloudy,Air Traffic,G43,T3,208,Thursday,December,On-Time
+FL1836,Air India,DXB,DEL,21-10-2024,22:52:51,44,02:56:46,35,323,3875,Rain,Security,G44,T2,152,Friday,June,Delayed
+FL1837,Akasa Air,MAA,CCU,14-07-2024,10:35:23,124,13:00:45,129,345,1781,Storm,Air Traffic,G38,T2,195,Friday,June,Delayed
+FL1838,Qatar Airways,CCU,BLR,06-11-2025,17:41:22,113,04:28:32,107,280,722,Storm,Late Aircraft,G34,T2,220,Friday,April,Delayed
+FL1839,Qatar Airways,BLR,HYD,07-08-2024,02:37:46,125,15:42:54,159,210,752,Cloudy,Late Aircraft,G30,T2,171,Wednesday,August,Delayed
+FL1840,IndiGo,SIN,BLR,26-03-2025,17:12:59,107,13:35:40,100,152,3266,Clear,Air Traffic,G6,T3,337,Monday,September,Delayed
+FL1841,IndiGo,MAA,BLR,10-04-2025,19:48:05,105,13:23:19,112,330,1747,Fog,Technical,G32,T1,278,Sunday,June,Delayed
+FL1842,Qatar Airways,DEL,SIN,24-06-2024,07:26:16,5,00:43:10,42,165,4022,Fog,Security,G43,T3,145,Friday,October,On-Time
+FL1843,IndiGo,MAA,DEL,18-04-2025,10:10:24,131,14:42:01,124,356,1278,Storm,Air Traffic,G5,T1,263,Tuesday,May,Delayed
+FL1844,Air India,CCU,HYD,30-07-2024,20:47:03,34,21:21:13,45,252,4351,Rain,Air Traffic,G22,T2,296,Monday,October,Delayed
+FL1845,Air India,DXB,HYD,07-02-2026,22:53:46,10,21:16:44,12,310,2423,Clear,Late Aircraft,G23,T2,319,Sunday,August,On-Time
+FL1846,Qatar Airways,MAA,HYD,25-04-2025,16:34:26,17,07:17:04,55,310,1140,Cloudy,Weather,G23,T3,251,Saturday,May,Delayed
+FL1847,Qatar Airways,DEL,DXB,29-08-2024,10:11:51,82,16:23:06,118,128,3231,Cloudy,Crew Issue,G23,T1,79,Sunday,January,Delayed
+FL1848,Qatar Airways,CCU,MAA,16-05-2025,20:28:28,24,10:14:15,41,296,2715,Storm,Crew Issue,G47,T1,74,Sunday,April,Delayed
+FL1849,Qatar Airways,DEL,DXB,15-11-2024,12:44:59,73,04:04:41,76,153,4770,Storm,Weather,G41,T2,74,Friday,January,Delayed
+FL1850,Akasa Air,CCU,HYD,17-12-2025,10:56:00,77,22:13:33,101,175,2395,Rain,Air Traffic,G34,T3,315,Saturday,April,Delayed
+FL1851,Emirates,MAA,DEL,23-12-2025,21:10:52,98,22:55:01,98,70,1920,Storm,Crew Issue,G21,T3,263,Friday,September,Delayed
+FL1852,Vistara,BOM,MAA,27-05-2025,20:27:58,172,12:10:20,168,268,3241,Fog,Crew Issue,G2,T1,170,Tuesday,June,Delayed
+FL1853,Akasa Air,BOM,HYD,30-07-2025,02:06:50,41,01:59:58,48,113,3366,Clear,Security,G11,T2,321,Wednesday,February,Delayed
+FL1854,Vistara,DXB,HYD,14-12-2025,12:32:53,17,07:41:27,41,246,2181,Rain,Technical,G16,T2,311,Friday,April,Delayed
+FL1855,Emirates,SIN,BLR,04-12-2025,08:31:13,107,10:28:54,139,298,2645,Cloudy,Technical,G12,T3,237,Friday,December,Delayed
+FL1856,IndiGo,BLR,BOM,26-02-2026,01:49:12,76,23:34:09,69,305,2630,Fog,Crew Issue,G15,T2,121,Saturday,October,Delayed
+FL1857,Emirates,BOM,DEL,23-06-2024,00:11:52,6,11:46:49,42,122,2359,Storm,Crew Issue,G13,T2,303,Wednesday,April,On-Time
+FL1858,Akasa Air,CCU,MAA,01-04-2026,20:52:35,42,10:25:20,48,122,4648,Clear,Air Traffic,G17,T1,341,Wednesday,October,Delayed
+FL1859,Air India,SIN,HYD,27-04-2025,20:03:57,7,08:41:40,1,149,3151,Storm,Weather,G28,T1,167,Tuesday,November,On-Time
+FL1860,Qatar Airways,CCU,BOM,16-03-2026,17:33:48,92,15:25:14,128,135,1225,Clear,Weather,G23,T3,319,Monday,April,Delayed
+FL1861,Qatar Airways,MAA,SIN,20-04-2025,18:15:52,70,18:45:12,104,239,3495,Fog,Weather,G37,T2,334,Saturday,February,Delayed
+FL1862,Vistara,HYD,BLR,31-08-2025,07:18:57,142,10:02:39,167,334,4856,Clear,Air Traffic,G42,T1,70,Saturday,September,Delayed
+FL1863,Akasa Air,BLR,BOM,05-03-2025,16:02:10,63,19:50:48,89,86,584,Cloudy,Air Traffic,G20,T3,330,Thursday,October,Delayed
+FL1864,Emirates,MAA,DXB,11-01-2026,23:49:23,69,21:34:06,94,283,1083,Clear,Crew Issue,G18,T3,79,Saturday,September,Delayed
+FL1865,Air India,DEL,BLR,24-04-2026,23:43:53,44,22:56:18,52,93,3798,Clear,Air Traffic,G29,T1,71,Sunday,December,Delayed
+FL1866,Vistara,HYD,DEL,04-04-2025,19:48:56,179,23:08:42,215,290,3706,Clear,Weather,G20,T2,58,Saturday,May,Delayed
+FL1867,IndiGo,CCU,SIN,20-09-2024,06:20:55,31,21:48:06,24,109,2173,Clear,Air Traffic,G5,T3,175,Thursday,April,Delayed
+FL1868,Emirates,DXB,HYD,08-09-2025,20:50:57,74,22:30:08,100,337,2277,Clear,Air Traffic,G4,T2,349,Sunday,October,Delayed
+FL1869,Air India,BOM,MAA,24-01-2026,17:44:58,33,00:11:49,35,357,2482,Cloudy,Crew Issue,G4,T3,196,Saturday,January,Delayed
+FL1870,Akasa Air,DEL,MAA,24-05-2025,07:12:11,158,10:08:42,182,248,2762,Fog,Air Traffic,G19,T2,144,Thursday,December,Delayed
+FL1871,SpiceJet,MAA,DEL,26-09-2024,17:32:48,31,11:59:03,22,246,2207,Fog,Air Traffic,G10,T3,179,Wednesday,April,Delayed
+FL1872,IndiGo,HYD,SIN,29-08-2025,02:37:09,59,19:55:48,72,332,443,Fog,Crew Issue,G16,T1,294,Friday,May,Delayed
+FL1873,SpiceJet,BLR,BOM,20-01-2025,06:04:11,158,23:48:06,190,147,2476,Storm,Late Aircraft,G11,T1,53,Monday,December,Delayed
+FL1874,Emirates,DXB,HYD,03-02-2026,07:16:32,70,15:54:52,85,154,4092,Cloudy,Late Aircraft,G33,T3,96,Tuesday,July,Delayed
+FL1875,Air India,BLR,CCU,25-08-2024,01:30:31,105,15:34:15,101,165,1431,Storm,Air Traffic,G19,T3,345,Wednesday,August,Delayed
+FL1876,Emirates,MAA,BOM,16-01-2025,13:42:56,49,11:05:07,81,254,311,Rain,Security,G3,T3,332,Saturday,April,Delayed
+FL1877,Emirates,MAA,BLR,21-06-2024,03:36:21,112,18:09:05,103,203,2377,Cloudy,Technical,G20,T2,215,Sunday,March,Delayed
+FL1878,IndiGo,MAA,BLR,22-08-2025,10:36:50,27,04:20:57,41,155,743,Cloudy,Security,G42,T3,345,Monday,March,Delayed
+FL1879,Air India,CCU,SIN,04-03-2025,20:52:04,76,22:06:05,106,101,2650,Clear,Air Traffic,G37,T2,295,Thursday,May,Delayed
+FL1880,Qatar Airways,SIN,CCU,21-04-2026,16:37:29,21,02:59:07,30,301,2710,Fog,Technical,G27,T1,90,Monday,March,Delayed
+FL1881,Qatar Airways,MAA,DEL,08-10-2024,21:58:40,79,18:12:45,102,219,3972,Cloudy,Security,G2,T2,61,Friday,October,Delayed
+FL1882,Air India,BLR,CCU,24-06-2024,01:23:29,167,08:21:17,165,135,2181,Rain,Late Aircraft,G9,T1,59,Wednesday,February,Delayed
+FL1883,Akasa Air,SIN,BOM,10-08-2024,11:00:30,95,09:37:56,118,235,4455,Cloudy,Crew Issue,G2,T3,173,Saturday,June,Delayed
+FL1884,Vistara,MAA,SIN,16-07-2024,14:46:00,163,05:09:14,176,218,4964,Storm,Crew Issue,G14,T1,243,Tuesday,April,Delayed
+FL1885,Vistara,BLR,DEL,15-07-2025,07:54:08,28,06:58:34,32,71,2960,Clear,Air Traffic,G28,T2,174,Tuesday,December,Delayed
+FL1886,Air India,BLR,SIN,02-08-2024,23:40:17,102,14:19:59,115,169,3193,Clear,Technical,G37,T2,195,Sunday,October,Delayed
+FL1887,SpiceJet,SIN,CCU,22-08-2024,06:08:42,141,00:29:16,164,187,2661,Storm,Technical,G12,T2,199,Thursday,January,Delayed
+FL1888,SpiceJet,DXB,CCU,27-08-2025,15:38:05,35,22:08:53,69,81,2986,Storm,Security,G16,T3,266,Friday,October,Delayed
+FL1889,IndiGo,DEL,CCU,15-05-2024,20:44:39,95,08:20:26,117,223,4543,Storm,Crew Issue,G18,T1,343,Tuesday,September,Delayed
+FL1890,IndiGo,DXB,CCU,27-04-2026,12:26:26,150,19:54:18,171,182,1723,Cloudy,Crew Issue,G5,T3,198,Sunday,November,Delayed
+FL1891,SpiceJet,DEL,MAA,27-04-2026,17:07:09,103,16:13:00,106,290,2314,Storm,Crew Issue,G14,T2,247,Sunday,May,Delayed
+FL1892,Vistara,SIN,BOM,17-05-2025,11:47:44,139,09:55:09,144,146,3513,Fog,Security,G7,T1,95,Saturday,September,Delayed
+FL1893,Qatar Airways,MAA,HYD,17-07-2024,22:01:02,31,21:04:33,35,103,3772,Storm,Weather,G41,T3,93,Friday,February,Delayed
+FL1894,Akasa Air,MAA,SIN,23-02-2026,17:45:19,97,14:32:11,91,168,4166,Cloudy,Technical,G23,T2,153,Thursday,June,Delayed
+FL1895,Air India,SIN,DEL,05-08-2025,03:57:18,122,17:10:02,125,102,1164,Storm,Security,G31,T3,322,Tuesday,August,Delayed
+FL1896,SpiceJet,BOM,BLR,20-07-2024,00:14:02,82,10:46:51,117,249,4354,Rain,Late Aircraft,G32,T3,300,Monday,February,Delayed
+FL1897,Vistara,BOM,DXB,14-03-2026,18:51:25,34,20:05:01,28,260,625,Fog,Weather,G25,T3,144,Saturday,July,Delayed
+FL1898,Akasa Air,MAA,HYD,07-09-2024,20:09:53,21,12:41:22,12,278,1570,Storm,Weather,G1,T1,261,Wednesday,October,Delayed
+FL1899,Qatar Airways,MAA,BOM,11-06-2024,08:56:07,171,21:13:46,183,155,4378,Rain,Technical,G24,T3,103,Monday,July,Delayed
+FL1900,Emirates,HYD,MAA,17-03-2026,13:55:27,15,18:27:07,39,79,1881,Storm,Air Traffic,G3,T3,242,Tuesday,February,On-Time
+FL1901,IndiGo,MAA,BOM,03-06-2024,03:04:10,126,19:58:25,162,188,4296,Cloudy,Air Traffic,G20,T1,57,Thursday,August,Delayed
+FL1902,Qatar Airways,SIN,HYD,06-05-2026,01:38:36,28,03:29:52,65,220,3056,Clear,Security,G27,T2,253,Tuesday,April,Delayed
+FL1903,Vistara,SIN,BLR,02-07-2024,18:31:36,108,05:17:33,117,132,542,Storm,Weather,G19,T3,151,Friday,January,Delayed
+FL1904,SpiceJet,BLR,CCU,06-04-2025,05:24:35,172,21:39:03,204,200,3812,Cloudy,Late Aircraft,G22,T3,101,Sunday,April,Delayed
+FL1905,Air India,DEL,MAA,31-01-2025,12:24:47,110,07:06:37,144,102,2558,Clear,Late Aircraft,G8,T2,249,Monday,March,Delayed
+FL1906,Akasa Air,DEL,DXB,10-06-2025,05:04:03,41,06:42:31,56,299,1349,Cloudy,Air Traffic,G23,T2,348,Monday,January,Delayed
+FL1907,Air India,BOM,HYD,03-11-2024,07:58:48,76,23:59:44,93,196,4606,Rain,Late Aircraft,G48,T2,88,Friday,November,Delayed
+FL1908,Emirates,MAA,HYD,18-02-2025,04:37:12,178,20:39:23,179,266,4362,Cloudy,Air Traffic,G14,T1,316,Monday,May,Delayed
+FL1909,Vistara,CCU,MAA,07-10-2024,16:21:46,153,00:13:58,184,70,3153,Clear,Crew Issue,G34,T3,324,Monday,May,Delayed
+FL1910,IndiGo,SIN,BOM,07-08-2024,03:45:26,133,15:10:14,168,289,1543,Fog,Air Traffic,G1,T3,281,Thursday,September,Delayed
+FL1911,Air India,BLR,DXB,29-03-2025,14:34:55,71,13:46:37,107,322,4662,Cloudy,Weather,G39,T1,203,Friday,December,Delayed
+FL1912,Emirates,BOM,HYD,14-01-2026,09:54:51,101,11:25:11,136,199,3934,Cloudy,Late Aircraft,G37,T2,95,Thursday,October,Delayed
+FL1913,Akasa Air,CCU,MAA,20-03-2026,23:50:57,52,07:12:02,65,267,2212,Cloudy,Security,G13,T2,138,Tuesday,October,Delayed
+FL1914,Emirates,SIN,HYD,13-01-2025,03:29:23,124,06:59:34,117,134,665,Storm,Crew Issue,G11,T1,264,Friday,April,Delayed
+FL1915,IndiGo,HYD,BOM,23-03-2026,02:18:40,172,15:10:31,184,87,1046,Clear,Weather,G47,T2,75,Saturday,February,Delayed
+FL1916,Akasa Air,BLR,SIN,03-08-2025,21:47:57,152,13:51:44,170,223,3129,Storm,Crew Issue,G14,T1,84,Wednesday,June,Delayed
+FL1917,Emirates,BLR,DEL,28-02-2026,22:14:33,29,08:08:33,46,332,3310,Rain,Late Aircraft,G16,T2,287,Wednesday,February,Delayed
+FL1918,Akasa Air,HYD,MAA,16-12-2024,14:46:43,157,00:52:17,175,232,1246,Cloudy,Air Traffic,G38,T1,155,Monday,November,Delayed
+FL1919,Vistara,CCU,MAA,03-04-2025,14:25:01,46,04:14:33,73,146,3890,Cloudy,Security,G22,T1,259,Sunday,March,Delayed
+FL1920,Qatar Airways,BLR,MAA,23-04-2025,23:52:54,168,09:59:54,167,197,1764,Fog,Late Aircraft,G7,T2,279,Thursday,January,Delayed
+FL1921,Air India,MAA,HYD,14-07-2024,17:13:54,51,11:32:45,73,60,1511,Storm,Security,G34,T2,53,Thursday,July,Delayed
+FL1922,Akasa Air,DEL,SIN,19-06-2024,09:58:01,144,12:51:02,137,277,1583,Fog,Security,G1,T3,120,Saturday,June,Delayed
+FL1923,Akasa Air,DEL,MAA,09-09-2025,14:41:03,177,19:41:34,175,248,4686,Fog,Air Traffic,G8,T1,302,Tuesday,May,Delayed
+FL1924,Vistara,DEL,BLR,18-12-2024,13:33:16,151,18:50:18,159,351,1055,Cloudy,Technical,G43,T3,332,Friday,July,Delayed
+FL1925,IndiGo,MAA,CCU,10-12-2025,21:03:31,31,00:06:33,34,205,807,Fog,Late Aircraft,G29,T2,65,Saturday,January,Delayed
+FL1926,IndiGo,HYD,BLR,25-01-2025,17:59:24,98,07:58:44,134,310,3402,Storm,Technical,G4,T2,66,Thursday,May,Delayed
+FL1927,SpiceJet,BLR,CCU,27-07-2024,11:36:34,38,21:17:21,75,98,4015,Rain,Weather,G30,T2,207,Sunday,January,Delayed
+FL1928,Vistara,BLR,DEL,10-10-2024,03:07:06,21,21:56:15,21,125,2455,Cloudy,Weather,G12,T2,271,Friday,March,Delayed
+FL1929,Vistara,BLR,MAA,30-07-2024,10:37:01,35,19:19:50,42,149,992,Cloudy,Air Traffic,G7,T2,302,Tuesday,February,Delayed
+FL1930,Emirates,MAA,BOM,09-12-2024,14:29:07,0,20:26:27,15,146,4120,Clear,Crew Issue,G6,T2,119,Saturday,September,On-Time
+FL1931,SpiceJet,BOM,DEL,12-02-2026,20:41:25,43,15:04:27,40,211,2945,Clear,Late Aircraft,G19,T3,150,Sunday,February,Delayed
+FL1932,IndiGo,CCU,BLR,19-05-2024,21:34:47,145,23:45:02,165,313,2380,Clear,Security,G10,T3,278,Saturday,May,Delayed
+FL1933,Qatar Airways,DEL,CCU,21-04-2026,03:05:41,11,11:20:22,30,214,3794,Fog,Late Aircraft,G9,T1,295,Wednesday,April,On-Time
+FL1934,SpiceJet,BLR,MAA,04-02-2026,06:16:18,148,19:18:09,149,306,1864,Cloudy,Air Traffic,G33,T2,284,Saturday,February,Delayed
+FL1935,Air India,HYD,BOM,22-11-2024,13:39:03,116,11:55:17,120,317,4256,Fog,Weather,G44,T1,323,Friday,September,Delayed
+FL1936,Akasa Air,BOM,MAA,16-07-2025,16:18:31,2,02:54:38,0,230,2071,Fog,Security,G38,T2,235,Wednesday,March,On-Time
+FL1937,Air India,HYD,CCU,13-05-2025,10:47:02,160,05:29:44,193,154,4975,Rain,Weather,G18,T2,245,Friday,June,Delayed
+FL1938,Air India,SIN,DEL,27-05-2025,22:28:37,112,14:02:03,135,152,1773,Clear,Crew Issue,G44,T3,183,Monday,February,Delayed
+FL1939,IndiGo,DXB,DEL,09-08-2025,21:40:13,169,08:46:56,183,244,3456,Storm,Crew Issue,G16,T1,216,Saturday,October,Delayed
+FL1940,SpiceJet,SIN,HYD,05-09-2025,17:55:05,155,11:42:03,176,279,4574,Fog,Air Traffic,G49,T1,314,Saturday,November,Delayed
+FL1941,Qatar Airways,BOM,SIN,06-06-2025,15:05:11,172,13:42:56,183,274,3424,Storm,Security,G32,T1,300,Monday,December,Delayed
+FL1942,Vistara,SIN,DEL,24-12-2024,00:24:53,38,22:57:10,42,182,2202,Fog,Late Aircraft,G3,T3,315,Saturday,August,Delayed
+FL1943,Air India,SIN,BOM,11-06-2024,01:28:58,91,15:59:14,109,94,3889,Rain,Security,G12,T2,160,Wednesday,July,Delayed
+FL1944,Emirates,MAA,DXB,12-11-2025,00:52:22,37,11:02:22,39,206,3438,Fog,Air Traffic,G8,T2,57,Thursday,January,Delayed
+FL1945,IndiGo,BOM,HYD,07-04-2026,20:35:27,121,04:57:39,130,234,2014,Fog,Crew Issue,G21,T2,94,Sunday,March,Delayed
+FL1946,SpiceJet,HYD,SIN,10-08-2024,18:51:33,135,16:23:04,147,75,3566,Cloudy,Security,G48,T1,58,Friday,February,Delayed
+FL1947,Emirates,DXB,SIN,19-05-2024,10:47:01,59,13:47:48,62,74,1138,Clear,Air Traffic,G38,T3,275,Saturday,February,Delayed
+FL1948,Vistara,HYD,CCU,23-03-2026,05:21:06,168,10:37:23,179,172,1751,Storm,Security,G1,T2,315,Tuesday,October,Delayed
+FL1949,Air India,BLR,CCU,20-06-2024,14:38:20,109,06:52:52,106,71,3836,Storm,Crew Issue,G26,T1,328,Wednesday,April,Delayed
+FL1950,Vistara,DXB,SIN,30-05-2025,12:36:25,170,23:39:00,165,84,3561,Cloudy,Air Traffic,G13,T3,92,Saturday,April,Delayed
+FL1951,Emirates,MAA,DXB,01-03-2026,22:25:22,77,18:47:27,94,205,3815,Clear,Late Aircraft,G28,T3,228,Friday,August,Delayed
+FL1952,Akasa Air,BOM,CCU,12-10-2024,08:44:00,55,22:44:42,71,219,4506,Storm,Air Traffic,G9,T3,281,Monday,August,Delayed
+FL1953,Vistara,MAA,BLR,29-09-2024,00:14:54,67,14:39:30,102,308,2331,Clear,Security,G3,T1,55,Saturday,October,Delayed
+FL1954,Vistara,DXB,MAA,04-01-2025,20:07:17,23,22:44:31,60,153,2776,Clear,Weather,G13,T1,246,Sunday,March,Delayed
+FL1955,Air India,DEL,SIN,05-10-2024,00:17:02,24,06:03:23,33,177,1149,Rain,Crew Issue,G47,T3,115,Wednesday,July,Delayed
+FL1956,Air India,SIN,BOM,15-04-2026,11:49:30,44,12:18:01,83,234,2154,Fog,Air Traffic,G12,T3,163,Sunday,November,Delayed
+FL1957,Emirates,HYD,BLR,27-07-2024,17:57:46,110,03:38:22,110,206,4430,Fog,Weather,G39,T3,75,Monday,October,Delayed
+FL1958,Air India,DXB,SIN,10-10-2024,11:24:18,13,05:31:27,47,275,2580,Fog,Weather,G1,T2,100,Friday,January,On-Time
+FL1959,Akasa Air,DEL,DXB,19-04-2025,00:57:59,170,02:49:34,181,210,3646,Fog,Weather,G18,T2,125,Sunday,January,Delayed
+FL1960,Emirates,BLR,HYD,11-02-2026,06:49:01,91,06:20:09,113,87,3238,Cloudy,Crew Issue,G49,T3,86,Wednesday,December,Delayed
+FL1961,Vistara,DXB,BLR,13-05-2025,10:06:26,153,01:52:27,177,157,426,Storm,Security,G35,T1,217,Saturday,March,Delayed
+FL1962,Air India,SIN,BOM,04-01-2025,21:58:24,79,21:03:55,106,185,1666,Cloudy,Crew Issue,G22,T2,65,Sunday,July,Delayed
+FL1963,Qatar Airways,MAA,BLR,04-11-2024,00:16:35,27,23:50:01,64,232,3929,Rain,Technical,G8,T1,285,Monday,November,Delayed
+FL1964,Emirates,DEL,MAA,25-10-2024,16:33:01,84,19:44:22,99,291,4480,Storm,Late Aircraft,G25,T2,114,Tuesday,February,Delayed
+FL1965,Qatar Airways,MAA,DXB,17-12-2025,13:42:06,133,07:07:57,145,174,4459,Storm,Crew Issue,G23,T3,207,Friday,July,Delayed
+FL1966,Akasa Air,MAA,HYD,08-08-2025,05:32:32,76,07:43:07,108,205,3834,Storm,Security,G33,T2,152,Thursday,June,Delayed
+FL1967,Vistara,BLR,BOM,24-08-2025,17:53:28,150,07:53:36,166,147,4830,Cloudy,Weather,G42,T3,184,Thursday,December,Delayed
+FL1968,Akasa Air,BLR,DXB,14-12-2025,18:55:28,49,16:48:57,86,193,1670,Fog,Crew Issue,G9,T3,294,Friday,June,Delayed
+FL1969,Akasa Air,DEL,BOM,10-12-2025,13:47:52,108,01:20:10,128,80,4691,Storm,Late Aircraft,G48,T2,126,Monday,October,Delayed
+FL1970,IndiGo,SIN,CCU,08-06-2025,02:09:16,176,23:29:07,188,207,4129,Rain,Late Aircraft,G28,T3,77,Friday,May,Delayed
+FL1971,IndiGo,SIN,HYD,11-11-2025,06:55:15,168,15:19:10,159,84,4453,Cloudy,Security,G41,T1,183,Tuesday,August,Delayed
+FL1972,Emirates,BOM,DXB,02-08-2024,14:08:35,74,18:40:13,101,134,1977,Cloudy,Security,G2,T2,217,Friday,January,Delayed
+FL1973,Qatar Airways,CCU,HYD,13-04-2026,04:19:07,2,15:22:32,26,284,4035,Clear,Crew Issue,G19,T2,195,Friday,August,On-Time
+FL1974,SpiceJet,CCU,BLR,22-10-2024,18:03:59,115,14:07:52,128,296,1358,Fog,Air Traffic,G1,T1,202,Monday,December,Delayed
+FL1975,Qatar Airways,HYD,DXB,14-06-2025,10:57:48,172,04:11:23,210,185,4886,Cloudy,Air Traffic,G34,T1,275,Saturday,August,Delayed
+FL1976,IndiGo,MAA,CCU,19-12-2024,11:30:40,146,05:36:05,158,270,4923,Fog,Late Aircraft,G9,T3,178,Monday,May,Delayed
+FL1977,Air India,SIN,DEL,25-05-2024,13:41:10,41,05:12:24,49,295,1762,Cloudy,Weather,G18,T2,83,Wednesday,March,Delayed
+FL1978,Qatar Airways,HYD,MAA,27-07-2025,19:41:02,88,17:01:58,122,193,2368,Fog,Weather,G6,T3,97,Monday,October,Delayed
+FL1979,Emirates,MAA,CCU,06-02-2025,10:56:22,38,12:40:44,58,69,2340,Rain,Late Aircraft,G18,T2,137,Wednesday,March,Delayed
+FL1980,Emirates,HYD,SIN,04-02-2025,13:39:30,124,14:38:12,122,74,815,Rain,Crew Issue,G40,T1,58,Sunday,September,Delayed
+FL1981,IndiGo,DEL,BLR,06-12-2025,05:06:37,108,09:31:12,106,213,1711,Rain,Security,G17,T1,321,Sunday,August,Delayed
+FL1982,Vistara,DXB,SIN,06-04-2025,08:56:38,142,15:59:19,166,128,3632,Rain,Late Aircraft,G20,T2,128,Saturday,November,Delayed
+FL1983,Akasa Air,MAA,BOM,14-09-2024,09:36:16,145,12:32:23,181,317,3976,Fog,Weather,G13,T3,309,Wednesday,February,Delayed
+FL1984,Vistara,DEL,MAA,27-10-2024,02:02:49,169,10:48:23,203,248,366,Storm,Crew Issue,G48,T2,240,Thursday,December,Delayed
+FL1985,Emirates,BLR,HYD,16-08-2024,08:16:13,109,16:46:28,107,176,2614,Storm,Crew Issue,G35,T2,347,Tuesday,September,Delayed
+FL1986,SpiceJet,DXB,DEL,07-01-2026,18:30:05,140,20:29:01,165,200,3639,Storm,Crew Issue,G37,T3,123,Wednesday,September,Delayed
+FL1987,Akasa Air,DEL,BOM,22-12-2025,14:55:18,72,09:32:05,68,189,2081,Fog,Crew Issue,G23,T3,152,Saturday,May,Delayed
+FL1988,SpiceJet,CCU,MAA,17-09-2025,10:15:09,39,13:19:06,67,210,4040,Clear,Air Traffic,G14,T3,228,Friday,July,Delayed
+FL1989,Emirates,SIN,DXB,04-06-2024,10:26:04,88,04:36:57,108,335,3095,Rain,Late Aircraft,G17,T3,179,Friday,April,Delayed
+FL1990,Emirates,CCU,DXB,26-03-2026,16:44:59,152,02:16:59,154,181,3218,Rain,Air Traffic,G28,T3,155,Monday,November,Delayed
+FL1991,IndiGo,DEL,SIN,15-05-2024,09:36:36,118,06:26:29,113,254,3045,Clear,Crew Issue,G35,T1,131,Friday,February,Delayed
+FL1992,Air India,SIN,MAA,04-10-2024,01:22:10,74,05:35:53,83,251,624,Fog,Air Traffic,G19,T1,263,Monday,January,Delayed
+FL1993,Akasa Air,BOM,DEL,05-02-2026,15:49:48,58,07:05:21,66,203,4779,Rain,Security,G24,T3,64,Monday,December,Delayed
+FL1994,Qatar Airways,BOM,DEL,10-11-2024,09:46:13,34,19:36:43,37,159,2652,Cloudy,Technical,G25,T2,193,Saturday,November,Delayed
+FL1995,Emirates,MAA,DEL,12-07-2024,02:26:20,110,09:56:54,139,238,3955,Rain,Air Traffic,G18,T2,269,Thursday,November,Delayed
+FL1996,Vistara,BOM,DXB,30-10-2025,22:24:50,79,22:24:46,87,101,1596,Fog,Crew Issue,G45,T3,56,Saturday,June,Delayed
+FL1997,Qatar Airways,HYD,BOM,08-06-2025,15:33:37,154,06:21:42,153,93,4292,Clear,Air Traffic,G6,T1,264,Thursday,July,Delayed
+FL1998,SpiceJet,CCU,DEL,06-03-2025,11:55:37,133,02:44:46,151,185,1762,Fog,Technical,G17,T2,223,Monday,August,Delayed
+FL1999,Vistara,BLR,CCU,26-06-2025,21:16:04,151,20:16:53,151,85,3754,Rain,Late Aircraft,G34,T2,333,Monday,March,Delayed
+FL2000,Akasa Air,DXB,BOM,11-11-2025,10:58:30,130,20:35:55,130,225,987,Clear,Crew Issue,G21,T3,103,Wednesday,February,Delayed
+FL2001,IndiGo,DEL,BOM,24-08-2024,06:04:53,102,04:43:11,121,238,2111,Cloudy,Late Aircraft,G48,T2,273,Sunday,August,Delayed
+FL2002,Air India,DEL,HYD,02-09-2024,20:53:28,58,21:21:06,54,168,4268,Clear,Weather,G29,T3,240,Thursday,May,Delayed
+FL2003,SpiceJet,MAA,DXB,24-04-2026,05:48:39,55,07:07:54,48,94,678,Storm,Security,G3,T1,295,Friday,December,Delayed
+FL2004,Vistara,SIN,BLR,02-01-2025,08:20:22,103,12:18:55,99,342,2054,Storm,Late Aircraft,G16,T1,279,Friday,April,Delayed
+FL2005,Emirates,DEL,HYD,25-03-2025,16:00:19,171,09:31:12,183,100,989,Storm,Weather,G36,T3,214,Friday,June,Delayed
+FL2006,SpiceJet,CCU,DXB,02-02-2025,09:03:02,126,10:32:17,132,286,3803,Storm,Weather,G5,T3,97,Saturday,February,Delayed
+FL2007,Qatar Airways,CCU,HYD,19-06-2025,03:58:41,2,06:25:06,38,158,415,Fog,Weather,G14,T2,302,Sunday,May,On-Time
+FL2008,Akasa Air,BLR,BOM,04-05-2025,08:44:18,60,04:19:47,80,154,3239,Clear,Crew Issue,G24,T3,165,Tuesday,May,Delayed
+FL2009,Emirates,DXB,DEL,20-09-2024,15:16:59,150,03:24:16,157,109,3869,Fog,Crew Issue,G15,T1,128,Saturday,August,Delayed
+FL2010,IndiGo,BLR,BOM,16-03-2025,03:59:28,69,07:06:33,85,330,4957,Rain,Weather,G36,T3,296,Friday,April,Delayed
+FL2011,IndiGo,SIN,BLR,21-12-2024,03:08:31,7,11:17:52,11,249,1283,Cloudy,Late Aircraft,G40,T2,238,Thursday,September,On-Time
+FL2012,IndiGo,SIN,DEL,21-09-2025,18:37:19,159,19:11:05,178,300,1324,Fog,Weather,G34,T2,128,Sunday,December,Delayed
+FL2013,IndiGo,DEL,HYD,03-11-2024,18:55:43,77,18:56:10,95,157,1405,Rain,Late Aircraft,G7,T3,241,Friday,August,Delayed
+FL2014,Akasa Air,MAA,DXB,19-12-2024,21:32:11,152,08:37:11,179,73,4787,Rain,Weather,G27,T1,258,Saturday,March,Delayed
+FL2015,IndiGo,SIN,CCU,23-10-2025,21:22:09,100,07:00:40,103,148,3939,Storm,Security,G30,T1,142,Tuesday,December,Delayed
+FL2016,Air India,MAA,DEL,18-05-2024,16:59:06,83,17:16:10,93,304,1345,Clear,Air Traffic,G35,T1,321,Thursday,October,Delayed
+FL2017,Akasa Air,MAA,SIN,03-08-2024,18:20:02,49,17:14:26,87,332,741,Clear,Weather,G2,T1,181,Thursday,October,Delayed
+FL2018,Qatar Airways,BLR,DEL,10-05-2024,10:37:54,84,01:31:43,112,140,4031,Rain,Crew Issue,G16,T2,154,Sunday,December,Delayed
+FL2019,IndiGo,DXB,MAA,26-06-2024,05:59:53,164,09:45:45,193,260,1749,Cloudy,Security,G2,T1,314,Wednesday,April,Delayed
+FL2020,Air India,DEL,CCU,28-06-2025,14:55:59,106,08:34:17,131,273,3021,Fog,Weather,G29,T1,300,Wednesday,March,Delayed
+FL2021,Emirates,DXB,BOM,12-09-2025,05:00:53,109,16:27:11,131,77,2674,Fog,Security,G1,T1,146,Thursday,April,Delayed
+FL2022,IndiGo,DEL,MAA,24-05-2024,08:04:02,0,01:10:08,13,191,3631,Cloudy,Crew Issue,G18,T1,332,Monday,August,On-Time
+FL2023,IndiGo,BOM,DEL,18-01-2025,04:35:18,170,04:21:10,191,220,2631,Rain,Weather,G42,T3,154,Saturday,October,Delayed
+FL2024,Emirates,HYD,BLR,14-01-2026,20:49:56,69,17:46:52,74,349,3221,Storm,Late Aircraft,G24,T1,105,Tuesday,March,Delayed
+FL2025,Vistara,HYD,CCU,22-05-2025,16:27:25,112,15:19:59,114,77,3041,Storm,Technical,G13,T1,162,Friday,December,Delayed
+FL2026,Air India,DEL,CCU,18-02-2025,17:09:57,170,03:35:58,198,248,725,Storm,Security,G17,T1,128,Saturday,May,Delayed
+FL2027,IndiGo,CCU,BLR,17-02-2025,08:00:01,145,00:04:46,157,241,798,Cloudy,Technical,G30,T1,299,Monday,September,Delayed
+FL2028,SpiceJet,BOM,CCU,20-03-2026,23:20:20,97,00:44:52,90,130,445,Cloudy,Security,G42,T1,312,Thursday,November,Delayed
+FL2029,IndiGo,BLR,MAA,21-11-2025,18:49:32,39,15:46:55,34,252,4188,Rain,Weather,G43,T1,334,Saturday,August,Delayed
+FL2030,Air India,SIN,BOM,29-09-2025,10:20:41,148,07:05:00,163,68,2167,Clear,Weather,G42,T3,233,Wednesday,May,Delayed
+FL2031,SpiceJet,BLR,HYD,09-05-2024,09:07:32,178,13:13:16,173,187,2879,Fog,Security,G24,T2,114,Monday,February,Delayed
+FL2032,Air India,DEL,CCU,07-02-2026,22:19:47,112,03:50:28,125,142,4068,Rain,Weather,G35,T2,111,Friday,February,Delayed
+FL2033,Emirates,BOM,MAA,02-10-2024,08:52:45,29,16:16:51,47,81,4854,Storm,Security,G20,T3,175,Wednesday,July,Delayed
+FL2034,Emirates,BLR,DXB,16-01-2025,10:03:48,156,12:55:21,186,101,2957,Fog,Technical,G1,T1,80,Wednesday,April,Delayed
+FL2035,Emirates,BOM,MAA,19-07-2024,05:52:07,157,17:55:09,194,306,421,Storm,Technical,G17,T2,343,Tuesday,February,Delayed
+FL2036,Vistara,SIN,HYD,28-08-2024,13:57:44,141,12:37:06,153,266,1433,Clear,Crew Issue,G22,T1,105,Tuesday,October,Delayed
+FL2037,Vistara,SIN,BOM,21-01-2026,03:06:02,118,05:47:21,126,116,1805,Fog,Technical,G35,T2,163,Saturday,April,Delayed
+FL2038,Air India,CCU,MAA,27-09-2024,15:08:05,124,13:25:39,114,257,2256,Fog,Technical,G1,T1,228,Saturday,October,Delayed
+FL2039,Air India,DEL,BLR,15-11-2025,02:31:16,128,18:57:57,144,336,1851,Clear,Crew Issue,G44,T2,110,Thursday,March,Delayed
+FL2040,SpiceJet,CCU,BOM,27-05-2024,08:20:04,53,17:19:48,82,85,3195,Cloudy,Technical,G28,T3,114,Friday,March,Delayed
+FL2041,Vistara,BLR,DEL,16-05-2024,19:24:12,99,07:51:19,98,251,4260,Cloudy,Crew Issue,G23,T1,230,Friday,August,Delayed
+FL2042,IndiGo,SIN,MAA,10-07-2024,12:50:47,70,20:51:01,103,221,1304,Storm,Late Aircraft,G4,T1,255,Tuesday,June,Delayed
+FL2043,Air India,DXB,HYD,13-11-2024,22:58:20,77,06:27:00,82,155,3006,Cloudy,Technical,G2,T3,59,Monday,July,Delayed
+FL2044,Vistara,DEL,BOM,04-06-2024,22:33:18,177,02:20:31,183,199,2161,Cloudy,Weather,G22,T2,337,Friday,July,Delayed
+FL2045,Qatar Airways,SIN,DXB,17-01-2026,23:17:27,104,06:16:23,113,188,737,Clear,Crew Issue,G47,T2,107,Tuesday,February,Delayed
+FL2046,Emirates,DEL,DXB,12-04-2026,13:52:57,145,04:54:32,140,104,3468,Storm,Technical,G23,T1,72,Wednesday,May,Delayed
+FL2047,IndiGo,BLR,DXB,23-07-2024,08:19:31,153,05:58:28,155,103,326,Clear,Crew Issue,G26,T3,146,Wednesday,March,Delayed
+FL2048,Akasa Air,SIN,DXB,04-08-2025,13:42:55,35,05:20:21,69,114,1003,Cloudy,Weather,G27,T2,234,Thursday,March,Delayed
+FL2049,Qatar Airways,DXB,BOM,28-11-2025,10:02:45,68,23:27:43,59,114,4994,Fog,Late Aircraft,G38,T2,168,Saturday,November,Delayed
+FL2050,Emirates,DEL,SIN,02-01-2026,03:58:48,77,07:52:01,95,213,3918,Clear,Crew Issue,G15,T3,116,Wednesday,September,Delayed
+FL2051,Vistara,DEL,BLR,18-02-2026,12:01:33,86,07:10:44,104,93,3028,Fog,Late Aircraft,G23,T3,120,Friday,October,Delayed
+FL2052,Emirates,BLR,SIN,20-12-2025,11:44:04,2,21:21:16,23,346,2941,Clear,Security,G43,T2,154,Saturday,January,On-Time
+FL2053,IndiGo,CCU,DEL,23-03-2026,22:58:25,0,14:26:16,3,239,2059,Storm,Air Traffic,G6,T2,152,Friday,January,On-Time
+FL2054,Air India,CCU,MAA,31-08-2024,01:57:07,9,01:08:05,5,149,4621,Cloudy,Late Aircraft,G30,T1,277,Friday,December,On-Time
+FL2055,SpiceJet,BLR,BOM,12-08-2025,12:41:18,148,15:38:12,154,156,2421,Rain,Security,G47,T1,219,Saturday,August,Delayed
+FL2056,Emirates,BLR,SIN,15-02-2026,13:51:19,50,20:19:19,51,115,1019,Rain,Air Traffic,G41,T2,81,Wednesday,September,Delayed
+FL2057,IndiGo,DXB,MAA,13-03-2025,06:50:42,14,18:04:24,30,343,4203,Clear,Air Traffic,G46,T2,236,Thursday,August,On-Time
+FL2058,Emirates,BOM,HYD,26-10-2025,11:57:19,129,13:51:36,154,173,2360,Cloudy,Late Aircraft,G15,T3,138,Wednesday,August,Delayed
+FL2059,Emirates,CCU,SIN,23-04-2025,03:20:04,21,22:11:50,36,262,2421,Clear,Technical,G25,T2,150,Monday,February,Delayed
+FL2060,SpiceJet,DXB,BOM,01-12-2024,04:51:19,175,01:24:11,207,176,3537,Clear,Weather,G41,T1,169,Wednesday,February,Delayed
+FL2061,Air India,MAA,HYD,30-05-2025,03:54:20,96,21:20:11,102,275,2576,Rain,Security,G2,T3,186,Monday,May,Delayed
+FL2062,Akasa Air,DXB,CCU,26-04-2026,06:41:19,67,22:59:39,73,332,4512,Rain,Crew Issue,G48,T2,143,Thursday,August,Delayed
+FL2063,Air India,DEL,BLR,18-06-2024,09:12:09,167,03:37:28,167,208,1224,Clear,Weather,G24,T1,123,Sunday,September,Delayed
+FL2064,Akasa Air,CCU,BLR,22-03-2025,20:01:38,108,11:48:23,114,333,795,Fog,Late Aircraft,G20,T3,150,Sunday,June,Delayed
+FL2065,Emirates,SIN,HYD,20-09-2024,06:16:52,44,10:06:22,51,76,2420,Cloudy,Security,G14,T2,206,Thursday,May,Delayed
+FL2066,SpiceJet,MAA,SIN,28-08-2025,06:58:22,131,07:44:51,138,106,3576,Rain,Air Traffic,G15,T1,204,Thursday,June,Delayed
+FL2067,Qatar Airways,HYD,SIN,24-07-2024,15:56:23,14,20:08:50,31,306,4926,Clear,Technical,G26,T2,75,Wednesday,August,On-Time
+FL2068,Air India,MAA,CCU,19-01-2025,23:42:38,153,03:26:52,168,233,4487,Cloudy,Air Traffic,G49,T1,230,Tuesday,December,Delayed
+FL2069,Air India,MAA,BOM,23-06-2024,13:21:36,130,15:32:04,121,357,1086,Clear,Weather,G17,T2,125,Friday,March,Delayed
+FL2070,SpiceJet,SIN,MAA,01-02-2026,08:58:53,176,05:21:37,168,108,4962,Rain,Technical,G26,T3,249,Saturday,January,Delayed
+FL2071,Air India,CCU,MAA,24-01-2025,15:34:42,51,18:16:19,76,177,1369,Fog,Crew Issue,G46,T3,238,Tuesday,September,Delayed
+FL2072,IndiGo,HYD,DEL,17-12-2024,13:00:15,53,21:35:39,43,108,2811,Storm,Crew Issue,G16,T1,249,Thursday,June,Delayed
+FL2073,Emirates,MAA,DEL,30-04-2026,05:40:43,156,04:09:28,184,193,4543,Cloudy,Security,G16,T2,120,Saturday,December,Delayed
+FL2074,SpiceJet,HYD,BLR,17-05-2024,23:08:38,77,08:03:59,109,213,4485,Cloudy,Late Aircraft,G14,T1,248,Sunday,October,Delayed
+FL2075,Emirates,SIN,MAA,11-02-2026,06:01:37,160,08:52:04,175,180,600,Clear,Late Aircraft,G20,T2,112,Monday,March,Delayed
+FL2076,IndiGo,BOM,BLR,28-01-2026,08:47:27,179,18:07:48,172,312,4293,Storm,Security,G11,T1,51,Thursday,June,Delayed
+FL2077,IndiGo,BOM,BLR,01-03-2025,06:21:13,141,17:44:44,174,345,1463,Cloudy,Late Aircraft,G26,T1,93,Friday,September,Delayed
+FL2078,Qatar Airways,BLR,SIN,20-04-2025,09:02:41,160,18:33:50,162,137,2051,Fog,Technical,G34,T1,285,Monday,September,Delayed
+FL2079,Emirates,SIN,CCU,13-08-2024,03:25:03,25,02:19:52,35,125,3093,Clear,Security,G9,T2,136,Tuesday,August,Delayed
+FL2080,Akasa Air,CCU,HYD,06-11-2025,10:14:30,78,22:16:38,80,338,1599,Cloudy,Weather,G46,T3,232,Wednesday,July,Delayed
+FL2081,Qatar Airways,MAA,DXB,17-04-2025,18:08:29,11,05:45:35,40,159,377,Storm,Air Traffic,G16,T2,211,Wednesday,January,On-Time
+FL2082,SpiceJet,HYD,MAA,09-05-2024,09:19:08,43,17:29:26,78,193,2296,Fog,Crew Issue,G36,T3,327,Monday,April,Delayed
+FL2083,Vistara,SIN,CCU,30-10-2025,01:14:15,17,09:39:35,18,239,4518,Storm,Air Traffic,G30,T1,100,Sunday,December,Delayed
+FL2084,Vistara,DXB,CCU,29-04-2026,10:41:18,70,03:51:01,91,107,2097,Rain,Security,G20,T3,204,Monday,March,Delayed
+FL2085,Vistara,BLR,MAA,02-10-2025,09:31:48,52,19:52:19,84,194,742,Cloudy,Air Traffic,G5,T1,60,Friday,July,Delayed
+FL2086,Vistara,BOM,DEL,25-07-2025,10:31:23,142,15:47:32,134,128,834,Fog,Crew Issue,G37,T1,58,Friday,August,Delayed
+FL2087,Air India,MAA,BOM,17-02-2025,05:02:47,14,15:58:51,6,152,4800,Storm,Air Traffic,G8,T3,198,Thursday,January,On-Time
+FL2088,Akasa Air,HYD,SIN,29-01-2026,23:47:48,120,19:40:54,120,165,771,Fog,Crew Issue,G35,T3,168,Saturday,August,Delayed
+FL2089,Qatar Airways,BLR,DEL,22-11-2024,21:50:30,13,15:18:12,16,325,4023,Clear,Technical,G38,T2,168,Wednesday,November,On-Time
+FL2090,Emirates,SIN,DEL,11-09-2024,06:33:29,33,05:26:47,63,69,2236,Fog,Crew Issue,G17,T1,272,Thursday,December,Delayed
+FL2091,IndiGo,BLR,DEL,06-08-2025,01:12:15,114,14:08:10,104,327,1170,Fog,Crew Issue,G4,T1,155,Friday,December,Delayed
+FL2092,Vistara,CCU,HYD,09-09-2025,14:36:01,84,17:03:03,95,180,3503,Cloudy,Crew Issue,G18,T2,246,Saturday,November,Delayed
+FL2093,Qatar Airways,SIN,CCU,10-11-2024,02:10:56,18,07:51:15,9,71,629,Clear,Air Traffic,G34,T3,311,Saturday,October,Delayed
+FL2094,SpiceJet,DEL,SIN,24-12-2024,02:21:14,135,22:44:44,135,199,2867,Rain,Security,G11,T1,173,Tuesday,June,Delayed
+FL2095,Air India,SIN,CCU,25-06-2024,05:58:57,52,19:44:05,77,69,4864,Fog,Technical,G20,T1,161,Wednesday,June,Delayed
+FL2096,SpiceJet,DXB,CCU,03-08-2025,05:31:40,7,02:09:42,32,312,1051,Clear,Air Traffic,G21,T2,198,Friday,November,On-Time
+FL2097,Air India,BOM,CCU,08-06-2024,02:30:39,49,12:34:46,68,226,3391,Rain,Weather,G24,T3,184,Sunday,March,Delayed
+FL2098,SpiceJet,CCU,SIN,07-09-2024,04:43:06,136,00:06:56,126,353,1569,Fog,Air Traffic,G44,T3,135,Saturday,December,Delayed
+FL2099,Akasa Air,CCU,DEL,01-07-2024,21:36:31,43,16:27:10,42,204,541,Cloudy,Air Traffic,G38,T1,100,Monday,March,Delayed
+FL2100,Qatar Airways,HYD,MAA,01-03-2026,04:24:23,9,14:25:55,6,307,369,Storm,Crew Issue,G21,T2,106,Tuesday,February,On-Time
+FL2101,Akasa Air,BLR,BOM,16-08-2024,18:17:08,125,10:07:10,153,348,3079,Rain,Technical,G32,T3,347,Friday,December,Delayed
+FL2102,Vistara,BOM,HYD,21-10-2024,10:38:21,26,01:48:59,25,169,1316,Clear,Weather,G42,T1,81,Monday,August,Delayed
+FL2103,Emirates,CCU,MAA,21-12-2024,20:31:37,25,06:28:36,39,338,1037,Fog,Technical,G40,T2,336,Friday,September,Delayed
+FL2104,Emirates,CCU,BOM,26-04-2026,01:36:00,63,19:51:09,59,291,4684,Fog,Weather,G21,T3,307,Sunday,February,Delayed
+FL2105,Qatar Airways,BLR,BOM,26-04-2026,07:28:55,17,08:46:08,53,288,895,Rain,Late Aircraft,G35,T1,295,Wednesday,March,Delayed
+FL2106,IndiGo,BLR,BOM,09-11-2025,05:45:45,145,12:33:16,180,313,2435,Storm,Late Aircraft,G8,T1,79,Monday,January,Delayed
+FL2107,Vistara,SIN,DXB,07-10-2024,18:01:28,171,13:20:02,170,236,438,Clear,Technical,G2,T1,235,Monday,November,Delayed
+FL2108,IndiGo,DEL,HYD,21-02-2025,09:40:11,163,08:53:47,185,72,4179,Fog,Weather,G25,T1,91,Wednesday,November,Delayed
+FL2109,IndiGo,DEL,SIN,06-08-2024,04:04:41,146,08:23:47,153,288,1253,Clear,Security,G23,T1,300,Friday,April,Delayed
+FL2110,SpiceJet,MAA,DXB,23-01-2026,09:40:28,53,19:49:37,58,199,845,Clear,Weather,G8,T1,67,Sunday,December,Delayed
+FL2111,SpiceJet,HYD,CCU,14-01-2026,05:22:08,56,15:07:32,93,64,3781,Fog,Technical,G30,T3,231,Sunday,December,Delayed
+FL2112,Akasa Air,BLR,CCU,07-05-2025,14:47:17,12,09:52:47,20,344,2963,Clear,Weather,G12,T3,157,Sunday,January,On-Time
+FL2113,Air India,BLR,DXB,16-03-2026,13:20:58,155,23:38:40,162,136,3329,Fog,Technical,G12,T3,307,Monday,December,Delayed
+FL2114,Akasa Air,BOM,MAA,02-08-2024,00:50:26,126,19:06:24,152,341,3459,Storm,Air Traffic,G12,T3,65,Friday,March,Delayed
+FL2115,IndiGo,SIN,CCU,10-02-2026,14:10:45,150,22:55:20,179,313,628,Rain,Air Traffic,G32,T2,320,Thursday,April,Delayed
+FL2116,IndiGo,BLR,HYD,18-01-2025,19:49:04,140,00:04:50,134,228,954,Fog,Weather,G42,T2,297,Monday,September,Delayed
+FL2117,Qatar Airways,MAA,HYD,17-09-2024,18:47:44,126,01:28:47,122,99,3271,Fog,Late Aircraft,G32,T2,304,Friday,December,Delayed
+FL2118,SpiceJet,DEL,BOM,16-12-2024,16:45:23,142,23:57:36,179,287,2176,Storm,Weather,G6,T2,114,Wednesday,August,Delayed
+FL2119,Qatar Airways,HYD,DXB,13-01-2026,00:11:42,131,05:15:50,131,167,4421,Storm,Technical,G37,T3,200,Thursday,May,Delayed
+FL2120,Qatar Airways,DXB,BOM,16-01-2025,21:28:09,84,00:58:00,121,296,1308,Clear,Crew Issue,G27,T3,200,Wednesday,March,Delayed
+FL2121,Vistara,DEL,DXB,18-06-2025,21:03:27,122,16:48:13,127,248,554,Clear,Crew Issue,G4,T2,153,Friday,November,Delayed
+FL2122,Air India,BOM,DEL,08-04-2026,23:17:03,79,01:29:49,99,359,4752,Storm,Crew Issue,G48,T3,269,Friday,February,Delayed
+FL2123,SpiceJet,MAA,DEL,23-05-2024,08:44:07,8,12:17:06,9,303,4065,Rain,Air Traffic,G28,T1,148,Friday,July,On-Time
+FL2124,Qatar Airways,BOM,MAA,08-04-2026,11:12:13,109,04:50:30,132,162,2965,Storm,Late Aircraft,G45,T2,107,Wednesday,December,Delayed
+FL2125,Qatar Airways,HYD,SIN,27-08-2025,09:49:58,77,13:26:47,77,101,721,Storm,Air Traffic,G4,T2,230,Saturday,October,Delayed
+FL2126,Akasa Air,DXB,BLR,28-07-2025,10:25:57,32,06:22:31,28,115,1523,Fog,Technical,G37,T2,305,Monday,February,Delayed
+FL2127,Vistara,HYD,BLR,12-08-2025,18:11:15,50,00:01:04,49,230,954,Rain,Late Aircraft,G38,T1,310,Monday,February,Delayed
+FL2128,IndiGo,DEL,SIN,20-07-2024,11:18:56,82,07:38:45,81,63,4285,Storm,Late Aircraft,G16,T1,341,Tuesday,July,Delayed
+FL2129,SpiceJet,CCU,BOM,12-01-2026,20:22:32,24,00:11:48,36,157,1743,Cloudy,Security,G37,T1,58,Sunday,February,Delayed
+FL2130,Vistara,SIN,DXB,27-02-2025,05:09:35,60,23:19:38,67,122,4386,Rain,Air Traffic,G34,T3,154,Thursday,August,Delayed
+FL2131,SpiceJet,HYD,CCU,01-06-2024,13:28:38,3,21:01:26,21,314,4824,Cloudy,Security,G15,T1,77,Sunday,January,On-Time
+FL2132,Vistara,DXB,DEL,18-04-2026,10:38:55,169,08:52:14,174,135,3440,Storm,Air Traffic,G34,T2,283,Thursday,August,Delayed
+FL2133,Air India,DEL,BOM,20-12-2024,04:52:35,0,06:14:19,28,277,2715,Cloudy,Late Aircraft,G27,T2,223,Saturday,March,On-Time
+FL2134,Air India,SIN,BLR,03-11-2024,03:14:35,169,18:59:11,197,149,4956,Fog,Late Aircraft,G38,T2,199,Thursday,February,Delayed
+FL2135,Akasa Air,SIN,CCU,03-11-2025,13:41:50,131,05:56:57,169,118,1135,Cloudy,Security,G7,T2,264,Thursday,September,Delayed
+FL2136,IndiGo,MAA,CCU,25-06-2025,19:49:22,129,07:52:46,167,291,546,Storm,Air Traffic,G31,T2,288,Friday,July,Delayed
+FL2137,SpiceJet,CCU,SIN,26-04-2026,16:31:08,158,11:58:40,194,227,2907,Fog,Weather,G43,T1,147,Friday,January,Delayed
+FL2138,SpiceJet,MAA,SIN,11-04-2026,20:22:57,176,14:18:44,191,139,3738,Fog,Late Aircraft,G13,T3,76,Monday,November,Delayed
+FL2139,IndiGo,CCU,BLR,22-02-2026,17:44:06,157,22:11:30,182,254,3364,Storm,Air Traffic,G49,T2,125,Thursday,June,Delayed
+FL2140,Air India,DEL,DXB,09-05-2024,15:28:17,54,01:53:56,64,255,4234,Rain,Technical,G44,T3,235,Wednesday,October,Delayed
+FL2141,IndiGo,BOM,DXB,08-07-2024,11:24:56,86,19:14:10,95,266,2498,Fog,Weather,G28,T2,65,Tuesday,January,Delayed
+FL2142,Vistara,CCU,DEL,18-06-2024,20:54:09,164,15:04:11,174,204,3357,Storm,Security,G37,T3,94,Thursday,May,Delayed
+FL2143,Vistara,DEL,DXB,22-05-2025,01:27:54,145,21:15:58,148,121,2767,Cloudy,Weather,G36,T2,68,Thursday,October,Delayed
+FL2144,Akasa Air,DXB,MAA,15-01-2026,09:11:06,108,18:15:35,141,66,4132,Clear,Crew Issue,G44,T1,166,Saturday,November,Delayed
+FL2145,Vistara,BLR,MAA,12-05-2025,01:07:37,67,18:18:34,90,253,4450,Cloudy,Late Aircraft,G10,T2,91,Tuesday,October,Delayed
+FL2146,Vistara,HYD,MAA,07-07-2025,10:47:29,40,06:42:44,42,290,752,Rain,Crew Issue,G10,T3,59,Sunday,February,Delayed
+FL2147,SpiceJet,BLR,MAA,03-02-2025,01:26:22,101,17:21:58,117,187,3038,Clear,Air Traffic,G21,T3,242,Thursday,April,Delayed
+FL2148,Qatar Airways,BOM,DXB,05-04-2026,02:45:41,91,20:27:06,129,290,3449,Cloudy,Weather,G21,T3,79,Wednesday,May,Delayed
+FL2149,Qatar Airways,BOM,CCU,24-02-2026,07:48:23,48,14:46:00,46,204,4464,Cloudy,Crew Issue,G31,T2,345,Tuesday,June,Delayed
+FL2150,Qatar Airways,BOM,DXB,17-11-2025,22:00:32,165,20:49:18,197,122,2494,Fog,Security,G36,T2,210,Thursday,November,Delayed
+FL2151,Vistara,CCU,BOM,22-12-2024,17:39:38,140,08:35:40,143,156,745,Storm,Air Traffic,G29,T3,92,Friday,August,Delayed
+FL2152,Emirates,MAA,DEL,02-10-2025,07:09:32,176,14:34:06,201,167,3637,Cloudy,Technical,G31,T3,311,Thursday,April,Delayed
+FL2153,Emirates,SIN,MAA,06-10-2024,02:27:26,56,13:33:49,46,130,4325,Cloudy,Security,G27,T2,70,Friday,December,Delayed
+FL2154,Air India,DEL,CCU,09-01-2025,07:45:36,91,14:32:30,96,297,1282,Fog,Crew Issue,G20,T1,231,Tuesday,March,Delayed
+FL2155,Vistara,HYD,SIN,08-01-2026,02:29:10,24,06:05:22,41,64,2112,Storm,Air Traffic,G18,T1,247,Saturday,April,Delayed
+FL2156,Qatar Airways,DXB,MAA,04-02-2025,05:14:33,56,18:19:40,74,78,1707,Fog,Late Aircraft,G33,T1,242,Wednesday,November,Delayed
+FL2157,Air India,BLR,HYD,09-04-2026,13:52:16,130,10:34:28,161,336,851,Clear,Technical,G3,T1,202,Monday,April,Delayed
+FL2158,Vistara,HYD,BLR,17-11-2025,07:27:30,126,05:28:55,160,114,3031,Cloudy,Crew Issue,G45,T2,233,Saturday,January,Delayed
+FL2159,SpiceJet,BLR,BOM,14-04-2026,01:03:39,111,17:33:49,123,257,672,Rain,Weather,G13,T2,136,Sunday,May,Delayed
+FL2160,Qatar Airways,MAA,DXB,22-11-2025,05:59:04,80,04:32:40,71,334,803,Clear,Late Aircraft,G7,T2,167,Sunday,January,Delayed
+FL2161,IndiGo,DEL,SIN,19-06-2024,10:49:57,41,11:16:41,72,335,2676,Fog,Security,G17,T2,332,Sunday,February,Delayed
+FL2162,Emirates,DXB,MAA,25-01-2025,18:46:13,174,07:00:02,165,122,4969,Clear,Crew Issue,G36,T3,68,Sunday,March,Delayed
+FL2163,Akasa Air,BLR,DEL,17-06-2024,02:37:50,16,09:26:49,10,305,3110,Cloudy,Weather,G7,T3,130,Saturday,October,Delayed
+FL2164,IndiGo,HYD,BLR,02-11-2025,20:50:09,38,18:34:11,63,256,503,Rain,Security,G4,T1,265,Sunday,June,Delayed
+FL2165,Akasa Air,CCU,SIN,06-07-2024,22:55:33,28,10:49:28,26,255,606,Storm,Late Aircraft,G24,T3,63,Tuesday,July,Delayed
+FL2166,IndiGo,BLR,BOM,28-05-2024,17:22:59,68,04:25:46,75,116,1022,Rain,Technical,G12,T2,259,Thursday,July,Delayed
+FL2167,Akasa Air,HYD,SIN,08-01-2025,17:32:20,16,16:24:02,35,262,3982,Clear,Crew Issue,G23,T3,258,Wednesday,December,Delayed
+FL2168,Akasa Air,BOM,BLR,16-11-2024,23:34:29,128,06:57:14,132,347,2599,Storm,Crew Issue,G9,T3,320,Tuesday,May,Delayed
+FL2169,Vistara,MAA,BLR,11-09-2025,21:25:23,155,04:09:53,168,247,2344,Fog,Air Traffic,G35,T1,263,Saturday,October,Delayed
+FL2170,Emirates,DEL,SIN,29-11-2024,05:33:27,26,01:49:32,34,135,3692,Clear,Late Aircraft,G21,T3,158,Tuesday,May,Delayed
+FL2171,Emirates,DXB,MAA,17-02-2026,03:30:09,128,01:21:43,127,106,2150,Fog,Late Aircraft,G32,T1,152,Friday,April,Delayed
+FL2172,IndiGo,SIN,BLR,28-06-2025,10:48:30,123,10:26:25,134,205,2203,Storm,Air Traffic,G46,T2,76,Monday,April,Delayed
+FL2173,Qatar Airways,HYD,BOM,03-10-2025,07:10:05,17,04:50:01,45,141,2775,Rain,Crew Issue,G8,T3,303,Wednesday,November,Delayed
+FL2174,IndiGo,DXB,SIN,13-07-2025,14:50:42,161,01:23:39,157,97,2740,Fog,Weather,G9,T2,249,Thursday,December,Delayed
+FL2175,SpiceJet,DXB,SIN,19-04-2025,14:26:41,178,04:30:55,202,141,2736,Storm,Weather,G14,T1,269,Saturday,May,Delayed
+FL2176,Vistara,BOM,BLR,03-09-2024,16:49:07,157,16:11:41,150,226,3839,Cloudy,Late Aircraft,G25,T3,253,Saturday,June,Delayed
+FL2177,IndiGo,SIN,CCU,23-02-2025,12:47:31,149,03:26:24,169,338,703,Clear,Late Aircraft,G38,T3,117,Tuesday,November,Delayed
+FL2178,Emirates,SIN,DXB,26-08-2025,06:57:51,87,19:33:00,101,60,1458,Rain,Weather,G31,T2,189,Tuesday,November,Delayed
+FL2179,Akasa Air,HYD,MAA,11-02-2025,07:25:29,105,16:14:50,99,167,4573,Clear,Weather,G42,T1,195,Tuesday,September,Delayed
+FL2180,Akasa Air,MAA,SIN,08-12-2024,07:06:17,73,03:30:47,77,167,2364,Storm,Air Traffic,G4,T2,346,Thursday,December,Delayed
+FL2181,Air India,MAA,BLR,24-12-2024,22:46:06,118,23:38:24,141,257,3857,Cloudy,Air Traffic,G45,T2,228,Tuesday,February,Delayed
+FL2182,Air India,DXB,MAA,12-11-2025,11:04:27,125,03:16:13,148,103,4154,Storm,Crew Issue,G14,T3,227,Tuesday,January,Delayed
+FL2183,Emirates,DEL,CCU,05-10-2025,23:44:27,100,06:30:42,139,62,2561,Cloudy,Late Aircraft,G22,T1,123,Monday,August,Delayed
+FL2184,Emirates,BLR,MAA,31-10-2025,18:04:06,50,19:24:00,42,152,987,Rain,Weather,G17,T2,56,Friday,July,Delayed
+FL2185,IndiGo,HYD,BOM,15-03-2026,23:04:59,12,16:28:46,3,63,3509,Fog,Technical,G39,T3,137,Monday,January,On-Time
+FL2186,Vistara,DXB,SIN,29-03-2025,16:35:29,16,13:25:30,11,270,624,Storm,Weather,G32,T1,268,Saturday,April,Delayed
+FL2187,Qatar Airways,BLR,SIN,10-07-2024,19:32:50,20,08:37:15,33,63,451,Fog,Air Traffic,G35,T3,308,Thursday,July,Delayed
+FL2188,Qatar Airways,MAA,HYD,02-02-2025,09:38:21,67,16:33:01,93,227,987,Rain,Security,G35,T1,105,Sunday,May,Delayed
+FL2189,Air India,BLR,HYD,29-04-2026,14:04:54,107,22:50:05,121,355,3695,Storm,Technical,G46,T1,190,Wednesday,May,Delayed
+FL2190,Vistara,BLR,CCU,07-01-2025,01:28:15,154,13:29:06,149,332,2067,Rain,Air Traffic,G49,T3,307,Saturday,November,Delayed
+FL2191,IndiGo,SIN,DEL,06-01-2025,04:54:39,76,15:31:21,67,230,4390,Storm,Technical,G26,T2,71,Saturday,July,Delayed
+FL2192,Vistara,BLR,DXB,08-08-2025,01:31:47,110,04:36:21,142,286,3815,Storm,Late Aircraft,G12,T3,265,Wednesday,February,Delayed
+FL2193,IndiGo,BOM,CCU,27-11-2024,07:09:44,68,02:01:33,77,162,3922,Clear,Air Traffic,G13,T1,346,Thursday,June,Delayed
+FL2194,SpiceJet,DEL,BOM,26-02-2026,16:01:03,56,18:42:57,90,327,1848,Cloudy,Security,G10,T2,106,Wednesday,July,Delayed
+FL2195,Akasa Air,CCU,BOM,10-11-2024,04:58:51,39,23:17:07,44,187,472,Clear,Security,G35,T1,308,Wednesday,March,Delayed
+FL2196,Vistara,SIN,MAA,26-05-2024,02:53:32,119,20:24:26,113,277,822,Rain,Weather,G7,T2,166,Saturday,September,Delayed
+FL2197,SpiceJet,DXB,BOM,18-12-2025,10:17:22,137,19:29:09,168,175,2509,Clear,Air Traffic,G3,T1,249,Tuesday,August,Delayed
+FL2198,SpiceJet,HYD,DXB,09-02-2025,20:49:58,30,09:29:11,30,296,4376,Storm,Air Traffic,G2,T2,119,Friday,May,Delayed
+FL2199,Air India,CCU,BLR,19-06-2025,22:09:06,40,05:56:12,61,79,2788,Fog,Late Aircraft,G34,T2,248,Sunday,March,Delayed
